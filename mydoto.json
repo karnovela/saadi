@@ -1,0 +1,91 @@
+[
+  {
+    "meaning": "What is your name?",
+    "german": "Wie heißt du?",
+	"register": "informal",
+    "pronunciation": "vee hyhst doo",
+    "audio": "1",	
+	 },
+  
+  {
+    "meaning": "What is your name?",	
+    "german": "Wie heißen sie?",
+	"register": "formal",
+    "pronunciation": "vee hyh-zen zee",
+    "audio": "2"
+	},
+  
+  {
+    "meaning": "My name is Ahmed.",
+    "german": "Ich heiße Ahmed.",
+	"register": "informal",
+    "pronunciation": "ikh hyss-eh ah-med",
+    "audio": "3"
+  },
+  
+  {
+    "meaning": "Where are you from?",
+    "german_informal": "Woher kommst du?",
+	"register": "informal",
+    "pronunciation": "vo-her kommst doo",
+	"audio": "4"
+	  },
+  
+  {
+    "meaning": "Where are you from?",	
+    "german": "Woher kommen sie?",
+	"register": "formal",
+    "pronunciation": "vo-her kom-men zee",
+	"audio": "5"
+	},
+  
+  {
+    "meaning": "I am from Pakistan.",
+    "german": "Ich komme aus Pakistan.",
+	"register": "informal",
+    "pronunciation": "ikh kom-meh ows pah-kee-stahn",
+    "audio": "6"
+	},
+  {
+    "meaning": "Where do you live?",
+    "german": "Wo wohnst du?",
+	"register": "informal",
+    "pronunciation": "vo vonst doo",
+    "audio": "7",	
+	},
+  {	
+    "meaning": "Where do you live?",
+    "german": "Wo wohnen sie?",
+	"register": "formal",
+    "pronunciation": "vo von-ən zee",
+	 "audio": "8",
+	},
+  {		
+    "meaning": "I live in Karachi.",
+    "german": "Ich wohne in Karachi.",
+	"register": "informal",
+    "pronunciation": "ikh vohn-ə een kar-ah-chee",
+    "audio": "9"
+  },
+  {
+    "meaning": "How old are you?",
+    "german": "Wie alt bist du?",
+	"register": "informal",
+    "pronunciation": "vee alt bist doo",
+    "audio": "10",
+  },
+  {	
+    "meaning": "How old are you?",	
+    "german": "Wie alt sind sie?",
+	"register": "formal",
+    "pronunciation": "vee alt zint zee",
+    "audio": "11",
+  },
+  {	
+    "meaning": "I am 23 years old.",
+    "german": "Ich bin dreiundzwanzig jahre alt.",
+	"register": "informal",
+    "pronunciation": "ikh bin dry-oint-svants-ikh yar-eh alt",
+    "audio": "12"
+  }
+]
