@@ -82,5 +82,398 @@
     "register": "informal",
     "pronunciation": "ikh bin dry-oint-svants-ikh yar-eh alt",
     "audio": "12"
-  }
-]
+  },
+  
+  {
+    "meaning": "ticket",
+    "german": "Eintrittskarte",
+    "register": "formal",
+    "pronunciation": "ine-TRITTS-kar-tuh",
+    "audio": "13"
+  },
+  {
+    "meaning": "train",
+    "german": "Zug",
+    "register": "formal",
+    "pronunciation": "tsuug",
+    "audio": "14"
+  },
+  {
+    "meaning": "where is the bus stop?",
+    "german": "Wo ist die Bushaltestelle?",
+    "register": "formal",
+    "pronunciation": "voh ist dee BOOS-hal-tes-tel-uh",
+    "audio": "15"
+  },
+  {
+    "meaning": "Bus",
+    "german": "Bus",
+    "register": "formal",
+    "pronunciation": "boos",
+    "audio": "16"
+  },
+  {
+    "meaning": "Taxi",
+    "german": "Taxi",
+    "register": "formal",
+    "pronunciation": "TAK-see",
+    "audio": "17"
+  },
+  {
+    "meaning": "When is the next bus?",
+    "german": "Wann geht der nächste Bus?",
+    "register": "formal",
+    "pronunciation": "vahn geht der NEK-ste BOOS",
+    "audio": "18"
+  },
+  {
+    "meaning": "When is the next train?",
+    "german": "Wann geht der nächste Zug?",
+    "register": "formal",
+    "pronunciation": "vahn geht der NEK-ste tsoog",
+    "audio": "19"
+  },
+  {
+    "meaning": "When does the next bus leave?",
+    "german": "Wann fährt der nächste Bus?",
+    "register": "formal",
+    "pronunciation": "vahn fehrt der NEK-ste boos",
+    "audio": "20"
+  },
+  {
+    "meaning": "Thank you",
+    "german": "Danke",
+    "register": "formal",
+    "pronunciation": "DAHN-keh",
+    "audio": "21"
+  },
+  {
+    "meaning": "puppy",
+    "german": "Welpe",
+    "register": "formal",
+    "pronunciation": "VEL-peh",
+    "audio": "22"
+  },
+  {
+    "meaning": "bird",
+    "german": "Vogel",
+    "register": "formal",
+    "pronunciation": "FOH-gəl",
+    "audio": "23"
+  },
+  {
+    "meaning": "dog",
+    "german": "Hund",
+    "register": "formal",
+    "pronunciation": "hoont",
+    "audio": "24"
+  },
+    {
+      "meaning": "cat",
+      "german": "Katze",
+      "register": "formal",
+      "pronunciation": "KAT-tsuh",
+      "audio": "25"
+    },
+    {
+      "meaning": "I have a dog",
+      "german": "Ich habe einen Hund",
+      "register": "formal",
+      "pronunciation": "ikh hah-behINE-en hoont",
+      "audio": "26"
+    },
+    {
+      "meaning": "This is my dog",
+      "german": "Das ist mein Hund",
+      "register": "formal",
+      "pronunciation": "das ist mine hoont",
+      "audio": "27"
+    },
+    {
+      "meaning": "I have a cat",
+      "german": "Ich habe eine Katze",
+      "register": "formal",
+      "pronunciation": "ikh hah-beh EYE-neh KAT-tsuh",
+      "audio": "28"
+    },
+    {
+      "meaning": "Where is my dog?",
+      "german": "Wo ist mein Hund?",
+      "register": "formal",
+      "pronunciation": "voh ist mine hoont",
+      "audio": "29"
+    },
+    {
+      "meaning": "Where is my dog?",
+      "german": "Wir haben einen Hund?",
+      "register": "formal",
+      "pronunciation": "veer hah-ben EYE-nen hoont",
+      "audio": "30"
+    },
+    {
+      "meaning": "to understand",
+      "german": "verstehen",
+      "register": "formal",
+      "pronunciation": "fer-shtay-en",
+      "audio": "31"
+    },
+    {
+      "meaning": "to learn",
+      "german": "lernen",
+      "register": "formal",
+      "pronunciation": "LER-nen",
+      "audio": "32"
+    },
+    {
+      "meaning": "to live",
+      "german": "leben",
+      "register": "formal",
+      "pronunciation": "LAY-ben",
+      "audio": "33"
+    },
+    {
+      "meaning": "to speak",
+      "german": "sprechen",
+      "register": "formal",
+      "pronunciation": "SHPREKH-en",
+      "audio": "34"
+    },
+    {
+      "meaning": "we learn",
+      "german": "Wir lernen",
+      "register": "formal",
+      "pronunciation": "veer LER-nen",
+      "audio": "35"
+    },
+    {
+      "meaning": "Hello",
+      "german": "Guten Tag",
+      "register": "formal",
+      "pronunciation": "GOO-ten tahk",
+      "audio": "36"
+    },
+    {
+      "meaning": "German",
+      "german": "Deutsch",
+      "register": "formal",
+      "pronunciation": "doytsh",
+      "audio": "37"
+    },
+    {
+      "meaning": "French",
+      "german": "Französisch",
+      "register": "formal",
+      "pronunciation": "fran-tseh-ZOH-ish",
+      "audio": "38"
+    },
+    {
+      "meaning": "Spanish",
+      "german": "Spanisch",
+      "register": "formal",
+      "pronunciation": "SHpan-ish",
+      "audio": "39"
+    },
+    {
+      "meaning": "English",
+      "german": "Englisch",
+      "register": "formal",
+      "pronunciation": "ENG-lish",
+      "audio": "40"
+    },
+    {
+      "meaning": "They learn french",
+      "german": "Sie lernen Französisch",
+      "register": "formal",
+      "pronunciation": "zee LER-nen fran-tseh-ZOH-ish",
+      "audio": "41"
+    },
+    {
+      "meaning": "we are learning Spanish",
+      "german": "Wir lernen Spanisch",
+      "register": "formal",
+      "pronunciation": "veer LER-nen SHpan-ish",
+      "audio": "42"
+    },
+    {
+      "meaning": "to learn",
+      "german": "Du lernst",
+      "register": "formal",
+      "pronunciation": "doo LERNST",
+      "audio": "43"
+    },
+    {
+      "meaning": "band",
+      "german": "Band",
+      "register": "formal",
+      "pronunciation": "bant",
+      "audio": "44"
+    },
+    {
+      "meaning": "album",
+      "german": "Album",
+      "register": "formal",
+      "pronunciation": "AL-boom",
+      "audio": "45"
+    },
+    {
+      "meaning": "guitar",
+      "german": "Gitarre",
+      "register": "formal",
+      "pronunciation": "gee-tah-reh",
+      "audio": "46"
+    },
+    {
+      "meaning": "concert",
+      "german": "Konzert",
+      "register": "formal",
+      "pronunciation": "kon-tsairt",
+      "audio": "47"
+    },
+    {
+      "meaning": "Orchestra",
+      "german": "Orchester",
+      "register": "formal",
+      "pronunciation": "or-KEH-ster",
+      "audio": "48"
+    },
+    {
+      "meaning": "Do you like rock music?",
+      "german": "Magst du Rockmusik?",
+      "register": "formal",
+      "pronunciation": "MAGST doo ROK-moo-zik",
+      "audio": "49"
+    },
+    {
+      "meaning": "drum",
+      "german": "Trommel",
+      "register": "formal",
+      "pronunciation": "TROH-məl",
+      "audio": "50"
+    },
+    {
+      "meaning": "violin",
+      "german": "Geige",
+      "register": "formal",
+      "pronunciation": "GIGH-ghuh",
+      "audio": "51"
+    },
+    {
+      "meaning": "saxophone",
+      "german": "Saxophon",
+      "register": "formal",
+      "pronunciation": "ZAK-so-fon",
+      "audio": "52"
+    },
+    {
+      "meaning": "is this seat taken?",
+      "german": "Ist der Platz hier frei?",
+      "register": "formal",
+      "pronunciation": "ist der plats heer frie",
+      "audio": "53"
+    },
+    {
+      "meaning": "Do you come here often?",
+      "german": "Kommen Sie öfter hier?",
+      "register": "formal",
+      "pronunciation": "KOH-men zee EFT-er heer",
+      "audio": "54"
+    },
+    {
+      "meaning": "Would you like to dance?",
+      "german": "Möchten Sie tanzen?",
+      "register": "formal",
+      "pronunciation": "MEHkh-ten zee TAN-tsen",
+      "audio": "55"
+    },
+    {
+      "meaning": "it is very easy",
+      "german": "Das ist ganz einfach",
+      "register": "formal",
+      "pronunciation": "das ist gant SINE-fakh",
+      "audio": "56"
+    },
+    {
+      "meaning": "I like to dance",
+      "german": "Ich tanze gerne",
+      "register": "formal",
+      "pronunciation": "ikh TAN-tsuh gern-eh",
+      "audio": "57"
+    },
+    {
+      "meaning": "car",
+      "german": "Auto",
+      "register": "formal",
+      "pronunciation": "OW-toh",
+      "audio": "58"
+    },
+    {
+      "meaning": "motorcycle",
+      "german": "Motorrad",
+      "register": "formal",
+      "pronunciation": "moh-tor-RAHT",
+      "audio": "59"
+    },
+    {
+      "meaning": "Airport",
+      "german": "Flughafen",
+      "register": "formal",
+      "pronunciation": "FLOOG-hah-fən",
+      "audio": "60"
+    },
+    {
+      "meaning": "I need a taxi",
+      "german": "Ich brauche ein Taxi",
+      "register": "formal",
+      "pronunciation": "ikh BROW-kh-uh eyeN TAK-see",
+      "audio": "61"
+    },
+    {
+      "meaning": "to the airport",
+      "german": "zum Flughafen",
+      "register": "formal",
+      "pronunciation": "tsoom FLOOG-hah-fən",
+      "audio": "62"
+    },
+    {
+      "meaning": "how do I get to the bus station",
+      "german": "Wie komme ich zur Bushaltestelle?",
+      "register": "formal",
+      "pronunciation": "vee KOH-meh ikh tsur BOOS-hal-tes-tel-uh",
+      "audio": "63"
+    },
+    {
+      "meaning": "I need a map",
+      "german": "Ich brauche eine Karte",
+      "register": "formal",
+      "pronunciation": "ikh BROW-kh-uh EYE-neh KAR-tuh",
+      "audio": "64"
+    },
+    {
+      "meaning": "butterfly",
+      "german": "Schmetterling",
+      "register": "formal",
+      "pronunciation": "SHMEH-tər-ling",
+      "audio": "65"
+    },
+    {
+      "meaning": "love",
+      "german": "Liebe",
+      "register": "formal",
+      "pronunciation": "LEE-buh",
+      "audio": "66"
+    },
+    {
+      "meaning": "animal",
+      "german": "Tier",
+      "register": "formal",
+      "pronunciation": "tee-er",
+      "audio": "67"
+    },
+    {
+      "meaning": "food",
+      "german": "Essen",
+      "register": "formal",
+      "pronunciation": "EH-sən",
+      "audio": "68"
+    }
+  ]
