@@ -475,5 +475,112 @@
       "register": "formal",
       "pronunciation": "EH-sən",
       "audio": "68"
-    }
-  ]
+    },
+  
+  {
+    "meaning": "Greetings",
+    "german": "Begrüßungen",
+    "register": "formal",
+    "pronunciation": "beh-GRÜSS-ung-en",
+    "audio": "69"
+  },
+  {
+    "meaning": "Hello",
+    "german": "Halo",
+    "register": "informal",
+    "pronunciation": "HAH-loh",
+    "audio": "70"
+  },
+  {
+    "meaning": "Good Morning",
+    "german": "Guten Morgen",
+    "register": "formal",
+    "pronunciation": "goo-ten MOR-gen",
+    "audio": "71"
+  },
+  {
+    "meaning": "Good Afternoon",
+    "german": "Guten Tag",
+    "register": "formal",
+    "pronunciation": "goo-ten tahk",
+    "audio": "72"
+  },
+  {
+    "meaning": "Good Evening",
+    "german": "Guten Abend",
+    "register": "formal",
+    "pronunciation": "goo-ten AH-bent",
+    "audio": "73"
+  },
+  {
+    "meaning": "Good Night",
+    "german": "Guten Nacht",
+    "register": "formal",
+    "pronunciation": "goo-ten NAHKT",
+    "audio": "74"
+  },
+  {
+    "meaning": "See you soon",
+    "german": "Bis bald",
+    "register": "neutral",
+    "pronunciation": "bis bahlt",
+    "audio": "75"
+  },
+  {
+    "meaning": "Good bye!",
+    "german": "Auf Wieder Sehen (informal)",
+    "register": "informal",
+    "pronunciation": "owf vee-der-ZEH-en",
+    "audio": "76"
+  },
+  {
+    "meaning": "Bye",
+    "german": "Tschüss",
+    "register": "informal",
+    "pronunciation": "chyüss",
+    "audio": "77"
+  },
+  {
+    "meaning": "Yes",
+    "german": "Ja",
+    "register": "neutral",
+    "pronunciation": "yah",
+    "audio": "78"
+  },
+  {
+    "meaning": "No",
+    "german": "Nein",
+    "register": "neutral",
+    "pronunciation": "nine",
+    "audio": "79"
+  },
+  {
+    "meaning": "Thanks",
+    "german": "Danke",
+    "register": "neutral",
+    "pronunciation": "DAHN-keh",
+    "audio": "80"
+  },
+  {
+    "meaning": "Thank you very much",
+    "german": "Danke schön",
+    "register": "neutral",
+    "pronunciation": "DAHN-keh shern",
+    "audio": "81"
+  },
+  {
+    "meaning": "Please",
+    "german": "Bitte",
+    "register": "neutral",
+    "pronunciation": "BIT-tuh",
+    "audio": "82"
+  },
+  {
+    "meaning": "See you later",
+    "german": "Bis später",
+    "register": "neutral",
+    "pronunciation": "bis SHPAY-ter",
+    "audio": "83"
+  }
+]
+
