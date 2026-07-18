@@ -616,7 +616,93 @@
     "register": "neutral",
     "pronunciation": "dər VINT-er",
     "audio": "88"
+  },
+  
+  {
+    "meaning": "A year has four seasons.",
+    "german": "Ein Jahr hat vier Jahreszeiten.",
+    "register":  "neutral",
+    "pronunciation": "ine yar hat fier YAHR-es-ziten",
+    "audio": "89"
+  },
+  {
+    "meaning": "How is it in spring?",
+    "german": "Wie ist es im Frühling?",
+    "register":  "neutral",
+    "pronunciation": "vee ist es im FRÜH-ling",
+    "audio": "90"
+  },
+  {
+    "meaning": "It is warm in spring?",
+    "german": "Im frühling ist es warm.",
+    "register":  "neutral",
+    "pronunciation": "im FRÜH-ling ist es varm",
+    "audio": "91"
+  },
+  {
+    "meaning": "The flowers blossom.",
+    "german": "Die blumen blühen.",
+    "register":  "neutral",
+    "pronunciation": "dee BLOO-men BLOO-ien",
+    "audio": "92"
+  },
+  {
+    "meaning": "It is hot in summer.",
+    "german": "Im sommer ist es heiß.",
+    "register":  "neutral",
+    "pronunciation": "im ZOH-mer ist es highss",
+    "audio": "93"
+  },
+  {
+    "meaning": "Everything is green.",
+    "german": "Alles ist grün.",
+    "register":  "neutral",
+    "pronunciation": "AL-les ist grøon",
+    "audio": "94"
+  },
+  {
+    "meaning": "It is cool in autumn.",
+    "german": "Im herbst ist es kühl.",
+    "register":  "neutral",
+    "pronunciation": "im HERbst ist es kuhyl",
+    "audio": "95"
+  },
+  {
+    "meaning": "It rains often.",
+    "german": "Es regnet oft.",
+    "register":  "neutral",
+    "pronunciation": "es rehg-net oft",
+    "audio": "96"
+  },
+  {
+    "meaning": "It is cold in winter.",
+    "german": "Im winter ist es kalt.",
+    "register":  "neutral",
+    "pronunciation": "im VINT-er ist es kalt",
+    "audio": "97"
+  },
+  {
+    "meaning": "There is snow.",
+    "german": "Es gibt schnee.",
+    "register":  "neutral",
+    "pronunciation": "es geeft SHNYE",
+    "audio": "98"
+  },
+  {
+    "meaning": "Which season do you like?",
+    "german": "Welche Jahreszeit magst du?",
+    "register":  "neutral",
+    "pronunciation": "VY-leH YAHR-es-TSITE MAGST doo",
+    "audio": "99"
+  },
+  {
+    "meaning": "I like winter.",
+    "german": "Ich mag den Winter.",
+    "register":  "neutral",
+    "pronunciation": "ikh mag den VINT-er",
+    "audio": "100"
   }
 ]
+
 
 
