@@ -581,6 +581,42 @@
     "register": "neutral",
     "pronunciation": "bis SHPAY-ter",
     "audio": "83"
+  },  
+  {
+    "meaning": "Seasons",
+    "german": "die Jahreszeiten",
+    "register": "neutral",
+    "pronunciation": "dee YAR-esh-SYTE-en",
+    "audio": 84
+  },
+  {
+    "meaning": "Summer",
+    "german": "der Sommer",
+    "register": "neutral",
+    "pronunciation": "dər ZOH-mer",
+    "audio": "85"
+  },
+  {
+    "meaning": "Spring",
+    "german": "der Frühling",
+    "register": "neutral",
+    "pronunciation": "dər FRÜH-ling",
+    "audio": "86"
+  },
+  {
+    "meaning": "Autumn",
+    "german": "der Herbst",
+    "register": "neutral",
+    "pronunciation": "dər Hɛrst",
+    "audio": "87"
+  },
+  {
+    "meaning": "Winter",
+    "german": "der Winter",
+    "register": "neutral",
+    "pronunciation": "dər VINT-er",
+    "audio": "88"
   }
 ]
+
 
