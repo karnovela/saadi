@@ -1050,7 +1050,194 @@
     "register": "general",
     "pronunciation": "MYN-eh HAN-dee-num-ər ist null drye ine(s) zee-ben tsvigh tswee tsvehn axt tsvee sechs funf sechs",
     "audio": "139"
-  }
+  },
+  
+  {
+    "meaning": "Personal pronouns",
+    "german": "Personalpronomen",
+    "register": "general",
+    "pronunciation": "PEHR-suh-nahl proh-NOH-men",
+    "audio": "140"
+  },
+  {
+    "meaning": "Nominative case",
+    "german": "Nominativ",
+    "register": "general",
+    "pronunciation": "noh-MEE-neh-tif",
+    "audio": "141"
+  },
+  {
+    "meaning": "I",
+    "german": "ich",
+    "register": "general",
+    "pronunciation": "ikh",
+    "audio": "142"
+  },
+  {
+    "meaning": "We",
+    "german": "wir",
+    "register": "general",
+    "pronunciation": "veer",
+    "audio": "143"
+  },
+  
+  {
+    "meaning": "I live in New York.",
+    "german": "Ich wohne in New York.",
+    "register": "general",
+    "pronunciation": "ikh VOH-neh in N(y)o͞o YAWRK",
+    "audio": "144"
+  },
+  {
+    "meaning": "We live in New York.",
+    "german": "Wir wohnen in New York.",
+    "register": "general",
+    "pronunciation": "veer VOH-nen in N(y)o͞o YAWRK",
+    "audio": "145"
+  },
+  {
+    "meaning": "You (informal).",
+    "german": "du",
+    "register": "informal",
+    "pronunciation": "doo",
+    "audio": "146"
+  },
+  {
+    "meaning": "You all (informal).",
+    "german": "ihr",
+    "register": "informal",
+    "pronunciation": "eer",
+    "audio": "147"
+  },
+  {
+    "meaning": "You (formal).",
+    "german": "Sie",
+    "register": "formal",
+    "pronunciation": "zee",
+    "audio": "148"
+  },
+  {
+    "meaning": "You all (formal).",
+    "german": "Sie",
+    "register": "formal",
+    "pronunciation": "zee",
+    "audio": "149"
+  },
+  {
+    "meaning": "Max, where do you live?",
+    "german": "Max, wo wohnst du?",
+    "register": "informal",
+    "pronunciation": "maks voh VOH(n)st doo",
+    "audio": "150"
+  },
+  {
+    "meaning": "Julia and Peter, where do you all live?",
+    "german": "Julia und Peter, wo wohnt ihr?",
+    "register": "informal",
+    "pronunciation": "yoo-leeah oont PAY-tehr voh VOHNT eer",
+    "audio": "151"
+  },
+  
 
+  {
+    "meaning": "Mr. Müller, where do you live?",
+    "german": "Herr Müller, wo wohnen Sie?",
+    "register": "formal",
+    "pronunciation": "hɛr MOOL-ər voh VOH-nen zee",
+    "audio": "152"
+  },
+  {
+    "meaning": "Mr. and Mrs. Müller, where do you live?",
+    "german": "Herr und Frau Müller, wo wohnen Sie?",
+    "register": "formal",
+    "pronunciation": "hɛr oont frow MOOL-ər voh VOH-nen zee",
+    "audio": "153"
+  },
+  {
+    "meaning": "He (masculine)",
+    "german": "er",
+    "register": "general",
+    "pronunciation": "air",
+    "audio": "154"
+  },
+  {
+    "meaning": "She (feminine)",
+    "german": "sie",
+    "register": "general",
+    "pronunciation": "zee",
+    "audio": "155"
+  },
+  {
+    "meaning": "It (neuter)",
+    "german": "es",
+    "register": "general",
+    "pronunciation": "es",
+    "audio": "156"
+  },
+
+
+  {
+    "meaning": "They",
+    "german": "sie",
+    "register": "general",
+    "pronunciation": "zee",
+    "audio": "157"
+  },
+  {
+    "meaning": "This is Michael.",
+    "german": "Das ist Michael.",
+    "register": "general",
+    "pronunciation": "das ist MIK-ha-el",
+    "audio": "158"
+  },
+  {
+    "meaning": "He lives in London.",
+    "german": "Er wohnt in London.",
+    "register": "general",
+    "pronunciation": "air VOHNT in LUN-dən",
+    "audio": "159"
+  },
+  {
+    "meaning": "This is Michaela.",
+    "german": "Das ist Michaela.",
+    "register": "general",
+    "pronunciation": "das ist mee-HAH-eh-lah",
+    "audio": "160"
+  },
+  {
+    "meaning": "She lives in Paris.",
+    "german": "Sie wohnt in Paris.",
+    "register": "general",
+    "pronunciation": "zee VOHNT in pah-REE",
+    "audio": "161"
+  },
+  {
+    "meaning": "This is my book.",
+    "german": "Das ist mein Buch.",
+    "register": "general",
+    "pronunciation": "das ist mine BOOKH",
+    "audio": "162"
+  },
+  {
+    "meaning": "It is old.",
+    "german": "Es ist alt.",
+    "register": "general",
+    "pronunciation": "es ist alt",
+    "audio": "163"
+  },
+  {
+    "meaning": "This is Petra and Jürgen.",
+    "german": "Das sind Petra und Jürgen.",
+    "register": "general",
+    "pronunciation": "das zint PEH-trah oont YUR-gen",
+    "audio": "164"
+  },
+  {
+    "meaning": "They live in Hamburg.",
+    "german": "Sie wohnen in Hamburg.",
+    "register": "general",
+    "pronunciation": "zee VOH-nen in HAM-burg",
+    "audio": "165"
+  }
 ]
 
