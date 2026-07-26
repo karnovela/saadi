@@ -701,8 +701,356 @@
     "register":  "neutral",
     "pronunciation": "ikh mag den VINT-er",
     "audio": "100"
+  },
+
+  {
+    "meaning": "Numbers",
+    "german": "Zahlen",
+    "register": "general",
+    "pronunciation": "ZAH-lən",
+    "audio": "101"
+  },
+  {
+    "meaning": "zero",
+    "german": "null",
+    "register": "general",
+    "pronunciation": "no͞ol",
+    "audio": "102"
+  },
+  {
+    "meaning": "one",
+    "german": "eins",
+    "register": "general",
+    "pronunciation": "ine(s)",
+    "audio": "103"
+  },
+  {
+    "meaning": "two",
+    "german": "zwei",
+    "register": "general",
+    "pronunciation": "tsvigh(e)",
+    "audio": "104"
+  },
+  {
+    "meaning": "three",
+    "german": "drei",
+    "register": "general",
+    "pronunciation": "drigh(e)",
+    "audio": "105"
+  },
+  {
+    "meaning": "four",
+    "german": "vier",
+    "register": "general",
+    "pronunciation": "feer",
+    "audio": "106"
+  },
+  {
+    "meaning": "five",
+    "german": "fünf",
+    "register": "general",
+    "pronunciation": "fünf",
+    "audio": "107"
+  },
+  {
+    "meaning": "six",
+    "german": "sechs",
+    "register": "general",
+    "pronunciation": "zeks",
+    "audio": "108"
+  },
+  {
+    "meaning": "seven",
+    "german": "sieben",
+    "register": "general",
+    "pronunciation": "zee-bən",
+    "audio": "109"
+  },
+  {
+    "meaning": "eight",
+    "german": "acht",
+    "register": "general",
+    "pronunciation": "axt",
+    "audio": "110"
+  },
+  {
+    "meaning": "nine",
+    "german": "neun",
+    "register": "general",
+    "pronunciation": "noyn",
+    "audio": "111"
+  },
+  {
+    "meaning": "ten",
+    "german": "zehn",
+    "register": "general",
+    "pronunciation": "tsehn",
+    "audio": "112"
+  },
+
+  {
+    "meaning": "eleven",
+    "german": "elf",
+    "register": "general",
+    "pronunciation": "elf",
+    "audio": "113"
+  },
+  {
+    "meaning": "twelve",
+    "german": "zwölf",
+    "register": "general",
+    "pronunciation": "tsvölf",
+    "audio": "114"
+  },
+  {
+    "meaning": "thirteen",
+    "german": "dreizehn",
+    "register": "general",
+    "pronunciation": "drigh-tsayn",
+    "audio": "115"
+  },
+  {
+    "meaning": "fourteen",
+    "german": "vierzehn",
+    "register": "general",
+    "pronunciation": "feer-tsayn",
+    "audio": "116"
+  },
+  {
+    "meaning": "fifteen",
+    "german": "fünfzehn",
+    "register": "general",
+    "pronunciation": "fünf-tsayn",
+    "audio": "117"
+  },
+  {
+    "meaning": "sixteen",
+    "german": "sechzehn",
+    "register": "general",
+    "pronunciation": "zeks-tsayn",
+    "audio": "118"
+  },
+  {
+    "meaning": "seventeen",
+    "german": "siebzehn",
+    "register": "general",
+    "pronunciation": "zeep-tsayn",
+    "audio": "119"
+  },
+  {
+    "meaning": "eighteen",
+    "german": "achtzehn",
+    "register": "general",
+    "pronunciation": "axt-tsayn",
+    "audio": "110"
+  },
+  {
+    "meaning": "nineteen",
+    "german": "neunzehn",
+    "register": "general",
+    "pronunciation": "noyn-tsayn",
+    "audio": "111"
+  },
+  {
+    "meaning": "twenty",
+    "german": "zwanzig",
+    "register": "general",
+    "pronunciation": "tsvahn-tsikh",
+    "audio": "112"
+  },
+
+  {
+    "meaning": "twenty-one",
+    "german": "einundzwanzig",
+    "register": "general",
+    "pronunciation": "ine-oonts-tsvahn-tsikh",
+    "audio": "113"
+  },
+  {
+    "meaning": "twenty-two",
+    "german": "zweiundzwanzig",
+    "register": "general",
+    "pronunciation": "tsvigh-oonts-tsvahn-tsikh",
+    "audio": "114"
+  },
+  {
+    "meaning": "twenty-three",
+    "german": "dreiundzwanzig",
+    "register": "general",
+    "pronunciation": "drigh-oonts-tsvahn-tsikh",
+    "audio": "115"
+  },
+  {
+    "meaning": "twenty-four",
+    "german": "vierundzwanzig",
+    "register": "general",
+    "pronunciation": "feer-oonts-tsvahn-tsikh",
+    "audio": "116"
+  },
+  {
+    "meaning": "twenty-five",
+    "german": "fünfundzwanzig",
+    "register": "general",
+    "pronunciation": "fünf-oonts-tsvahn-tsikh",
+    "audio": "117"
+  },
+  {
+    "meaning": "twenty-six",
+    "german": "sechsundzwanzig",
+    "register": "general",
+    "pronunciation": "zeks-oonts-tsvahn-tsikh",
+    "audio": "118"
+  },
+  {
+    "meaning": "twenty-seven",
+    "german": "siebenundzwanzig",
+    "register": "general",
+    "pronunciation": "zee-bən-oonts-tsvahn-tsikh",
+    "audio": "119"
+  },
+  {
+    "meaning": "twenty-eight",
+    "german": "achtundzwanzig",
+    "register": "general",
+    "pronunciation": "axt-oonts-tsvahn-tsikh",
+    "audio": "120"
+  },
+  {
+    "meaning": "twenty-nine",
+    "german": "neunundzwanzig",
+    "register": "general",
+    "pronunciation": "noyn-oonts-tsvahn-tsikh",
+    "audio": "121"
+  },
+  {
+    "meaning": "thirty",
+    "german": "dreißig",
+    "register": "general",
+    "pronunciation": "drigh-sikh",
+    "audio": "122"
+  },
+
+
+  {
+    "meaning": "forty",
+    "german": "vierzig",
+    "register": "general",
+    "pronunciation": "feer-tsikh",
+    "audio": "123"
+  },
+  {
+    "meaning": "fifty",
+    "german": "fünfzig",
+    "register": "general",
+    "pronunciation": "funf-tsikh",
+    "audio": "124"
+  },
+  {
+    "meaning": "sixty",
+    "german": "sechzig",
+    "register": "general",
+    "pronunciation": "zeks-tsikh",
+    "audio": "125"
+  },
+  {
+    "meaning": "seventy",
+    "german": "siebzig",
+    "register": "general",
+    "pronunciation": "zeept(s) tsikh",
+    "audio": "126"
+  },
+  {
+    "meaning": "eighty",
+    "german": "achtzig",
+    "register": "general",
+    "pronunciation": "axt-tsikh",
+    "audio": "127"
+  },
+  {
+    "meaning": "ninety",
+    "german": "neunzig",
+    "register": "general",
+    "pronunciation": "noyn-tsikh",
+    "audio": "128"
+  },
+  {
+    "meaning": "hundred",
+    "german": "hundert",
+    "register": "general",
+    "pronunciation": "HOON-dert",
+    "audio": "129"
+  },
+  {
+    "meaning": "thousand",
+    "german": "tausend",
+    "register": "general",
+    "pronunciation": "tsow-zent",
+    "audio": "130"
+  },
+
+  {
+    "meaning": "How old are you?",
+    "german": "Wie alt bist du?",
+    "register": "informal",
+    "pronunciation": "vee alt bist doo",
+    "audio": "131"
+  },
+  {
+    "meaning": "How old are you?",
+    "german": "Wie alt sind Sie?",
+    "register": "formal",
+    "pronunciation": "vee alt zint zee",
+    "audio": "132"
+  },
+  {
+    "meaning": "I am 24 years old.",
+    "german": "Ich bin vierundzwanzig Jahre alt.",
+    "register": "general",
+    "pronunciation": "ikh bin feer-oon-tsvantsikh yah-reh alt",
+    "audio": "133"
+  },
+  {
+    "meaning": "When were you born?",
+    "german": "Wann wurdest du geboren?",
+    "register": "informal",
+    "pronunciation": "vahn vun-dehst doo geh-boh-ren",
+    "audio": "134"
+  },
+  {
+    "meaning": "When were you born?",
+    "german": "Wann bist du geboren?",
+    "register": "formal",
+    "pronunciation": "vahn voo-ru-den zee ge-boh-ren",
+    "audio": "135"
+  },
+  {
+    "meaning": "I was born in 2002.",
+    "german": "Ich wurde 2002 geboren.",
+    "register": "general",
+    "pronunciation": "ikh vooR-deh zwee-taus-ent zwei ge-boh-ren",
+    "audio": "136"
+  },
+  {
+    "meaning": "What is your mobile number?",
+    "german": "Wie ist deine Handynummer?",
+    "register": "informal",
+    "pronunciation": "vee ist dye-neh HAN-dee-num-ər",
+    "audio": "137"
+  },
+  {
+    "meaning": "What is your mobile number?",
+    "german": "Wie ist Ihre Handynummer?",
+    "register": "formal",
+    "pronunciation": "vee ist ee-rah HAN-dee-num-ər",
+    "audio": "138"
+  },
+  {
+    "meaning": "My mobile number is 03172782656.",
+    "german": "Meine Handynummer ist null drei eins sieben zwei sieben acht zwei sechs fünf sechs.",
+    "register": "general",
+    "pronunciation": "MYN-eh HAN-dee-num-ər ist null drye ine(s) zee-ben tsvigh tswee tsvehn axt tsvee sechs funf sechs",
+    "audio": "139"
   }
+
 ]
-
-
 
