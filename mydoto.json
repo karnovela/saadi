@@ -1238,6 +1238,263 @@
     "register": "general",
     "pronunciation": "zee VOH-nen in HAM-burg",
     "audio": "165"
+  },
+  
+  {
+    "meaning": "Personal pronouns",
+    "german": "Personalpronomen",
+    "register": "general",
+    "pronunciation": "pehr-suh-nahl proh-NOH-men",
+    "audio": "166"
+  },
+  {
+    "meaning": "Accusative case",
+    "german": "Akkusativ",
+    "register": "general",
+    "pronunciation": "ak-koo-ZAH-tiv",
+    "audio": "167"
+  },
+  {
+    "meaning": "Me (accusative)",
+    "german": "mich",
+    "register": "general",
+    "pronunciation": "mikh",
+    "audio": "168"
+  },
+  {
+    "meaning": "Hi, I am Maria.",
+    "german": "Hi, ich bin Maria.",
+    "register": "general",
+    "pronunciation": "hee, ikh bin MEE-ah",
+    "audio": "169"
+  },
+  {
+    "meaning": "Do you know me?",
+    "german": "Kennst du mich?",
+    "register": "informal",
+    "pronunciation": "kennst doo mikh",
+    "audio": "170"
+  },
+  {
+    "meaning": "You (informal) — accusative",
+    "german": "dich",
+    "register": "informal",
+    "pronunciation": "deekh",
+    "audio": "171"
+  },
+
+  {
+    "meaning": "Who are you?",
+    "german": "Wer bist du?",
+    "register": "informal",
+    "pronunciation": "vehr bist doo",
+    "audio": "172"
+  },
+  {
+    "meaning": "I don't know you.",
+    "german": "Ich kenne dich nicht.",
+    "register": "informal",
+    "pronunciation": "ikh KEN-neh deekh nikh(t)",
+    "audio": "173"
+  },
+  {
+    "meaning": "You (formal).",
+    "german": "Sie",
+    "register": "formal",
+    "pronunciation": "zee",
+    "audio": "174"
+  },
+
+
+  {
+    "meaning": "Mr. Schmidt, where are you?",
+    "german": "Herr Schmidt, wo sind Sie?",
+    "register": "formal",
+    "pronunciation": "hɛr SHMIHT voh zint zee",
+    "audio": "175"
+  },
+  {
+    "meaning": "I am looking for you.",
+    "german": "Ich suche Sie.",
+    "register": "formal",
+    "pronunciation": "ikh zoo-kheh zee",
+    "audio": "176"
+  },
+  {
+    "meaning": "Him",
+    "german": "ihn",
+    "register": "general",
+    "pronunciation": "e(g)hn",
+    "audio": "177"
+  },
+
+  {
+    "meaning": "This is Michael.",
+    "german": "Das ist Michael.",
+    "register": "general",
+    "pronunciation": "das ist MEE-kah-el",
+    "audio": "178"
+  },
+  {
+    "meaning": "He is an architect.",
+    "german": "Er ist Architekt.",
+    "register": "general",
+    "pronunciation": "air ist AHR-khi-tekt",
+    "audio": "179"
+  },
+  {
+    "meaning": "I know him.",
+    "german": "Ich kenne ihn.",
+    "register": "general",
+    "pronunciation": "ikh KEN-neh ihn",
+    "audio": "180"
+  },
+  {
+    "meaning": "She / her (subject pronoun).",
+    "german": "sie",
+    "register": "general",
+    "pronunciation": "zee",
+    "audio": "181"
+  },
+
+  {
+    "meaning": "This is Michaela. She is studying.",
+    "german": "Das ist Michaela. Sie studiert.",
+    "register": "general",
+    "pronunciation": "das ist mee-HAH-eh-lah zee zoo-DEE-ert",
+    "audio": "182"
+  },
+  {
+    "meaning": "I find her very beautiful.",
+    "german": "Ich finde sie sehr schön.",
+    "register": "general",
+    "pronunciation": "ikh FIN-də zee sehr shern shern",
+    "audio": "183"
+  },
+  {
+    "meaning": "It",
+    "german": "es",
+    "register": "general",
+    "pronunciation": "es",
+    "audio": "184"
+  },
+
+
+
+  {
+    "meaning": "This is my book.",
+    "german": "Das ist mein Buch.",
+    "register": "general",
+    "pronunciation": "das ist mine bookh",
+    "audio": "185"
+  },
+  {
+    "meaning": "It is old.",
+    "german": "Es ist alt.",
+    "register": "general",
+    "pronunciation": "es ist alt",
+    "audio": "186"
+  },
+  {
+    "meaning": "I find it very interesting.",
+    "german": "Ich finde es sehr interessant.",
+    "register": "general",
+    "pronunciation": "ikh FIN-də es zehr in-tre-ess-ant",
+    "audio": "187"
+  },
+  {
+    "meaning": "Us (accusative).",
+    "german": "uns",
+    "register": "general",
+    "pronunciation": "oonts",
+    "audio": "188"
+  },
+  {
+    "meaning": "You all.",
+    "german": "euch",
+    "register": "informal",
+    "pronunciation": "oykh",
+    "audio": "189"
+  },
+  {
+    "meaning": "You all.",
+    "german": "Sie",
+    "register": "formal",
+    "pronunciation": "zee",
+    "audio": "190"
+  },
+  {
+    "meaning": "Them.",
+    "german": "sie",
+    "register": "general",
+    "pronunciation": "zee",
+    "audio": "191"
+  },
+  
+
+  {
+    "meaning": "We are Samantha and Mike.",
+    "german": "Wir sind Samantha und Mike.",
+    "register": "general",
+    "pronunciation": "veer zint SAH-man-tah oont mıhk",
+    "audio": "192"
+  },
+  {
+    "meaning": "Do you know us?",
+    "german": "Kennst du uns?",
+    "register": "informal",
+    "pronunciation": "KEN(n)st doo oonts",
+    "audio": "193"
+  },
+  {
+    "meaning": "Who are you all?",
+    "german": "Wer seid ihr?",
+    "register": "informal",
+    "pronunciation": "vehr zint eer",
+    "audio": "194"
+  },
+  {
+    "meaning": "I don't know you all.",
+    "german": "Ich kenne euch nicht.",
+    "register": "informal",
+    "pronunciation": "ikh KEN-neh oykh nikh(t)",
+    "audio": "195"
+  },
+  {
+    "meaning": "Mr. and Mrs. Müller, where are you?",
+    "german": "Herr und Frau Müller, wo sind Sie?",
+    "register": "formal",
+    "pronunciation": "hɛr oont frow MOOL-ər voh zint zee",
+    "audio": "196"
+  },
+  {
+    "meaning": "I am looking for you.",
+    "german": "Ich suche Sie.",
+    "register": "formal",
+    "pronunciation": "ikh ZOO-kheh zee",
+    "audio": "197"
+  },
+  {
+    "meaning": "This is Petra and Jürgen.",
+    "german": "Das sind Petra und Jürgen.",
+    "register": "general",
+    "pronunciation": "das zint PEH-trah oont YUR-gen",
+    "audio": "198"
+  },
+  {
+    "meaning": "I know them.",
+    "german": "Ich kenne sie.",
+    "register": "general",
+    "pronunciation": "ikh KEN-neh zee",
+    "audio": "199"
+  },
+  {
+    "meaning": "I find him nice.",
+    "german": "Ich finde ihn nett.",
+    "register": "general",
+    "pronunciation": "ikh FIN-də ihn nɛt",
+    "audio": "200"
   }
+  
 ]
 
