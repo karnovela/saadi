@@ -920,14 +920,14 @@
     "german": "neunundzwanzig",
     "register": "general",
     "pronunciation": "noyn-oonts-tsvahn-tsikh",
-    "audio": "121"
+    "audio": "131"
   },
   {
     "meaning": "thirty",
     "german": "dreißig",
     "register": "general",
     "pronunciation": "drigh-sikh",
-    "audio": "122"
+    "audio": "132"
   },
 
 
@@ -936,56 +936,56 @@
     "german": "vierzig",
     "register": "general",
     "pronunciation": "feer-tsikh",
-    "audio": "123"
+    "audio": "133"
   },
   {
     "meaning": "fifty",
     "german": "fünfzig",
     "register": "general",
     "pronunciation": "funf-tsikh",
-    "audio": "124"
+    "audio": "134"
   },
   {
     "meaning": "sixty",
     "german": "sechzig",
     "register": "general",
     "pronunciation": "zeks-tsikh",
-    "audio": "125"
+    "audio": "135"
   },
   {
     "meaning": "seventy",
     "german": "siebzig",
     "register": "general",
     "pronunciation": "zeept(s) tsikh",
-    "audio": "126"
+    "audio": "136"
   },
   {
     "meaning": "eighty",
     "german": "achtzig",
     "register": "general",
     "pronunciation": "axt-tsikh",
-    "audio": "127"
+    "audio": "137"
   },
   {
     "meaning": "ninety",
     "german": "neunzig",
     "register": "general",
     "pronunciation": "noyn-tsikh",
-    "audio": "128"
+    "audio": "138"
   },
   {
     "meaning": "hundred",
     "german": "hundert",
     "register": "general",
     "pronunciation": "HOON-dert",
-    "audio": "129"
+    "audio": "139"
   },
   {
     "meaning": "thousand",
     "german": "tausend",
     "register": "general",
     "pronunciation": "tsow-zent",
-    "audio": "130"
+    "audio": "140"
   },
 
   {
@@ -993,63 +993,63 @@
     "german": "Wie alt bist du?",
     "register": "informal",
     "pronunciation": "vee alt bist doo",
-    "audio": "131"
+    "audio": "141"
   },
   {
     "meaning": "How old are you?",
     "german": "Wie alt sind Sie?",
     "register": "formal",
     "pronunciation": "vee alt zint zee",
-    "audio": "132"
+    "audio": "142"
   },
   {
     "meaning": "I am 24 years old.",
     "german": "Ich bin vierundzwanzig Jahre alt.",
     "register": "general",
     "pronunciation": "ikh bin feer-oon-tsvantsikh yah-reh alt",
-    "audio": "133"
+    "audio": "143"
   },
   {
     "meaning": "When were you born?",
     "german": "Wann wurdest du geboren?",
     "register": "informal",
     "pronunciation": "vahn vun-dehst doo geh-boh-ren",
-    "audio": "134"
+    "audio": "144"
   },
   {
     "meaning": "When were you born?",
     "german": "Wann bist du geboren?",
     "register": "formal",
     "pronunciation": "vahn voo-ru-den zee ge-boh-ren",
-    "audio": "135"
+    "audio": "145"
   },
   {
     "meaning": "I was born in 2002.",
     "german": "Ich wurde 2002 geboren.",
     "register": "general",
     "pronunciation": "ikh vooR-deh zwee-taus-ent zwei ge-boh-ren",
-    "audio": "136"
+    "audio": "146"
   },
   {
     "meaning": "What is your mobile number?",
     "german": "Wie ist deine Handynummer?",
     "register": "informal",
     "pronunciation": "vee ist dye-neh HAN-dee-num-ər",
-    "audio": "137"
+    "audio": "147"
   },
   {
     "meaning": "What is your mobile number?",
     "german": "Wie ist Ihre Handynummer?",
     "register": "formal",
     "pronunciation": "vee ist ee-rah HAN-dee-num-ər",
-    "audio": "138"
+    "audio": "148"
   },
   {
     "meaning": "My mobile number is 03172782656.",
     "german": "Meine Handynummer ist null drei eins sieben zwei sieben acht zwei sechs fünf sechs.",
     "register": "general",
     "pronunciation": "MYN-eh HAN-dee-num-ər ist null drye ine(s) zee-ben tsvigh tswee tsvehn axt tsvee sechs funf sechs",
-    "audio": "139"
+    "audio": "149"
   },
   
   {
@@ -1057,28 +1057,28 @@
     "german": "Personalpronomen",
     "register": "general",
     "pronunciation": "PEHR-suh-nahl proh-NOH-men",
-    "audio": "140"
+    "audio": "150"
   },
   {
     "meaning": "Nominative case",
     "german": "Nominativ",
     "register": "general",
     "pronunciation": "noh-MEE-neh-tif",
-    "audio": "141"
+    "audio": "151"
   },
   {
     "meaning": "I",
     "german": "ich",
     "register": "general",
     "pronunciation": "ikh",
-    "audio": "142"
+    "audio": "152"
   },
   {
     "meaning": "We",
     "german": "wir",
     "register": "general",
     "pronunciation": "veer",
-    "audio": "143"
+    "audio": "153"
   },
   
   {
@@ -1086,56 +1086,56 @@
     "german": "Ich wohne in New York.",
     "register": "general",
     "pronunciation": "ikh VOH-neh in N(y)o͞o YAWRK",
-    "audio": "144"
+    "audio": "154"
   },
   {
     "meaning": "We live in New York.",
     "german": "Wir wohnen in New York.",
     "register": "general",
     "pronunciation": "veer VOH-nen in N(y)o͞o YAWRK",
-    "audio": "145"
+    "audio": "155"
   },
   {
     "meaning": "You (informal).",
     "german": "du",
     "register": "informal",
     "pronunciation": "doo",
-    "audio": "146"
+    "audio": "156"
   },
   {
     "meaning": "You all (informal).",
     "german": "ihr",
     "register": "informal",
     "pronunciation": "eer",
-    "audio": "147"
+    "audio": "157"
   },
   {
     "meaning": "You (formal).",
     "german": "Sie",
     "register": "formal",
     "pronunciation": "zee",
-    "audio": "148"
+    "audio": "158"
   },
   {
     "meaning": "You all (formal).",
     "german": "Sie",
     "register": "formal",
     "pronunciation": "zee",
-    "audio": "149"
+    "audio": "159"
   },
   {
     "meaning": "Max, where do you live?",
     "german": "Max, wo wohnst du?",
     "register": "informal",
     "pronunciation": "maks voh VOH(n)st doo",
-    "audio": "150"
+    "audio": "160"
   },
   {
     "meaning": "Julia and Peter, where do you all live?",
     "german": "Julia und Peter, wo wohnt ihr?",
     "register": "informal",
     "pronunciation": "yoo-leeah oont PAY-tehr voh VOHNT eer",
-    "audio": "151"
+    "audio": "161"
   },
   
 
@@ -1144,35 +1144,35 @@
     "german": "Herr Müller, wo wohnen Sie?",
     "register": "formal",
     "pronunciation": "hɛr MOOL-ər voh VOH-nen zee",
-    "audio": "152"
+    "audio": "162"
   },
   {
     "meaning": "Mr. and Mrs. Müller, where do you live?",
     "german": "Herr und Frau Müller, wo wohnen Sie?",
     "register": "formal",
     "pronunciation": "hɛr oont frow MOOL-ər voh VOH-nen zee",
-    "audio": "153"
+    "audio": "163"
   },
   {
     "meaning": "He (masculine)",
     "german": "er",
     "register": "general",
     "pronunciation": "air",
-    "audio": "154"
+    "audio": "164"
   },
   {
     "meaning": "She (feminine)",
     "german": "sie",
     "register": "general",
     "pronunciation": "zee",
-    "audio": "155"
+    "audio": "165"
   },
   {
     "meaning": "It (neuter)",
     "german": "es",
     "register": "general",
     "pronunciation": "es",
-    "audio": "156"
+    "audio": "166"
   },
 
 
@@ -1181,63 +1181,63 @@
     "german": "sie",
     "register": "general",
     "pronunciation": "zee",
-    "audio": "157"
+    "audio": "167"
   },
   {
     "meaning": "This is Michael.",
     "german": "Das ist Michael.",
     "register": "general",
     "pronunciation": "das ist MIK-ha-el",
-    "audio": "158"
+    "audio": "168"
   },
   {
     "meaning": "He lives in London.",
     "german": "Er wohnt in London.",
     "register": "general",
     "pronunciation": "air VOHNT in LUN-dən",
-    "audio": "159"
+    "audio": "169"
   },
   {
     "meaning": "This is Michaela.",
     "german": "Das ist Michaela.",
     "register": "general",
     "pronunciation": "das ist mee-HAH-eh-lah",
-    "audio": "160"
+    "audio": "170"
   },
   {
     "meaning": "She lives in Paris.",
     "german": "Sie wohnt in Paris.",
     "register": "general",
     "pronunciation": "zee VOHNT in pah-REE",
-    "audio": "161"
+    "audio": "171"
   },
   {
     "meaning": "This is my book.",
     "german": "Das ist mein Buch.",
     "register": "general",
     "pronunciation": "das ist mine BOOKH",
-    "audio": "162"
+    "audio": "172"
   },
   {
     "meaning": "It is old.",
     "german": "Es ist alt.",
     "register": "general",
     "pronunciation": "es ist alt",
-    "audio": "163"
+    "audio": "173"
   },
   {
     "meaning": "This is Petra and Jürgen.",
     "german": "Das sind Petra und Jürgen.",
     "register": "general",
     "pronunciation": "das zint PEH-trah oont YUR-gen",
-    "audio": "164"
+    "audio": "174"
   },
   {
     "meaning": "They live in Hamburg.",
     "german": "Sie wohnen in Hamburg.",
     "register": "general",
     "pronunciation": "zee VOH-nen in HAM-burg",
-    "audio": "165"
+    "audio": "175"
   },
   
   {
@@ -1245,42 +1245,42 @@
     "german": "Personalpronomen",
     "register": "general",
     "pronunciation": "pehr-suh-nahl proh-NOH-men",
-    "audio": "166"
+    "audio": "176"
   },
   {
     "meaning": "Accusative case",
     "german": "Akkusativ",
     "register": "general",
     "pronunciation": "ak-koo-ZAH-tiv",
-    "audio": "167"
+    "audio": "177"
   },
   {
     "meaning": "Me (accusative)",
     "german": "mich",
     "register": "general",
     "pronunciation": "mikh",
-    "audio": "168"
+    "audio": "178"
   },
   {
     "meaning": "Hi, I am Maria.",
     "german": "Hi, ich bin Maria.",
     "register": "general",
     "pronunciation": "hee, ikh bin MEE-ah",
-    "audio": "169"
+    "audio": "179"
   },
   {
     "meaning": "Do you know me?",
     "german": "Kennst du mich?",
     "register": "informal",
     "pronunciation": "kennst doo mikh",
-    "audio": "170"
+    "audio": "180"
   },
   {
     "meaning": "You (informal) — accusative",
     "german": "dich",
     "register": "informal",
     "pronunciation": "deekh",
-    "audio": "171"
+    "audio": "181"
   },
 
   {
@@ -1288,21 +1288,21 @@
     "german": "Wer bist du?",
     "register": "informal",
     "pronunciation": "vehr bist doo",
-    "audio": "172"
+    "audio": "182"
   },
   {
     "meaning": "I don't know you.",
     "german": "Ich kenne dich nicht.",
     "register": "informal",
     "pronunciation": "ikh KEN-neh deekh nikh(t)",
-    "audio": "173"
+    "audio": "183"
   },
   {
     "meaning": "You (formal).",
     "german": "Sie",
     "register": "formal",
     "pronunciation": "zee",
-    "audio": "174"
+    "audio": "184"
   },
 
 
@@ -1311,21 +1311,21 @@
     "german": "Herr Schmidt, wo sind Sie?",
     "register": "formal",
     "pronunciation": "hɛr SHMIHT voh zint zee",
-    "audio": "175"
+    "audio": "185"
   },
   {
     "meaning": "I am looking for you.",
     "german": "Ich suche Sie.",
     "register": "formal",
     "pronunciation": "ikh zoo-kheh zee",
-    "audio": "176"
+    "audio": "186"
   },
   {
     "meaning": "Him",
     "german": "ihn",
     "register": "general",
     "pronunciation": "e(g)hn",
-    "audio": "177"
+    "audio": "187"
   },
 
   {
@@ -1333,28 +1333,28 @@
     "german": "Das ist Michael.",
     "register": "general",
     "pronunciation": "das ist MEE-kah-el",
-    "audio": "178"
+    "audio": "188"
   },
   {
     "meaning": "He is an architect.",
     "german": "Er ist Architekt.",
     "register": "general",
     "pronunciation": "air ist AHR-khi-tekt",
-    "audio": "179"
+    "audio": "189"
   },
   {
     "meaning": "I know him.",
     "german": "Ich kenne ihn.",
     "register": "general",
     "pronunciation": "ikh KEN-neh ihn",
-    "audio": "180"
+    "audio": "190"
   },
   {
     "meaning": "She / her (subject pronoun).",
     "german": "sie",
     "register": "general",
     "pronunciation": "zee",
-    "audio": "181"
+    "audio": "191"
   },
 
   {
@@ -1362,21 +1362,21 @@
     "german": "Das ist Michaela. Sie studiert.",
     "register": "general",
     "pronunciation": "das ist mee-HAH-eh-lah zee zoo-DEE-ert",
-    "audio": "182"
+    "audio": "192"
   },
   {
     "meaning": "I find her very beautiful.",
     "german": "Ich finde sie sehr schön.",
     "register": "general",
     "pronunciation": "ikh FIN-də zee sehr shern shern",
-    "audio": "183"
+    "audio": "193"
   },
   {
     "meaning": "It",
     "german": "es",
     "register": "general",
     "pronunciation": "es",
-    "audio": "184"
+    "audio": "194"
   },
 
 
@@ -1386,49 +1386,49 @@
     "german": "Das ist mein Buch.",
     "register": "general",
     "pronunciation": "das ist mine bookh",
-    "audio": "185"
+    "audio": "195"
   },
   {
     "meaning": "It is old.",
     "german": "Es ist alt.",
     "register": "general",
     "pronunciation": "es ist alt",
-    "audio": "186"
+    "audio": "196"
   },
   {
     "meaning": "I find it very interesting.",
     "german": "Ich finde es sehr interessant.",
     "register": "general",
     "pronunciation": "ikh FIN-də es zehr in-tre-ess-ant",
-    "audio": "187"
+    "audio": "197"
   },
   {
     "meaning": "Us (accusative).",
     "german": "uns",
     "register": "general",
     "pronunciation": "oonts",
-    "audio": "188"
+    "audio": "198"
   },
   {
     "meaning": "You all.",
     "german": "euch",
     "register": "informal",
     "pronunciation": "oykh",
-    "audio": "189"
+    "audio": "199"
   },
   {
     "meaning": "You all.",
     "german": "Sie",
     "register": "formal",
     "pronunciation": "zee",
-    "audio": "190"
+    "audio": "200"
   },
   {
     "meaning": "Them.",
     "german": "sie",
     "register": "general",
     "pronunciation": "zee",
-    "audio": "191"
+    "audio": "201"
   },
   
 
@@ -1437,63 +1437,63 @@
     "german": "Wir sind Samantha und Mike.",
     "register": "general",
     "pronunciation": "veer zint SAH-man-tah oont mıhk",
-    "audio": "192"
+    "audio": "202"
   },
   {
     "meaning": "Do you know us?",
     "german": "Kennst du uns?",
     "register": "informal",
     "pronunciation": "KEN(n)st doo oonts",
-    "audio": "193"
+    "audio": "203"
   },
   {
     "meaning": "Who are you all?",
     "german": "Wer seid ihr?",
     "register": "informal",
     "pronunciation": "vehr zint eer",
-    "audio": "194"
+    "audio": "204"
   },
   {
     "meaning": "I don't know you all.",
     "german": "Ich kenne euch nicht.",
     "register": "informal",
     "pronunciation": "ikh KEN-neh oykh nikh(t)",
-    "audio": "195"
+    "audio": "205"
   },
   {
     "meaning": "Mr. and Mrs. Müller, where are you?",
     "german": "Herr und Frau Müller, wo sind Sie?",
     "register": "formal",
     "pronunciation": "hɛr oont frow MOOL-ər voh zint zee",
-    "audio": "196"
+    "audio": "206"
   },
   {
     "meaning": "I am looking for you.",
     "german": "Ich suche Sie.",
     "register": "formal",
     "pronunciation": "ikh ZOO-kheh zee",
-    "audio": "197"
+    "audio": "207"
   },
   {
     "meaning": "This is Petra and Jürgen.",
     "german": "Das sind Petra und Jürgen.",
     "register": "general",
     "pronunciation": "das zint PEH-trah oont YUR-gen",
-    "audio": "198"
+    "audio": "208"
   },
   {
     "meaning": "I know them.",
     "german": "Ich kenne sie.",
     "register": "general",
     "pronunciation": "ikh KEN-neh zee",
-    "audio": "199"
+    "audio": "209"
   },
   {
     "meaning": "I find him nice.",
     "german": "Ich finde ihn nett.",
     "register": "general",
     "pronunciation": "ikh FIN-də ihn nɛt",
-    "audio": "200"
+    "audio": "210"
   }
   
 ]
