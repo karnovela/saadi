@@ -1494,7 +1494,116 @@
     "register": "general",
     "pronunciation": "ikh FIN-də ihn nɛt",
     "audio": "210"
-  }
+  },
   
+
+  {
+    "meaning": "Month",
+    "german": "Der Monat",
+    "register": "general",
+    "pronunciation": "dehr MOH-nat",
+    "audio": "211"
+  },
+  {
+    "meaning": "Months",
+    "german": "Die Monate",
+    "register": "general",
+    "pronunciation": "dee MOH-nah-teh",
+    "audio": "212"
+  },
+
+  {
+    "meaning": "January",
+    "german": "Januar",
+    "register": "general",
+    "pronunciation": "YA-noo-ar",
+    "audio": "213"
+  },
+  {
+    "meaning": "February",
+    "german": "Februar",
+    "register": "general",
+    "pronunciation": "fay-BROO-ar",
+    "audio": "214"
+  },
+  {
+    "meaning": "March",
+    "german": "März",
+    "register": "general",
+    "pronunciation": "mehrts",
+    "audio": "215"
+  },
+  {
+    "meaning": "April",
+    "german": "April",
+    "register": "general",
+    "pronunciation": "AH-pril",
+    "audio": "216"
+  },
+  {
+    "meaning": "May",
+    "german": "Mai",
+    "register": "general",
+    "pronunciation": "MY",
+    "audio": "217"
+  },
+  {
+    "meaning": "June",
+    "german": "Juni",
+    "register": "general",
+    "pronunciation": "YOO-nee",
+    "audio": "218"
+  },
+  {
+    "meaning": "July",
+    "german": "Juli",
+    "register": "general",
+    "pronunciation": "YOO-lee",
+    "audio": "219"
+  },
+  {
+    "meaning": "August",
+    "german": "August",
+    "register": "general",
+    "pronunciation": "ow-GOOST",
+    "audio": "220"
+  },
+  {
+    "meaning": "September",
+    "german": "September",
+    "register": "general",
+    "pronunciation": "sep-TEHM-ber",
+    "audio": "221"
+  },
+  {
+    "meaning": "October",
+    "german": "Oktober",
+    "register": "general",
+    "pronunciation": "ok-toh-ber",
+    "audio": "222"
+  },
+  {
+    "meaning": "November",
+    "german": "November",
+    "register": "general",
+    "pronunciation": "no-VEM-ber",
+    "audio": "223"
+  },
+  {
+    "meaning": "December",
+    "german": "Dezember",
+    "register": "general",
+    "pronunciation": "deh-TSEN-ber",
+    "audio": "224"
+  },
+  {
+    "meaning": "My birthday is in January.",
+    "german": "Mein Geburtstag ist im Januar.",
+    "register": "general",
+    "pronunciation": "mine GUH-burt-shtag ist im YA-noo-ar",
+    "audio": "225"
+  }
 ]
+
+
 
