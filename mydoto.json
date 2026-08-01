@@ -1602,7 +1602,177 @@
     "register": "general",
     "pronunciation": "mine GUH-burt-shtag ist im YA-noo-ar",
     "audio": "225"
-  }
+  },
+
+  
+  {
+    "meaning": "Hobby",
+    "german": "das Hobby",
+    "register": "general",
+    "pronunciation": "das HOH-bee",
+    "audio": "226"
+  },
+  {
+    "meaning": "Hobbies",
+    "german": "die Hobbys",
+    "register": "general",
+    "pronunciation": "dee HOH-bees",
+    "audio": "227"
+  },
+  {
+    "meaning": "Singing",
+    "german": "singen",
+    "register": "general",
+    "pronunciation": "ZIN-gen",
+    "audio": "228"
+  },
+  {
+    "meaning": "Dancing",
+    "german": "tanzen",
+    "register": "general",
+    "pronunciation": "TAN-tsen",
+    "audio": "229"
+  },
+  {
+    "meaning": "Read",
+    "german": "lesen",
+    "register": "general",
+    "pronunciation": "LAY-zen",
+    "audio": "230"
+  },
+  {
+    "meaning": "Write",
+    "german": "schreiben",
+    "register": "general",
+    "pronunciation": "SHRYE-ben",
+    "audio": "231"
+  },
+  {
+    "meaning": "Photographer",
+    "german": "fotografieren",
+    "register": "general",
+    "pronunciation": "foh-toh-gra-fee-ren",
+    "audio": "232"
+  },
+  {
+    "meaning": "Jogging",
+    "german": "joggen",
+    "register": "general",
+    "pronunciation": "YOG-en",
+    "audio": "233"
+  },
+  {
+    "meaning": "Swimming",
+    "german": "schwimmen",
+    "register": "general",
+    "pronunciation": "SHVIM-men",
+    "audio": "234"
+  },
+  {
+    "meaning": "Going to cinema",
+    "german": "ins Kino gehen",
+    "register": "general",
+    "pronunciation": "ins KEE-noh geh-en",
+    "audio": "235"
+  },
+  {
+    "meaning": "Cooking",
+    "german": "kochen",
+    "register": "general",
+    "pronunciation": "KOH-khen",
+    "audio": "236"
+  },
+  {
+    "meaning": "Painting",
+    "german": "malen",
+    "register": "general",
+    "pronunciation": "MAH-len",
+    "audio": "237"
+  },
+  {
+    "meaning": "Shopping",
+    "german": "einkaufen",
+    "register": "general",
+    "pronunciation": "INE-kowf-en",
+    "audio": "238"
+  },
+  {
+    "meaning": "Handicraft work",
+    "german": "basteln",
+    "register": "general",
+    "pronunciation": "BAHS-teln",
+    "audio": "239"
+  },
+  {
+    "meaning": "Skiing",
+    "german": "Skifahren",
+    "register": "general",
+    "pronunciation": "Skee-fah-ren",
+    "audio": "240"
+  },
+  {
+    "meaning": "Hiking",
+    "german": "wandern",
+    "register": "general",
+    "pronunciation": "VAHN-dern",
+    "audio": "241"
+  },
+  {
+    "meaning": "Playing on computer",
+    "german": "am Computer spielen",
+    "register": "general",
+    "pronunciation": "am KUM-pyoo-ter shpee-len",
+    "audio": "242"
+  },
+  {
+    "meaning": "Playing cards",
+    "german": "Karten spielen",
+    "register": "general",
+    "pronunciation": "KAR-ten shpee-len",
+    "audio": "243"
+  },
+  {
+    "meaning": "Going to fitness center",
+    "german": "ins Fitnessstudio gehen",
+    "register": "general",
+    "pronunciation": "ins FIHN-ness-too-dee-oh geh-en",
+    "audio": "244"
+  },
+  {
+    "meaning": "Running",
+    "german": "laufen",
+    "register": "general",
+    "pronunciation": "LOU-fen",
+    "audio": "245"
+  },
+  {
+    "meaning": "What’s your hobby?",
+    "german": "Was ist dein Hobby?",
+    "register": "general",
+    "pronunciation": "vas ist dain HOH-bee",
+    "audio": "246"
+  },
+  {
+    "meaning": "What are your hobbies?",
+    "german": "Was sind deine Hobbys?",
+    "register": "general",
+    "pronunciation": "vas zint dain-ə HOH-bees",
+    "audio": "247"
+  },
+  {
+    "meaning": "My hobby is reading.",
+    "german": "Mein Hobby ist lesen.",
+    "register": "general",
+    "pronunciation": "mine HOH-bee ist LAY-zen",
+    "audio": "248"
+  },
+  {
+    "meaning": "My hobbies are photographer and going to the fitness center.",
+    "german": "Meine Hobbys sind Fotografieren und ins Fitnessstudio gehen.",
+    "register": "general",
+    "pronunciation": "MAI-neh HOH-bees zint FOH-toh-gra-fee-ren oont ins FIHN-ness-too-dee-oh geh-en",
+    "audio": "249"
+  },
 ]
 
 
