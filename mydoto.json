@@ -1773,7 +1773,200 @@
     "pronunciation": "MAI-neh HOH-bees zint FOH-toh-gra-fee-ren oont ins FIHN-ness-too-dee-oh geh-en",
     "audio": "249"
   },
+
+
+  
+  {
+    "meaning": "Personal pronouns",
+    "german": "Personal Pronomen",
+    "register": "general",
+    "pronunciation": "pee-ZOH-nal proh-NOH-men",
+    "audio": "250"
+  },
+  {
+    "meaning": "Dative case",
+    "german": "Dativ",
+    "register": "general",
+    "pronunciation": "DAH-tif",
+    "audio": "251"
+  },
+  {
+    "meaning": "me (dative)",
+    "german": "mir",
+    "register": "general",
+    "pronunciation": "meer",
+    "audio": "252"
+  },
+  {
+    "meaning": "Will you give me a chocolate?",
+    "german": "Gibst du mir eine Schokolade?",
+    "register": "general",
+    "pronunciation": "GIPST doo meer eye-neh SHOW-koh-lah-duh",
+    "audio": "253"
+  },
+  {
+    "meaning": "you (informal singular, dative)",
+    "german": "dir",
+    "register": "general",
+    "pronunciation": "deer",
+    "audio": "254"
+  },
+  {
+    "meaning": "you (formal singular, dative)",
+    "german": "Ihnen",
+    "register": "formal",
+    "pronunciation": "EEN-en",
+    "audio": "255"
+  },
+  {
+    "meaning": "him (dative)",
+    "german": "ihm",
+    "register": "general",
+    "pronunciation": "eem",
+    "audio": "256"
+  },
+  {
+    "meaning": "her (dative)",
+    "german": "ihr",
+    "register": "general",
+    "pronunciation": "eer",
+    "audio": "257"
+  },
+  {
+    "meaning": "us (dative)",
+    "german": "uns",
+    "register": "general",
+    "pronunciation": "oonttss",
+    "audio": "258"
+  },
+  {
+    "meaning": "you all (informal plural, dative)",
+    "german": "euch",
+    "register": "general",
+    "pronunciation": "oykh",
+    "audio": "259"
+  },
+  {
+    "meaning": "you all (formal plural, dative)",
+    "german": "Ihnen",
+    "register": "formal",
+    "pronunciation": "EEN-en",
+    "audio": "260"
+  },
+  {
+    "meaning": "them (dative)",
+    "german": "ihnen",
+    "register": "general",
+    "pronunciation": "EEN-en",
+    "audio": "261"
+  },
+  {
+    "meaning": "Hi. I am Maria.",
+    "german": "Hi. Ich bin Maria.",
+    "register": "general",
+    "pronunciation": "hi ikh bin mah-REE-ah",
+    "audio": "262"
+  },
+  {
+    "meaning": "Anna, you are nice.",
+    "german": "Anna, du bist nett.",
+    "register": "general",
+    "pronunciation": "an-na doo bist net",
+    "audio": "263"
+  },
+  {
+    "meaning": "I will give you a chocolate. (informal)",
+    "german": "Ich gebe dir eine Schokolade.",
+    "register": "general",
+    "pronunciation": "ikh GEH-buh deer eye-neh SHOW-koh-lah-duh",
+    "audio": "264"
+  },
+  {
+    "meaning": "Mr Schmidt, you are nice. (formal)",
+    "german": "Herr Schmidt, Sie sind nett.",
+    "register": "formal",
+    "pronunciation": "hɛr SHMIT, zee-zint net",
+    "audio": "265"
+  },
+  {
+    "meaning": "I will give you a chocolate. (formal)",
+    "german": "Ich gebe Ihnen eine Schokolade.",
+    "register": "formal",
+    "pronunciation": "ikh GEH-buh EE-nən eye-neh SHOW-koh-lah-duh",
+    "audio": "266"
+  },
+  {
+    "meaning": "I will give him a chocolate.",
+    "german": "Ich gebe ihm eine Schokolade.",
+    "register": "general",
+    "pronunciation": "ikh GEH-buh eem eye-neh SHOW-koh-lah-duh",
+    "audio": "267"
+  },
+  {
+    "meaning": "This is Michaela.",
+    "german": "Das ist Michaela.",
+    "register": "general",
+    "pronunciation": "das ist mee-KAY-ah-lah",
+    "audio": "268"
+  },
+  {
+    "meaning": "She is a student.",
+    "german": "Sie ist Studentin.",
+    "register": "general",
+    "pronunciation": "zee ist STU-dehn-teen",
+    "audio": "269"
+  },
+  {
+    "meaning": "I will give her a chocolate.",
+    "german": "Ich gebe ihr eine Schokolade.",
+    "register": "general",
+    "pronunciation": "ikh GEH-buh eer eye-neh SHOW-koh-lah-duh",
+    "audio": "270"
+  },
+  {
+    "meaning": "This is a child.",
+    "german": "Das ist ein Kind.",
+    "register": "general",
+    "pronunciation": "das ist ayn kind",
+    "audio": "271"
+  },
+  {
+    "meaning": "It is sweet.",
+    "german": "Es ist süß.",
+    "register": "general",
+    "pronunciation": "es ist süss",
+    "audio": "272"
+  },
+  {
+    "meaning": "Marie and Tobi, you are nice.",
+    "german": "Marie und Tobi, ihr seid nett.",
+    "register": "general",
+    "pronunciation": "mah-ree-eh oont TOH-bee eekh zint net",
+    "audio": "273"
+  },
+  {
+    "meaning": "I want to give you a chocolate. (you all, informal)",
+    "german": "Ich gebe euch eine Schokolade.",
+    "register": "general",
+    "pronunciation": "ikh GEH-buh oykh eye-neh SHOW-koh-lah-duh",
+    "audio": "274"
+  },
+  {
+    "meaning": "This is Petra and Jürgen. They are nice.",
+    "german": "Das sind Petra und Jürgen. Sie sind nett.",
+    "register": "general",
+    "pronunciation": "das zint PAY-tra oont YUR-gen zee zint net",
+    "audio": "275"
+  },
+  {
+    "meaning": "I will give them a chocolate.",
+    "german": "Ich gebe ihnen eine Schokolade.",
+    "register": "general",
+    "pronunciation": "ikh GEH-buh EE-nən eye-neh SHOW-koh-lah-duh",
+    "audio": "276"
+  }
 ]
+
 
 
 
