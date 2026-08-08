@@ -2192,4 +2192,349 @@
   },
 
   
+
+
+  {
+    "meaning": "Furniture",
+    "german": "das Möbel",
+    "register": "general",
+    "pronunciation": "das MOH-bel",
+    "audio": "308"
+  },
+  {
+    "meaning": "Sofa",
+    "german": "das Sofa",
+    "register": "general",
+    "pronunciation": "das ZOH-fah",
+    "audio": "309"
+  },
+  {
+    "meaning": "Sofas",
+    "german": "die Sofas",
+    "register": "general",
+    "pronunciation": "diː ZOH-fahss",
+    "audio": "310"
+  },
+  {
+    "meaning": "Arm chair",
+    "german": "der Sessel",
+    "register": "general",
+    "pronunciation": "deɐ̯ ZEH-sel",
+    "audio": "311"
+  },
+  {
+    "meaning": "Arm chairs",
+    "german": "die Sessel",
+    "register": "general",
+    "pronunciation": "diː ZEH-sel",
+    "audio": "312"
+  },
+  {
+    "meaning": "Chair",
+    "german": "der Stuhl",
+    "register": "general",
+    "pronunciation": "deɐ̯ shtuhl",
+    "audio": "313"
+  },
+  {
+    "meaning": "Chairs",
+    "german": "die Stühle",
+    "register": "general",
+    "pronunciation": "diː SHTYL-eh",
+    "audio": "314"
+  },
+  {
+    "meaning": "Bed",
+    "german": "das Bett",
+    "register": "general",
+    "pronunciation": "das BETT",
+    "audio": "315"
+  },
+  {
+    "meaning": "Beds",
+    "german": "die Betten",
+    "register": "general",
+    "pronunciation": "diː BET-tən",
+    "audio": "316"
+  },
+  {
+    "meaning": "Table",
+    "german": "der Tisch",
+    "register": "general",
+    "pronunciation": "deɐ̯ TISH",
+    "audio": "317"
+  },
+  {
+    "meaning": "Tables",
+    "german": "die Tische",
+    "register": "general",
+    "pronunciation": "diː TISH-eh",
+    "audio": "318"
+  },
+  {
+    "meaning": "Desk",
+    "german": "der Schreibtisch",
+    "register": "general",
+    "pronunciation": "deɐ̯ SHRAIP-tɪSH",
+    "audio": "319"
+  },
+  {
+    "meaning": "Desks",
+    "german": "die Schreibtische",
+    "register": "general",
+    "pronunciation": "diː SHRAIP-tɪSH-eh",
+    "audio": "320"
+  },
+  {
+    "meaning": "Table lamp",
+    "german": "die Tischlampe",
+    "register": "general",
+    "pronunciation": "diː TISH-lahm-peh",
+    "audio": "321"
+  },
+  {
+    "meaning": "Table lamps",
+    "german": "die Tischlampen",
+    "register": "general",
+    "pronunciation": "diː TISH-lahm-pen",
+    "audio": "322"
+  },
+  {
+    "meaning": "Floor lamp",
+    "german": "die Stehlampe",
+    "register": "general",
+    "pronunciation": "diː SHTEH-lahm-peh",
+    "audio": "323"
+  },
+  {
+    "meaning": "Floor lamps",
+    "german": "die Stehlampen",
+    "register": "general",
+    "pronunciation": "diː SHTEH-lahm-pen",
+    "audio": "324"
+  },
+  {
+    "meaning": "Standard lamp",
+    "german": "die Stehlampe",
+    "register": "general",
+    "pronunciation": "diː SHTEH-lahm-peh",
+    "audio": "325"
+  },
+  {
+    "meaning": "Standard lamps",
+    "german": "die Stehlampen",
+    "register": "general",
+    "pronunciation": "diː SHTEH-lahm-pen",
+    "audio": "326"
+  },
+  {
+    "meaning": "Cupboard",
+    "german": "der Schrank",
+    "register": "general",
+    "pronunciation": "deɐ̯ SHRAHNK",
+    "audio": "327"
+  },
+  {
+    "meaning": "Cupboards",
+    "german": "die Schränke",
+    "register": "general",
+    "pronunciation": "diː SHRÄN-keh",
+    "audio": "328"
+  },
+  {
+    "meaning": "Wardrobe / closet",
+    "german": "der Kleiderschrank",
+    "register": "general",
+    "pronunciation": "deɐ̯ KLYE-der-shraŋk",
+    "audio": "329"
+  },
+  {
+    "meaning": "Wardrobes / closets",
+    "german": "die Kleiderschränke",
+    "register": "general",
+    "pronunciation": "diː KLYE-der-shrɛŋ-keh",
+    "audio": "330"
+  },
+  {
+    "meaning": "Couch",
+    "german": "die Couch",
+    "register": "general",
+    "pronunciation": "diː KOUSH",
+    "audio": "331"
+  },
+  {
+    "meaning": "Couches",
+    "german": "die Couches",
+    "register": "general",
+    "pronunciation": "diː KOUSH-es",
+    "audio": "332"
+  },
+  {
+    "meaning": "Carpet / rug",
+    "german": "der Teppich",
+    "register": "general",
+    "pronunciation": "deɐ̯ TEH-pikh",
+    "audio": "333"
+  },
+  {
+    "meaning": "Carpets / rugs",
+    "german": "die Teppiche",
+    "register": "general",
+    "pronunciation": "diː TEH-pikh-eh",
+    "audio": "334"
+  },
+  {
+    "meaning": "Rack / shelf",
+    "german": "das Regal",
+    "register": "general",
+    "pronunciation": "das reh-GAHHL",
+    "audio": "335"
+  },
+  {
+    "meaning": "Racks / shelves",
+    "german": "die Regale",
+    "register": "general",
+    "pronunciation": "diː reh-GAH-leh",
+    "audio": "336"
+  },
+  {
+    "meaning": "Bookshelf / bookcase",
+    "german": "das Bücherregal",
+    "register": "general",
+    "pronunciation": "das BYUH-ker-reh-GAHHL",
+    "audio": "337"
+  },
+  {
+    "meaning": "Bookshelves / bookcases",
+    "german": "die Bücherregale",
+    "register": "general",
+    "pronunciation": "diː BYUH-ker-reh-GAH-leh",
+    "audio": "338"
+  },
+  {
+    "meaning": "Chest of drawers",
+    "german": "die Kommode",
+    "register": "general",
+    "pronunciation": "diː KO-moh-deh",
+    "audio": "339"
+  },
+  {
+    "meaning": "Chests of drawers",
+    "german": "die Kommoden",
+    "register": "general",
+    "pronunciation": "diː KO-mo-den",
+    "audio": "340"
+  },
+  {
+    "meaning": "Night table / bedside cabinet",
+    "german": "der Nachttisch",
+    "register": "general",
+    "pronunciation": "deɐ̯ NAKHT-tɪSH",
+    "audio": "341"
+  },
+  {
+    "meaning": "Night tables / bedside cabinets",
+    "german": "die Nachttische",
+    "register": "general",
+    "pronunciation": "diː NAKHT-tɪSH-eh",
+    "audio": "342"
+  },
+  {
+    "meaning": "Vase",
+    "german": "die Vase",
+    "register": "general",
+    "pronunciation": "diː VAH-zeh",
+    "audio": "343"
+  },
+  {
+    "meaning": "Vases",
+    "german": "die Vasen",
+    "register": "general",
+    "pronunciation": "diː VAH-zən",
+    "audio": "344"
+  },
+  {
+    "meaning": "Mirror",
+    "german": "der Spiegel",
+    "register": "general",
+    "pronunciation": "deɐ̯ SHPEE-gəl",
+    "audio": "345"
+  },
+  {
+    "meaning": "Mirrors",
+    "german": "die Spiegel",
+    "register": "general",
+    "pronunciation": "diː SHPEE-gəl",
+    "audio": "346"
+  },
+  {
+    "meaning": "Stool",
+    "german": "der Hocker",
+    "register": "general",
+    "pronunciation": "deɐ̯ HOH-ker",
+    "audio": "347"
+  },
+  {
+    "meaning": "Stools",
+    "german": "die Hocker",
+    "register": "general",
+    "pronunciation": "diː HOH-ker",
+    "audio": "348"
+  },
+  {
+    "meaning": "Bench / settee",
+    "german": "die Sitzbank",
+    "register": "general",
+    "pronunciation": "diː ZITS-bahnk",
+    "audio": "349"
+  },
+  {
+    "meaning": "Benches / settees",
+    "german": "die Sitzbänke",
+    "register": "general",
+    "pronunciation": "diː ZITS-bɛŋ-keh",
+    "audio": "350"
+  },
+  {
+    "meaning": "Curtain / drape",
+    "german": "der Vorhang",
+    "register": "general",
+    "pronunciation": "deɐ̯ FOR-hahŋk",
+    "audio": "351"
+  },
+  {
+    "meaning": "Curtains / drapes",
+    "german": "die Vorhänge",
+    "register": "general",
+    "pronunciation": "diː FOR-hɛŋ-eh",
+    "audio": "352"
+  },
+  {
+    "meaning": "Clock",
+    "german": "die Uhr",
+    "register": "general",
+    "pronunciation": "diː OOR",
+    "audio": "353"
+  },
+  {
+    "meaning": "Clocks",
+    "german": "die Uhren",
+    "register": "general",
+    "pronunciation": "diː OO-rehn",
+    "audio": "354"
+  },
+  {
+    "meaning": "What do you have in your room?",
+    "german": "Was hast du in deinem Zimmer?",
+    "register": "general",
+    "pronunciation": "vas hast doo in DEI-nem TSIM-er",
+    "audio": "355"
+  },
+  {
+    "meaning": "I have a bed, a couch, two chairs, a desk, a clock and a cupboard. And you?",
+    "german": "Ich habe ein Bett, eine Couch, zwei Stühle, einen Schreibtisch, eine Uhr und einen Schrank. Und du?",
+    "register": "general",
+    "pronunciation": "ikh HAH-buh ein BETT EYE-nə KOUSH tsvai SHTYL-eh EY-nən SHRAIP-tɪSH EYE-nə OOR und EY-nən SHRAHNK unt doo",
+    "audio": "356"
+  }
 ]
