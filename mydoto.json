@@ -2087,8 +2087,21 @@
     "pronunciation": "MYE-ne fa-mee-lee ɪst KLAIN",
     "audio": "293"
   },
-
-
+  
+  {
+    "meaning": "Weekdays",
+    "german": "die Wochentage",
+    "register": "general",
+    "pronunciation": "diː ˈvoːxənˌtaːɡə",
+    "audio": "358"
+  },
+  {
+    "meaning": "Weekends",
+    "german": "Wochenenden",
+    "register": "general",
+    "pronunciation": "ˈvoːxənˌʔeːndən",
+    "audio": "360"
+  },
 
 
 
