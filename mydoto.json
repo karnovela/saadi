@@ -1964,9 +1964,130 @@
     "register": "general",
     "pronunciation": "ikh GEH-buh EE-nən eye-neh SHOW-koh-lah-duh",
     "audio": "276"
-  }
+  },
+
+
+
+  {
+    "meaning": "Father",
+    "german": "der Vater",
+    "register": "general",
+    "pronunciation": "deɐ̯ FAHT-er",
+    "audio": "277"
+  },
+  {
+    "meaning": "Mother",
+    "german": "die Mutter",
+    "register": "general",
+    "pronunciation": "diː MOOT-er",
+    "audio": "278"
+  },
+  {
+    "meaning": "Brother",
+    "german": "der Bruder",
+    "register": "general",
+    "pronunciation": "deɐ̯ BROO-der",
+    "audio": "279"
+  },
+  {
+    "meaning": "Sister",
+    "german": "die Schwester",
+    "register": "general",
+    "pronunciation": "diː SHVESS-ter",
+    "audio": "280"
+  },
+  {
+    "meaning": "Cousin (male)",
+    "german": "der Cousin",
+    "register": "general",
+    "pronunciation": "deɐ̯ Koo-ZEEN",
+    "audio": "281"
+  },
+  {
+    "meaning": "Cousin (female)",
+    "german": "die Cousine",
+    "register": "general",
+    "pronunciation": "diː Koo-ZEE-neh",
+    "audio": "282"
+  },
+  {
+    "meaning": "Grandparents",
+    "german": "die Großeltern",
+    "register": "general",
+    "pronunciation": "diː GROHSS-ehl-tern",
+    "audio": "283"
+  },
+  {
+    "meaning": "Parents",
+    "german": "die Eltern",
+    "register": "general",
+    "pronunciation": "diː EHL-tern",
+    "audio": "284"
+  },
+  {
+    "meaning": "Grandfather",
+    "german": "der Großvater",
+    "register": "general",
+    "pronunciation": "deɐ̯ GROHSS-FAHT-er",
+    "audio": "285"
+  },
+  {
+    "meaning": "Grandmother",
+    "german": "die Großmutter",
+    "register": "general",
+    "pronunciation": "diː GROHSS-MOOT-er",
+    "audio": "286"
+  },
+  {
+    "meaning": "Uncle",
+    "german": "der Onkel",
+    "register": "general",
+    "pronunciation": "deɐ̯ OHNK-el",
+    "audio": "287"
+  },
+  {
+    "meaning": "Auntie",
+    "german": "die Tante",
+    "register": "general",
+    "pronunciation": "diː TAHN-teh",
+    "audio": "288"
+  },
+  {
+    "meaning": "Siblings",
+    "german": "die Geschwister",
+    "register": "general",
+    "pronunciation": "diː guh-SHVISS-ter",
+    "audio": "289"
+  },
+  {
+    "meaning": "This is my father.",
+    "german": "Das ist mein Vater.",
+    "register": "general",
+    "pronunciation": "das ɪst mine FAHT-er",
+    "audio": "290"
+  },
+  {
+    "meaning": "These are my parents.",
+    "german": "Das sind meine Eltern.",
+    "register": "general",
+    "pronunciation": "das zint MYE-ne EHLL-tern",
+    "audio": "291"
+  },
+  {
+    "meaning": "My family is big.",
+    "german": "Meine Familie ist groß.",
+    "register": "general",
+    "pronunciation": "MYE-ne fa-mee-lee ɪst GROHS",
+    "audio": "292"
+  },
+  {
+    "meaning": "My family is small.",
+    "german": "Meine Familie ist klein.",
+    "register": "general",
+    "pronunciation": "MYE-ne fa-mee-lee ɪst KLAIN",
+    "audio": "293"
+  },
+
 ]
-
-
 
 
