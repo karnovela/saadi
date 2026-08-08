@@ -2088,6 +2088,108 @@
     "audio": "293"
   },
 
+
+
+
+
+  {
+    "meaning": "Monday",
+    "german": "Montag",
+    "register": "general",
+    "pronunciation": "MOHN-tahk",
+    "audio": "294"
+  },
+  {
+    "meaning": "Tuesday",
+    "german": "Dienstag",
+    "register": "general",
+    "pronunciation": "DIENSS-tahk",
+    "audio": "295"
+  },
+  {
+    "meaning": "Wednesday",
+    "german": "Mittwoch",
+    "register": "general",
+    "pronunciation": "MITT-vokh",
+    "audio": "296"
+  },
+  {
+    "meaning": "Thursday",
+    "german": "Donnerstag",
+    "register": "general",
+    "pronunciation": "DONN-er(st)ahk",
+    "audio": "297"
+  },
+  {
+    "meaning": "Friday",
+    "german": "Freitag",
+    "register": "general",
+    "pronunciation": "FRYE-tahk",
+    "audio": "298"
+  },
+  {
+    "meaning": "Saturday",
+    "german": "Samstag",
+    "register": "general",
+    "pronunciation": "ZAMS-tahk",
+    "audio": "299"
+  },
+  {
+    "meaning": "Sunday",
+    "german": "Sonntag",
+    "register": "general",
+    "pronunciation": "ZON-tahk",
+    "audio": "300"
+  },
+  {
+    "meaning": "Weekdays",
+    "german": "Wochentage",
+    "register": "general",
+    "pronunciation": "VOH-khen-tah-geh",
+    "audio": "301"
+  },
+  {
+    "meaning": "Weekends",
+    "german": "Wochenende",
+    "register": "general",
+    "pronunciation": "VOH-khen-en-deh",
+    "audio": "302"
+  },
+  {
+    "meaning": "I have a meeting on Monday.",
+    "german": "Am Montag habe ich einen Termin.",
+    "register": "general",
+    "pronunciation": "am MOHN-tahk HAH-buh ikh EY-nen TEHR-meen",
+    "audio": "303"
+  },
+  {
+    "meaning": "On Mondays, I have to work.",
+    "german": "Montags muss ich arbeiten.",
+    "register": "general",
+    "pronunciation": "MON-taks muss ikh AR-by-tehn",
+    "audio": "304"
+  },
+  {
+    "meaning": "Have a nice weekend.",
+    "german": "Schönes Wochenende.",
+    "register": "general",
+    "pronunciation": "SHUR-nes VOH-khen-en-deh",
+    "audio": "305"
+  },
+  {
+    "meaning": "What are you doing on the weekend?",
+    "german": "Was machst du am Wochenende?",
+    "register": "general",
+    "pronunciation": "vas MAHKHST doo am VOH-khen-en-deh",
+    "audio": "306"
+  },
+  {
+    "meaning": "On the weekend I will be going to the movies.",
+    "german": "Am Wochenende werde ich ins Kino gehen.",
+    "register": "general",
+    "pronunciation": "am VOH-khen-en-deh VUR-deh ikh EINS KEE-noh geh-en",
+    "audio": "307"
+  },
+
+  
 ]
-
-
