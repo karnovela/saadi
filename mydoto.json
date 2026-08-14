@@ -2829,7 +2829,7 @@
   {
     "meaning": "Fridge",
     "german": "der Kühlschrank",
-    "register": "informal / colloquial (same word)",
+    "register": "informal",
     "pronunciation": "deɐ̯ KÜL-ʃrank",
     "audio": "395"
   },
@@ -3165,14 +3165,14 @@
   {
     "meaning": "Mobile phone",
     "german": "das Handy",
-    "register": "informal / colloquial (common)",
+    "register": "informal",
     "pronunciation": "das ˈhɛndiː",
     "audio": "443"
   },
   {
     "meaning": "Mobile phones",
     "german": "die Handys",
-    "register": "informal / colloquial (common)",
+    "register": "informal",
     "pronunciation": "diː ˈhɛndis",
     "audio": "444"
   },
@@ -3310,7 +3310,7 @@
   {
     "meaning": "Mug",
     "german": "die Tasse",
-    "register": "general (same word as “cup”)",
+    "register": "general",
     "pronunciation": "diː ˈtasə",
     "audio": "463"
   },
@@ -3485,7 +3485,7 @@
   {
     "meaning": "Tin box",
     "german": "die Dose",
-    "register": "general (same word as “can” in many contexts)",
+    "register": "general",
     "pronunciation": "diː ˈdoːzə",
     "audio": "488"
   },
