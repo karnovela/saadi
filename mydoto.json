@@ -2799,5 +2799,452 @@
     "register": "general",
     "pronunciation": "maɪn haus hat ˈaɪ-nə ˈkʏçə ˈaɪ-nə tɛˈʁa-sə ˈaɪn baːd-ˌʔaɪmɐ tsvaɪ ˈʃlaːf-ˌzɪmɐ ʊnt ˈaɪn ˈvoːn-ˌzɪmɐ",
     "audio": "391"
+  },
+
+
+
+
+  
+  {
+    "meaning": "Domestic appliance",
+    "german": "das Haushaltsgerät",
+    "register": "general",
+    "pronunciation": "das HAUSHALTS-ɡə-RAET",
+    "audio": "392"
+  },
+  {
+    "meaning": "Domestic appliances",
+    "german": "die Haushaltsgeräte",
+    "register": "general",
+    "pronunciation": "diː HAUSHALTS-ɡə-TERƏT",
+    "audio": "393"
+  },
+  {
+    "meaning": "Refrigerator",
+    "german": "der Kühlschrank",
+    "register": "general",
+    "pronunciation": "deɐ̯ KÜL-ʃrank",
+    "audio": "394"
+  },
+  {
+    "meaning": "Fridge",
+    "german": "der Kühlschrank",
+    "register": "informal / colloquial (same word)",
+    "pronunciation": "deɐ̯ KÜL-ʃrank",
+    "audio": "395"
+  },
+  {
+    "meaning": "Fridges",
+    "german": "die Kühlschränke",
+    "register": "general",
+    "pronunciation": "diː KÜL-ʃrɛŋkə",
+    "audio": "396"
+  },
+  {
+    "meaning": "Refrigerators",
+    "german": "die Kühlschränke",
+    "register": "general",
+    "pronunciation": "diː KÜL-ʃrɛŋkə",
+    "audio": "397"
+  },
+  {
+    "meaning": "Stove / cooktop (range)",
+    "german": "der Herd",
+    "register": "general",
+    "pronunciation": "deɐ̯ Hɛɐ̯t",
+    "audio": "398"
+  },
+  {
+    "meaning": "Stoves (ranges)",
+    "german": "die Herde",
+    "register": "general",
+    "pronunciation": "diː Hɛɐ̯də",
+    "audio": "399"
+  },
+  {
+    "meaning": "Vacuum cleaner",
+    "german": "der Staubsauger",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈʃtaʊ̯pˌzaʊ̯ɡɐ",
+    "audio": "400"
+  },
+  {
+    "meaning": "Vacuum cleaners",
+    "german": "die Staubsauger",
+    "register": "general",
+    "pronunciation": "diː ˈʃtaʊ̯pˌzaʊ̯ɡɐ",
+    "audio": "401"
+  },
+  {
+    "meaning": "Microwave",
+    "german": "die Mikrowelle",
+    "register": "general",
+    "pronunciation": "diː MI-Kro-ˈvɛlə",
+    "audio": "402"
+  },
+  {
+    "meaning": "Microwaves",
+    "german": "die Mikrowellen",
+    "register": "general",
+    "pronunciation": "diː MI-Kro-ˈvɛlən",
+    "audio": "403"
+  },
+  {
+    "meaning": "Baking oven",
+    "german": "der Backofen",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈbakˌoːfən",
+    "audio": "404"
+  },
+  {
+    "meaning": "Baking ovens",
+    "german": "die Backöfen",
+    "register": "general",
+    "pronunciation": "diː ˈbakˌøːfən",
+    "audio": "405"
+  },
+  {
+    "meaning": "Washing machine",
+    "german": "die Waschmaschine",
+    "register": "general",
+    "pronunciation": "diː ˈvaːʃmaˌʃiːnə",
+    "audio": "406"
+  },
+  {
+    "meaning": "Washing machines",
+    "german": "die Waschmaschinen",
+    "register": "general",
+    "pronunciation": "diː ˈvaːʃmaˌʃiːnən",
+    "audio": "407"
+  },
+  {
+    "meaning": "Dryer (clothes dryer)",
+    "german": "der Trockner",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈtrɔknɐ",
+    "audio": "408"
+  },
+  {
+    "meaning": "Dryers",
+    "german": "die Trockner",
+    "register": "general",
+    "pronunciation": "diː ˈtrɔknɐ",
+    "audio": "409"
+  },
+  {
+    "meaning": "Dishwasher",
+    "german": "der Geschirrspüler",
+    "register": "general",
+    "pronunciation": "deɐ̯ ɡəˈʃɪrˌʃpʏlɐ",
+    "audio": "410"
+  },
+  {
+    "meaning": "Dishwashers",
+    "german": "die Geschirrspüler",
+    "register": "general",
+    "pronunciation": "diː ɡəˈʃɪrˌʃpʏlɐ",
+    "audio": "411"
+  },
+  {
+    "meaning": "Toaster",
+    "german": "der Toaster",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈtoːastɐ",
+    "audio": "412"
+  },
+  {
+    "meaning": "Toasters",
+    "german": "die Toaster",
+    "register": "general",
+    "pronunciation": "diː ˈtoːastɐ",
+    "audio": "413"
+  },
+  {
+    "meaning": "Kettle / water boiler",
+    "german": "der Wasserkocher",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈvasɐkoː-ɐ",
+    "audio": "414"
+  },
+  {
+    "meaning": "Kettles / water boilers",
+    "german": "die Wasserkocher",
+    "register": "general",
+    "pronunciation": "diː ˈvasɐkoː-ɐ",
+    "audio": "415"
+  },
+  {
+    "meaning": "Exhaust hood",
+    "german": "die Abzugshaube",
+    "register": "general",
+    "pronunciation": "diː ˈaptsʊkshaʊ̯bə",
+    "audio": "416"
+  },
+  {
+    "meaning": "Exhaust hoods",
+    "german": "die Abzugshauben",
+    "register": "general",
+    "pronunciation": "diː ˈaptsʊkshaʊ̯bən",
+    "audio": "417"
+  },
+  {
+    "meaning": "Mixer (stand mixer)",
+    "german": "der Standmixer",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈʃtantˌmɪksɐ",
+    "audio": "418"
+  },
+  {
+    "meaning": "Mixers",
+    "german": "die Standmixer",
+    "register": "general",
+    "pronunciation": "diː ˈʃtantˌmɪksɐ",
+    "audio": "419"
+  },
+  {
+    "meaning": "Electric iron",
+    "german": "das Bügeleisen",
+    "register": "general",
+    "pronunciation": "das ˈbyːɡəˌaɪ̯zən",
+    "audio": "420"
+  },
+  {
+    "meaning": "Electric irons",
+    "german": "die Bügeleisen",
+    "register": "general",
+    "pronunciation": "diː ˈbyːɡəˌaɪ̯zən",
+    "audio": "421"
+  },
+  {
+    "meaning": "Juicer",
+    "german": "der Entsafter",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈɛntzaftɐ",
+    "audio": "422"
+  },
+  {
+    "meaning": "Juicers",
+    "german": "die Entsafter",
+    "register": "general",
+    "pronunciation": "diː ˈɛntzaftɐ",
+    "audio": "423"
+  },
+  {
+    "meaning": "Sewing machine",
+    "german": "die Nähmaschine",
+    "register": "general",
+    "pronunciation": "diː ˈnɛːmaˌʃiːnə",
+    "audio": "424"
+  },
+  {
+    "meaning": "Sewing machines",
+    "german": "die Nähmaschinen",
+    "register": "general",
+    "pronunciation": "diː ˈnɛːmaˌʃiːnən",
+    "audio": "425"
+  },
+  {
+    "meaning": "Other devices",
+    "german": "Andere Geräte",
+    "register": "general",
+    "pronunciation": "ˈandərə ɡəˈteːrə",
+    "audio": "426"
+  },
+  {
+    "meaning": "Television",
+    "german": "der Fernseher",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈfɛɐ̯nˌzeːɐ̯",
+    "audio": "427"
+  },
+  {
+    "meaning": "Televisions",
+    "german": "die Fernseher",
+    "register": "general",
+    "pronunciation": "diː ˈfɛɐ̯nˌzeːɐ̯",
+    "audio": "428"
+  },
+  {
+    "meaning": "Stereo system",
+    "german": "die Stereoanlage",
+    "register": "general",
+    "pronunciation": "diː ˌsteːʁiˌoːˈanlaːɡə",
+    "audio": "429"
+  },
+  {
+    "meaning": "Stereo systems",
+    "german": "die Stereoanlagen",
+    "register": "general",
+    "pronunciation": "diː ˌsteːʁiˌoːˈanlaːɡən",
+    "audio": "430"
+  },
+  {
+    "meaning": "Audio equipment",
+    "german": "die Stereoanlage",
+    "register": "general",
+    "pronunciation": "diː ˌsteːʁiˌoːˈanlaːɡə",
+    "audio": "431"
+  },
+  {
+    "meaning": "Hi-fi system",
+    "german": "die Stereoanlage",
+    "register": "general",
+    "pronunciation": "diː ˌsteːʁiˌoːˈanlaːɡə",
+    "audio": "432"
+  },
+  {
+    "meaning": "Radio",
+    "german": "das Radio",
+    "register": "general",
+    "pronunciation": "das ˈraːdi̯oː",
+    "audio": "433"
+  },
+  {
+    "meaning": "Radios",
+    "german": "die Radios",
+    "register": "general",
+    "pronunciation": "diː ˈraːdi̯oːs",
+    "audio": "434"
+  },
+  {
+    "meaning": "Water dispenser",
+    "german": "der Wasserspender",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈvasɐˌʃpɛndɐ",
+    "audio": "435"
+  },
+  {
+    "meaning": "Water dispensers",
+    "german": "die Wasserspender",
+    "register": "general",
+    "pronunciation": "diː ˈvasɐˌʃpɛndɐ",
+    "audio": "436"
+  },
+  {
+    "meaning": "Coffee machine",
+    "german": "die Kaffeemaschine",
+    "register": "general",
+    "pronunciation": "diː ˈkafeːmaˌʃiːnə",
+    "audio": "437"
+  },
+  {
+    "meaning": "Coffee machines",
+    "german": "die Kaffeemaschinen",
+    "register": "general",
+    "pronunciation": "diː ˈkafeːmaˌʃiːnən",
+    "audio": "438"
+  },
+  {
+    "meaning": "Hair trimmer",
+    "german": "der Haarschneider",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈhaːɐ̯ʃnaɪ̯dɐ",
+    "audio": "439"
+  },
+  {
+    "meaning": "Hair trimmers",
+    "german": "die Haarschneider",
+    "register": "general",
+    "pronunciation": "diː ˈhaːɐ̯ʃnaɪ̯dɐ",
+    "audio": "440"
+  },
+  {
+    "meaning": "Laptop",
+    "german": "der Laptop",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈlaptop",
+    "audio": "441"
+  },
+  {
+    "meaning": "Laptops",
+    "german": "die Laptops",
+    "register": "general",
+    "pronunciation": "diː ˈlaptops",
+    "audio": "442"
+  },
+  {
+    "meaning": "Mobile phone",
+    "german": "das Handy",
+    "register": "informal / colloquial (common)",
+    "pronunciation": "das ˈhɛndiː",
+    "audio": "443"
+  },
+  {
+    "meaning": "Mobile phones",
+    "german": "die Handys",
+    "register": "informal / colloquial (common)",
+    "pronunciation": "diː ˈhɛndis",
+    "audio": "444"
+  },
+  {
+    "meaning": "Fax machine",
+    "german": "das Faxgerät",
+    "register": "general",
+    "pronunciation": "das ˈfaksɡəˌʁeːt",
+    "audio": "445"
+  },
+  {
+    "meaning": "Fax machines",
+    "german": "die Faxgeräte",
+    "register": "general",
+    "pronunciation": "diː ˈfaksɡəˌʁɛːtə",
+    "audio": "446"
+  },
+  {
+    "meaning": "Printer",
+    "german": "der Drucker",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈdʁʊkɐ",
+    "audio": "447"
+  },
+  {
+    "meaning": "Printers",
+    "german": "die Drucker",
+    "register": "general",
+    "pronunciation": "diː ˈdʁʊkɐ",
+    "audio": "448"
+  },
+  {
+    "meaning": "Fan",
+    "german": "der Ventilator",
+    "register": "general",
+    "pronunciation": "deɐ̯ fɛnˈtiːlaˌtoːɐ̯",
+    "audio": "449"
+  },
+  {
+    "meaning": "Fans",
+    "german": "die Ventilatoren",
+    "register": "general",
+    "pronunciation": "diː fɛnˈtiːlaˌtoːrən",
+    "audio": "450"
+  },
+  {
+    "meaning": "Hair dryer",
+    "german": "der Haartrockner",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈhaːɐ̯ˌtʁɔknɐ",
+    "audio": "451"
+  },
+  {
+    "meaning": "Hair dryers",
+    "german": "die Haartrockner",
+    "register": "general",
+    "pronunciation": "diː ˈhaːɐ̯ˌtʁɔknɐ",
+    "audio": "452"
+  },
+  {
+    "meaning": "Camera",
+    "german": "die Kamera",
+    "register": "general",
+    "pronunciation": "diː ˈkamera",
+    "audio": "453"
+  },
+  {
+    "meaning": "Cameras",
+    "german": "die Kameras",
+    "register": "general",
+    "pronunciation": "diː ˈkameraz",
+    "audio": "454"
   }
 ]
+
