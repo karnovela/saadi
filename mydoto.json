@@ -2549,5 +2549,255 @@
     "register": "general",
     "pronunciation": "ikh HAH-buh ein BETT EYE-nə KOUSH tsvai SHTYL-eh EY-nən SHRAIP-tɪSH EYE-nə OOR und EY-nən SHRAHNK unt doo",
     "audio": "356"
+  },
+
+
+
+  
+  {
+    "meaning": "House",
+    "german": "das Haus",
+    "register": "general",
+    "pronunciation": "das HAUS",
+    "audio": "357"
+  },
+  {
+    "meaning": "Houses",
+    "german": "die Häuser",
+    "register": "general",
+    "pronunciation": "diː HØY-zər",
+    "audio": "358"
+  },
+  {
+    "meaning": "apartment",
+    "german": "die Wohnung",
+    "register": "general",
+    "pronunciation": "diː ˈVOː-nʊŋ",
+    "audio": "359"
+  },
+  {
+    "meaning": "apartments",
+    "german": "die Wohnungen",
+    "register": "general",
+    "pronunciation": "diː ˈVOː-nʊŋ-ən",
+    "audio": "360"
+  },
+  {
+    "meaning": "Room",
+    "german": "das Zimmer",
+    "register": "general",
+    "pronunciation": "das ˈTSɪmɐ",
+    "audio": "361"
+  },
+  {
+    "meaning": "Rooms",
+    "german": "die Zimmer",
+    "register": "general",
+    "pronunciation": "diː ˈTSɪmɐ",
+    "audio": "362"
+  },
+  {
+    "meaning": "Bedroom",
+    "german": "das Schlafzimmer",
+    "register": "general",
+    "pronunciation": "das ˈʃlaːf-ˌzɪmɐ",
+    "audio": "363"
+  },
+  {
+    "meaning": "children's room",
+    "german": "das Kinderzimmer",
+    "register": "general",
+    "pronunciation": "das ˈkɪn-dɐ-ˌTSɪmɐ",
+    "audio": "364"
+  },
+  {
+    "meaning": "work",
+    "german": "das Arbeitszimmer",
+    "register": "general",
+    "pronunciation": "das ˈaʁ-baits-ˌTSɪmɐ",
+    "audio": "365"
+  },
+  {
+    "meaning": "study room",
+    "german": "das Arbeitszimmer",
+    "register": "general",
+    "pronunciation": "das ˈaʁ-baits-ˌTSɪmɐ",
+    "audio": "366"
+  },
+  {
+    "meaning": "living room",
+    "german": "das Wohnzimmer",
+    "register": "general",
+    "pronunciation": "das ˈvoːn-ˌzɪmɐ",
+    "audio": "367"
+  },
+  {
+    "meaning": "dining room",
+    "german": "das Esszimmer",
+    "register": "general",
+    "pronunciation": "das ˈeːs-ˌTSɪmɐ",
+    "audio": "368"
+  },
+  {
+    "meaning": "Bathroom",
+    "german": "das Badezimmer",
+    "register": "general",
+    "pronunciation": "das ˈbaːd-ˌʔaɪmɐ",
+    "audio": "369"
+  },
+  {
+    "meaning": "toilet",
+    "german": "die Toilette",
+    "register": "general",
+    "pronunciation": "diː tɔiˈlɛtə",
+    "audio": "370"
+  },
+  {
+    "meaning": "toilets",
+    "german": "die Toiletten",
+    "register": "general",
+    "pronunciation": "diː tɔiˈlɛt-ən",
+    "audio": "371"
+  },
+  {
+    "meaning": "kitchen",
+    "german": "die Küche",
+    "register": "general",
+    "pronunciation": "diː ˈkʏçə",
+    "audio": "372"
+  },
+  {
+    "meaning": "kitchens",
+    "german": "die Küchen",
+    "register": "general",
+    "pronunciation": "diː ˈkʏ-çən",
+    "audio": "373"
+  },
+  {
+    "meaning": "garden",
+    "german": "der Garten",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈɡaːʁ-tən",
+    "audio": "374"
+  },
+  {
+    "meaning": "Gardens",
+    "german": "die Gärten",
+    "register": "general",
+    "pronunciation": "diː ˈɡɛːʁ-tən",
+    "audio": "375"
+  },
+  {
+    "meaning": "Terrace",
+    "german": "die Terrasse",
+    "register": "general",
+    "pronunciation": "diː tɛˈʁa-sə",
+    "audio": "376"
+  },
+  {
+    "meaning": "terraces",
+    "german": "die Terrassen",
+    "register": "general",
+    "pronunciation": "diː tɛˈʁa-sən",
+    "audio": "377"
+  },
+  {
+    "meaning": "balcony",
+    "german": "der Balkon",
+    "register": "general",
+    "pronunciation": "deɐ̯ baˈlkoːn",
+    "audio": "378"
+  },
+  {
+    "meaning": "balconies",
+    "german": "die Balkone",
+    "register": "general",
+    "pronunciation": "diː ˈbal-koːnə",
+    "audio": "379"
+  },
+  {
+    "meaning": "garage",
+    "german": "die Garage",
+    "register": "general",
+    "pronunciation": "diː ɡaˈʁaːʒə",
+    "audio": "380"
+  },
+  {
+    "meaning": "garages",
+    "german": "die Garagen",
+    "register": "general",
+    "pronunciation": "diː ɡaˈʁaː-ʒən",
+    "audio": "381"
+  },
+
+  {
+    "meaning": "I live in a small city.",
+    "german": "Ich wohne in einer kleinen Stadt.",
+    "register": "general",
+    "pronunciation": "ɪç ˈvoːnə ɪn ˈaɪ-nəʁ ˈkleː-ən ˈʃtat",
+    "audio": "382"
+  },
+  {
+    "meaning": "I live in a big city.",
+    "german": "Ich wohne in einer großen Stadt.",
+    "register": "general",
+    "pronunciation": "ɪç ˈvoːnə ɪn ˈaɪ-nəʁ ˈɡʁoːsən ˈʃtat",
+    "audio": "383"
+  },
+  {
+    "meaning": "I live in the countryside.",
+    "german": "Ich wohne auf dem Land.",
+    "register": "general",
+    "pronunciation": "ɪç ˈvoːnə aʊf deːm lant",
+    "audio": "384"
+  },
+  {
+    "meaning": "My house is big.",
+    "german": "Mein Haus ist groß.",
+    "register": "general",
+    "pronunciation": "maɪn haus ɪst ɡʁoːs",
+    "audio": "385"
+  },
+  {
+    "meaning": "My apartment is small.",
+    "german": "Meine Wohnung ist klein.",
+    "register": "general",
+    "pronunciation": "ˈmaɪ-nə ˈVOː-nʊŋ ɪst klaɪn",
+    "audio": "386"
+  },
+  {
+    "meaning": "What is your house like?",
+    "german": "Wie ist dein Haus?",
+    "register": "general",
+    "pronunciation": "viː ɪst daɪn haus",
+    "audio": "387"
+  },
+  {
+    "meaning": "What is your apartment like?",
+    "german": "Wie ist deine Wohnung?",
+    "register": "general",
+    "pronunciation": "viː ɪst ˈdeːnə ˈVOː-nʊŋ",
+    "audio": "388"
+  },
+  {
+    "meaning": "I live in a small city.",
+    "german": "Ich wohne in einer kleinen Stadt.",
+    "register": "general",
+    "pronunciation": "ɪç ˈvoːnə ɪn ˈaɪ-nəʁ ˈkleː-ən ˈʃtat",
+    "audio": "389"
+  },
+  {
+    "meaning": "My house is small.",
+    "german": "Mein Haus ist klein.",
+    "register": "general",
+    "pronunciation": "maɪn haus ɪst klaɪn",
+    "audio": "390"
+  },
+  {
+    "meaning": "My house has a kitchen, a terrace, a bathroom, two bedrooms and a living room.",
+    "german": "Mein Haus hat eine Küche, eine Terrasse, ein Badezimmer, zwei Schlafzimmer und ein Wohnzimmer.",
+    "register": "general",
+    "pronunciation": "maɪn haus hat ˈaɪ-nə ˈkʏçə ˈaɪ-nə tɛˈʁa-sə ˈaɪn baːd-ˌʔaɪmɐ tsvaɪ ˈʃlaːf-ˌzɪmɐ ʊnt ˈaɪn ˈvoːn-ˌzɪmɐ",
+    "audio": "391"
   }
 ]
