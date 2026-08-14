@@ -3245,6 +3245,362 @@
     "register": "general",
     "pronunciation": "diː ˈkameraz",
     "audio": "454"
+  },
+
+
+
+
+  
+  {
+    "meaning": "Spoon",
+    "german": "der Löffel",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈlœfəl",
+    "audio": "455"
+  },
+  {
+    "meaning": "Spoons",
+    "german": "die Löffel",
+    "register": "general",
+    "pronunciation": "diː ˈlœfəl",
+    "audio": "456"
+  },
+  {
+    "meaning": "Knife",
+    "german": "das Messer",
+    "register": "general",
+    "pronunciation": "das ˈmɛsɐ",
+    "audio": "457"
+  },
+  {
+    "meaning": "Knives",
+    "german": "die Messer",
+    "register": "general",
+    "pronunciation": "diː ˈmɛsɐ",
+    "audio": "458"
+  },
+  {
+    "meaning": "Fork",
+    "german": "die Gabel",
+    "register": "general",
+    "pronunciation": "diː ˈɡaːbəl",
+    "audio": "459"
+  },
+  {
+    "meaning": "Forks",
+    "german": "die Gabeln",
+    "register": "general",
+    "pronunciation": "diː ˈɡaːbələn",
+    "audio": "460"
+  },
+  {
+    "meaning": "Cup",
+    "german": "die Tasse",
+    "register": "general",
+    "pronunciation": "diː ˈtasə",
+    "audio": "461"
+  },
+  {
+    "meaning": "Cups",
+    "german": "die Tassen",
+    "register": "general",
+    "pronunciation": "diː ˈtasən",
+    "audio": "462"
+  },
+  {
+    "meaning": "Mug",
+    "german": "die Tasse",
+    "register": "general (same word as “cup”)",
+    "pronunciation": "diː ˈtasə",
+    "audio": "463"
+  },
+  {
+    "meaning": "Plate",
+    "german": "der Teller",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈtɛlɐ",
+    "audio": "464"
+  },
+  {
+    "meaning": "Plates",
+    "german": "die Teller",
+    "register": "general",
+    "pronunciation": "diː ˈtɛlɐ",
+    "audio": "465"
+  },
+  {
+    "meaning": "Bowl",
+    "german": "die Schüssel",
+    "register": "general",
+    "pronunciation": "diː ˈʃʏsəl",
+    "audio": "466"
+  },
+  {
+    "meaning": "Bowls",
+    "german": "die Schüsseln",
+    "register": "general",
+    "pronunciation": "diː ˈʃʏsələn",
+    "audio": "467"
+  },
+  {
+    "meaning": "Cooking pot",
+    "german": "der Kochtopf",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈkoːxˌtɔpf",
+    "audio": "468"
+  },
+  {
+    "meaning": "Cooking pots",
+    "german": "die Kochtöpfe",
+    "register": "general",
+    "pronunciation": "diː ˈkoːxˌtøpfə",
+    "audio": "469"
+  },
+  {
+    "meaning": "Pan",
+    "german": "die Pfanne",
+    "register": "general",
+    "pronunciation": "diː ˈpfanə",
+    "audio": "470"
+  },
+  {
+    "meaning": "Pans",
+    "german": "die Pfannen",
+    "register": "general",
+    "pronunciation": "diː ˈpfanən",
+    "audio": "471"
+  },
+  {
+    "meaning": "Jar",
+    "german": "das Glas",
+    "register": "general",
+    "pronunciation": "das ɡlaːs",
+    "audio": "472"
+  },
+  {
+    "meaning": "Jars",
+    "german": "die Gläser",
+    "register": "general",
+    "pronunciation": "diː ˈɡlɛːzɐ",
+    "audio": "473"
+  },
+  {
+    "meaning": "Tea pot",
+    "german": "die Teekanne",
+    "register": "general",
+    "pronunciation": "diː ˈteːkanə",
+    "audio": "474"
+  },
+  {
+    "meaning": "Tea pots",
+    "german": "die Teekannen",
+    "register": "general",
+    "pronunciation": "diː ˈteːkanən",
+    "audio": "475"
+  },
+  {
+    "meaning": "Cooking spoon",
+    "german": "der Kochlöffel",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈkoːxˌlœfəl",
+    "audio": "476"
+  },
+  {
+    "meaning": "Cooking spoon",
+    "german": "die Kochlöffel",
+    "register": "general",
+    "pronunciation": "diː ˈkoːxˌlœfəl",
+    "audio": "477"
+  },
+  {
+    "meaning": "Bottle opener",
+    "german": "der Flaschenöffner",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈflɛʃnˌʔœfnɐ",
+    "audio": "478"
+  },
+  {
+    "meaning": "Bottle openers",
+    "german": "die Flaschenöffner",
+    "register": "general",
+    "pronunciation": "diː ˈflɛʃnˌʔœfnɐ",
+    "audio": "479"
+  },
+  {
+    "meaning": "Can opener",
+    "german": "der Dosenöffner",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈdoːzənˌʔœfnɐ",
+    "audio": "480"
+  },
+  {
+    "meaning": "Can openers",
+    "german": "die Dosenöffner",
+    "register": "general",
+    "pronunciation": "diː ˈdoːzənˌʔœfnɐ",
+    "audio": "481"
+  },
+  {
+    "meaning": "Tray",
+    "german": "das Tablett",
+    "register": "general",
+    "pronunciation": "das taˈblet",
+    "audio": "482"
+  },
+  {
+    "meaning": "Trays",
+    "german": "die Tabletts",
+    "register": "general",
+    "pronunciation": "diː taˈblɛts",
+    "audio": "483"
+  },
+  {
+    "meaning": "Chopping board",
+    "german": "das Schneidebrett",
+    "register": "general",
+    "pronunciation": "das ˈʃnaɪ̯dəˌbʁɛt",
+    "audio": "484"
+  },
+  {
+    "meaning": "Chopping boards",
+    "german": "die Schneidebretter",
+    "register": "general",
+    "pronunciation": "diː ˈʃnaɪ̯dəˌbʁɛtɐ",
+    "audio": "485"
+  },
+  {
+    "meaning": "Can",
+    "german": "die Dose",
+    "register": "general",
+    "pronunciation": "diː ˈdoːzə",
+    "audio": "486"
+  },
+  {
+    "meaning": "Cans",
+    "german": "die Dosen",
+    "register": "general",
+    "pronunciation": "diː ˈdoːzən",
+    "audio": "487"
+  },
+  {
+    "meaning": "Tin box",
+    "german": "die Dose",
+    "register": "general (same word as “can” in many contexts)",
+    "pronunciation": "diː ˈdoːzə",
+    "audio": "488"
+  },
+  {
+    "meaning": "Garbage bin",
+    "german": "der Abfalleimer",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈapfalˌaɪ̯mɐ",
+    "audio": "489"
+  },
+  {
+    "meaning": "Garbage bins",
+    "german": "die Abfalleimer",
+    "register": "general",
+    "pronunciation": "diː ˈapfalˌaɪ̯mɐ",
+    "audio": "490"
+  },
+  {
+    "meaning": "Water tap",
+    "german": "der Wasserhahn",
+    "register": "general",
+    "pronunciation": "deɐ̯ ˈvasɐˌhaːn",
+    "audio": "491"
+  },
+  {
+    "meaning": "Water taps",
+    "german": "die Wasserhähne",
+    "register": "general",
+    "pronunciation": "diː ˈvasɐˌhɛːnə",
+    "audio": "492"
+  },
+  {
+    "meaning": "Sieve",
+    "german": "das Sieb",
+    "register": "general",
+    "pronunciation": "das ziːp",
+    "audio": "493"
+  },
+  {
+    "meaning": "Sieves",
+    "german": "die Siebe",
+    "register": "general",
+    "pronunciation": "diː ˈziːbə",
+    "audio": "494"
+  },
+  {
+    "meaning": "Kitchen scale",
+    "german": "die Küchenwaage",
+    "register": "general",
+    "pronunciation": "diː ˈkʏçənˌvaːɡə",
+    "audio": "495"
+  },
+  {
+    "meaning": "Kitchen scales",
+    "german": "die Küchenwaagen",
+    "register": "general",
+    "pronunciation": "diː ˈkʏçənˌvaːɡən",
+    "audio": "496"
+  },
+  {
+    "meaning": "Basket",
+    "german": "der Korb",
+    "register": "general",
+    "pronunciation": "deɐ̯ kɔʁp",
+    "audio": "497"
+  },
+  {
+    "meaning": "Baskets",
+    "german": "die Körbe",
+    "register": "general",
+    "pronunciation": "diː ˈkœʁbə",
+    "audio": "498"
+  },
+  {
+    "meaning": "Soup spoon",
+    "german": "die Suppenkelle",
+    "register": "general",
+    "pronunciation": "diː ˈʃʊpnˌkɛlə",
+    "audio": "499"
+  },
+  {
+    "meaning": "Soup spoons",
+    "german": "die Suppenkellen",
+    "register": "general",
+    "pronunciation": "diː ˈʃʊpnˌkɛlən",
+    "audio": "500"
+  },
+  {
+    "meaning": "Pepper mill",
+    "german": "die Pfeffermühle",
+    "register": "general",
+    "pronunciation": "diː ˈpfɛfɐˌmyːlə",
+    "audio": "501"
+  },
+  {
+    "meaning": "Pepper mills",
+    "german": "die Pfeffermühlen",
+    "register": "general",
+    "pronunciation": "diː ˈpfɛfɐˌmyːlən",
+    "audio": "502"
+  },
+  {
+    "meaning": "Apron",
+    "german": "die Schürze",
+    "register": "general",
+    "pronunciation": "diː ˈʃʏʁtsə",
+    "audio": "503"
+  },
+  {
+    "meaning": "Aprons",
+    "german": "die Schürzen",
+    "register": "general",
+    "pronunciation": "diː ˈʃʏʁtsn̩",
+    "audio": "504"
   }
 ]
+
 
