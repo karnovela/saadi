@@ -1,0 +1,62 @@
+name: Remove selected audio files
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  remove-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Remove files and commit
+        run: |
+          set -euo pipefail
+
+          files=(
+            437.wav 438.wav 439.wav 440.wav 441.wav 442.wav 443.wav 444.wav 445.wav 446.wav
+            alphavocab_68.mp3
+            vocab_451.mp3 vocab_452.mp3 vocab_453.mp3 vocab_454.mp3 vocab_455.mp3 vocab_456.mp3 vocab_457.mp3 vocab_458.mp3 vocab_459.mp3 vocab_460.mp3
+            vocab_461.mp3 vocab_462.mp3 vocab_463.mp3 vocab_464.mp3 vocab_465.mp3 vocab_466.mp3 vocab_467.mp3 vocab_468.mp3 vocab_469.mp3 vocab_470.mp3
+            vocab_471.mp3 vocab_472.mp3 vocab_473.mp3 vocab_474.mp3 vocab_475.mp3 vocab_476.mp3 vocab_477.mp3 vocab_478.mp3 vocab_479.mp3 vocab_480.mp3
+            vocab_481.mp3 vocab_482.mp3 vocab_483.mp3 vocab_484.mp3 vocab_485.mp3 vocab_486.mp3 vocab_487.mp3 vocab_488.mp3 vocab_489.mp3 vocab_490.mp3
+            vocab_491.mp3 vocab_492.mp3 vocab_493.mp3 vocab_494.mp3 vocab_495.mp3 vocab_496.mp3 vocab_497.mp3 vocab_498.mp3 vocab_499.mp3 vocab_500.mp3
+            vocab_851.mp3 vocab_852.mp3 vocab_853.mp3 vocab_854.mp3 vocab_855.mp3 vocab_856.mp3 vocab_857.mp3 vocab_858.mp3 vocab_859.mp3 vocab_860.mp3
+            vocab_861.mp3 vocab_862.mp3 vocab_863.mp3 vocab_864.mp3 vocab_865.mp3 vocab_866.mp3 vocab_867.mp3 vocab_868.mp3 vocab_869.mp3 vocab_870.mp3
+            vocab_871.mp3 vocab_872.mp3 vocab_873.mp3 vocab_874.mp3 vocab_875.mp3 vocab_876.mp3 vocab_877.mp3 vocab_878.mp3 vocab_879.mp3 vocab_880.mp3
+            vocab_881.mp3 vocab_882.mp3 vocab_883.mp3 vocab_884.mp3 vocab_885.mp3 vocab_886.mp3 vocab_887.mp3 vocab_888.mp3 vocab_889.mp3 vocab_890.mp3
+            vocab_891.mp3 vocab_892.mp3 vocab_893.mp3 vocab_894.mp3 vocab_895.mp3 vocab_896.mp3 vocab_897.mp3 vocab_898.mp3 vocab_899.mp3 vocab_900.mp3
+          )
+
+          # Remove only if present
+          present=()
+          for f in "${files[@]}"; do
+            if [ -e "$f" ]; then
+              present+=("$f")
+            fi
+          done
+
+          if [ ${#present[@]} -eq 0 ]; then
+            echo "No listed files found; nothing to do."
+            exit 0
+          fi
+
+          echo "Removing:"
+          printf '  %s\n' "${present[@]}"
+
+          git rm -f -- "${present[@]}"
+
+          git commit -m "Remove selected wav/mp3 files"
+          git push
