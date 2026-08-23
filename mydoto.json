@@ -3600,7 +3600,1171 @@
     "register": "general",
     "pronunciation": "diː ˈʃʏʁtsn̩",
     "audio": "504"
+  },
+
+  
+  {
+    "meaning": "Soap",
+    "german": "die Seife",
+    "register": "general",
+    "pronunciation": "diː ˈzaɪ̯fə",
+    "audio": "505"
+  },
+  {
+    "meaning": "Soaps",
+    "german": "die Seifen",
+    "register": "general",
+    "pronunciation": "diː ˈzaɪ̯fn̩",
+    "audio": "506"
+  },
+  {
+    "meaning": "Liquid soap",
+    "german": "die Flüssigseife",
+    "register": "general",
+    "pronunciation": "diː ˈflʏsɪçˌzaɪ̯fə",
+    "audio": "507"
+  },
+  {
+    "meaning": "Liquid soaps",
+    "german": "die Flüssigseifen",
+    "register": "general",
+    "pronunciation": "diː ˈflʏsɪçˌzaɪ̯fn̩",
+    "audio": "508"
+  },
+  {
+    "meaning": "Shampoo",
+    "german": "das Shampoo",
+    "register": "general",
+    "pronunciation": "das ʃamˈpuː",
+    "audio": "509"
+  },
+  {
+    "meaning": "Shampoos",
+    "german": "die Shampoos",
+    "register": "general",
+    "pronunciation": "diː ʃamˈpuːs",
+    "audio": "510"
+  },
+  {
+    "meaning": "Shower gel",
+    "german": "das Duschgel",
+    "register": "general",
+    "pronunciation": "das ˈduːʃɡeːl",
+    "audio": "511"
+  },
+  {
+    "meaning": "Shower gels",
+    "german": "die Duschgele",
+    "register": "general",
+    "pronunciation": "diː ˈduːʃɡeːlə",
+    "audio": "512"
+  },
+  {
+    "meaning": "Toothbrush",
+    "german": "die Zahnbürste",
+    "register": "general",
+    "pronunciation": "diː ˈtsaːnˌbʏʁstə",
+    "audio": "513"
+  },
+  {
+    "meaning": "Toothbrushes",
+    "german": "die Zahnbürsten",
+    "register": "general",
+    "pronunciation": "diː ˈtsaːnˌbʏʁstn̩",
+    "audio": "514"
+  },
+  {
+    "meaning": "Toothpaste",
+    "german": "die Zahnpasta",
+    "register": "general",
+    "pronunciation": "diː ˈtsaːnˌpasta",
+    "audio": "515"
+  },
+  {
+    "meaning": "Toothpastes",
+    "german": "die Zahnpasten",
+    "register": "general",
+    "pronunciation": "diː ˈtsaːnˌpastn̩",
+    "audio": "516"
+  },
+  {
+    "meaning": "Comb",
+    "german": "der Kamm",
+    "register": "general",
+    "pronunciation": "deːɐ̯ kam",
+    "audio": "517"
+  },
+  {
+    "meaning": "Combs",
+    "german": "die Kämme",
+    "register": "general",
+    "pronunciation": "diː ˈkɛmən",
+    "audio": "518"
+  },
+  {
+    "meaning": "Hair brush",
+    "german": "die Haarbürste",
+    "register": "general",
+    "pronunciation": "diː ˈhaːɐ̯ˌbʏʁstə",
+    "audio": "519"
+  },
+  {
+    "meaning": "Hair brushes",
+    "german": "die Haarbürsten",
+    "register": "general",
+    "pronunciation": "diː ˈhaːɐ̯ˌbʏʁstn̩",
+    "audio": "520"
+  },
+  {
+    "meaning": "Hair dryer",
+    "german": "der Föhn",
+    "register": "general",
+    "pronunciation": "deːɐ̯ føːn",
+    "audio": "521"
+  },
+  {
+    "meaning": "Hair dryers",
+    "german": "die Föhne",
+    "register": "general",
+    "pronunciation": "diː ˈføːnə",
+    "audio": "522"
+  },
+  {
+    "meaning": "Blow dryer",
+    "german": "der Föhn",
+    "register": "general",
+    "pronunciation": "deːɐ̯ føːn",
+    "audio": "523"
+  },
+  {
+    "meaning": "Scissor",
+    "german": "die Schere",
+    "register": "general",
+    "pronunciation": "diː ˈʃeːʁə",
+    "audio": "524"
+  },
+  {
+    "meaning": "Scissors",
+    "german": "die Scheren",
+    "register": "general",
+    "pronunciation": "diː ˈʃeːʁən",
+    "audio": "525"
+  },
+  {
+    "meaning": "Nail clipper",
+    "german": "der Nagelknipser",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈnaːɡl̩ˌknɪpsɐ",
+    "audio": "526"
+  },
+  {
+    "meaning": "Nail clippers",
+    "german": "die Nagelknipser",
+    "register": "general",
+    "pronunciation": "diː ˈnaːɡl̩ˌknɪpsɐ",
+    "audio": "527"
+  },
+  {
+    "meaning": "Nail file",
+    "german": "die Nagelfeile",
+    "register": "general",
+    "pronunciation": "diː ˈnaːɡl̩ˌfaɪ̯lə",
+    "audio": "528"
+  },
+  {
+    "meaning": "Nail files",
+    "german": "die Nagelfeilen",
+    "register": "general",
+    "pronunciation": "diː ˈnaːɡl̩ˌfaɪ̯lən",
+    "audio": "529"
+  },
+  {
+    "meaning": "Mouthwash",
+    "german": "das Mundspülmittel",
+    "register": "general",
+    "pronunciation": "das ˈmʊntˌʃpyːlˌmɪtl̩",
+    "audio": "530"
+  },
+  {
+    "meaning": "Mouthwashes",
+    "german": "die Mundspülmittel",
+    "register": "general",
+    "pronunciation": "diː ˈmʊntˌʃpyːlˌmɪtl̩",
+    "audio": "531"
+  },
+  {
+    "meaning": "Cream",
+    "german": "die Creme",
+    "register": "general",
+    "pronunciation": "diː kreːm",
+    "audio": "532"
+  },
+  {
+    "meaning": "Creams",
+    "german": "die Cremes",
+    "register": "general",
+    "pronunciation": "diː kreːms",
+    "audio": "533"
+  },
+  {
+    "meaning": "Scent",
+    "german": "das Parfüm",
+    "register": "general",
+    "pronunciation": "das parˈfyːm",
+    "audio": "534"
+  },
+  {
+    "meaning": "Perfume",
+    "german": "das Parfüm",
+    "register": "general",
+    "pronunciation": "das parˈfyːm",
+    "audio": "535"
+  },
+  {
+    "meaning": "Perfumes",
+    "german": "die Parfüms",
+    "register": "general",
+    "pronunciation": "diː parˈfyːms",
+    "audio": "536"
+  },
+  {
+    "meaning": "Perfumes",
+    "german": "die Parfüme",
+    "register": "general",
+    "pronunciation": "diː parˈfyːmə",
+    "audio": "537"
+  },
+  {
+    "meaning": "Lipstick",
+    "german": "der Lippenstift",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈlɪpn̩ˌʃtɪft",
+    "audio": "538"
+  },
+  {
+    "meaning": "Lipsticks",
+    "german": "die Lippenstifte",
+    "register": "general",
+    "pronunciation": "diː ˈlɪpn̩ˌʃtɪftə",
+    "audio": "539"
+  },
+  {
+    "meaning": "Shaver",
+    "german": "der Rasierer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʁaˈziːʁɐ",
+    "audio": "540"
+  },
+  {
+    "meaning": "Razor",
+    "german": "der Rasierer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʁaˈziːʁɐ",
+    "audio": "541"
+  },
+  {
+    "meaning": "Razors",
+    "german": "die Rasierer",
+    "register": "general",
+    "pronunciation": "diː ʁaˈziːʁɐ",
+    "audio": "542"
+  },
+  {
+    "meaning": "Shaving foam",
+    "german": "der Rasierschaum",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʁaˈziːɐ̯ˌʃaʊ̯m",
+    "audio": "543"
+  },
+  {
+    "meaning": "Shaving foams",
+    "german": "die Rasierschäume",
+    "register": "general",
+    "pronunciation": "diː ʁaˈziːɐ̯ˌʃɔʏ̯mə",
+    "audio": "544"
+  },
+  {
+    "meaning": "Cotton bud",
+    "german": "das Wattestäbchen",
+    "register": "general",
+    "pronunciation": "das ˈvatəˌʃtɛːpçən",
+    "audio": "545"
+  },
+  {
+    "meaning": "Cotton buds",
+    "german": "die Wattestäbchen",
+    "register": "general",
+    "pronunciation": "diː ˈvatəˌʃtɛːpçən",
+    "audio": "546"
+  },
+  {
+    "meaning": "Toilet paper",
+    "german": "das Klopapier",
+    "register": "general",
+    "pronunciation": "das ˈkloːpaˌpiːɐ̯",
+    "audio": "547"
+  },
+  {
+    "meaning": "Toilet papers",
+    "german": "die Klopapiere",
+    "register": "general",
+    "pronunciation": "diː ˈkloːpaˌpiːʁə",
+    "audio": "548"
+  },
+  {
+    "meaning": "Toilet",
+    "german": "die Toilette",
+    "register": "general",
+    "pronunciation": "diː toaˈlɛtə",
+    "audio": "549"
+  },
+  {
+    "meaning": "Toilets",
+    "german": "die Toiletten",
+    "register": "general",
+    "pronunciation": "diː toaˈlɛtn̩",
+    "audio": "550"
+  },
+  {
+    "meaning": "Hand towel",
+    "german": "das Handtuch",
+    "register": "general",
+    "pronunciation": "das ˈhantˌtuːx",
+    "audio": "551"
+  },
+  {
+    "meaning": "Hand towels",
+    "german": "die Handtücher",
+    "register": "general",
+    "pronunciation": "diː ˈhantˌtʏçɐ",
+    "audio": "552"
+  },
+  {
+    "meaning": "Bathtub",
+    "german": "die Badewanne",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌvanə",
+    "audio": "553"
+  },
+  {
+    "meaning": "Bathtubs",
+    "german": "die Badewannen",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌvanən",
+    "audio": "554"
+  },
+  {
+    "meaning": "Washbasin",
+    "german": "das Waschbecken",
+    "register": "general",
+    "pronunciation": "das ˈvaʃˌbɛkn̩",
+    "audio": "555"
+  },
+  {
+    "meaning": "Sink",
+    "german": "das Waschbecken",
+    "register": "general",
+    "pronunciation": "das ˈvaʃˌbɛkn̩",
+    "audio": "556"
+  },
+  {
+    "meaning": "Sinks",
+    "german": "die Waschbecken",
+    "register": "general",
+    "pronunciation": "diː ˈvaʃˌbɛkn̩",
+    "audio": "557"
+  },
+  {
+    "meaning": "Bathrobe",
+    "german": "der Bademantel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbaːdəˌmantl̩",
+    "audio": "558"
+  },
+  {
+    "meaning": "Bathrobes",
+    "german": "die Bademäntel",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌmɛntl̩",
+    "audio": "559"
+  },
+  {
+    "meaning": "Mirror",
+    "german": "der Spiegel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃpiːɡl̩",
+    "audio": "560"
+  },
+  {
+    "meaning": "Mirrors",
+    "german": "die Spiegel",
+    "register": "general",
+    "pronunciation": "diː ˈʃpiːɡl̩",
+    "audio": "561"
+  },
+  {
+    "meaning": "Shower",
+    "german": "die Dusche",
+    "register": "general",
+    "pronunciation": "diː ˈduːʃə",
+    "audio": "562"
+  },
+  {
+    "meaning": "Showers",
+    "german": "die Duschen",
+    "register": "general",
+    "pronunciation": "diː ˈduːʃn̩",
+    "audio": "563"
+  },
+  
+  
+  {
+    "meaning": "Armchair",
+    "german": "der Sessel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈzɛsl̩",
+    "audio": "564"
+  },
+  {
+    "meaning": "Armchairs",
+    "german": "die Sessel",
+    "register": "general",
+    "pronunciation": "diː ˈzɛsl̩",
+    "audio": "565"
+  },
+  {
+    "meaning": "Sofa",
+    "german": "das Sofa",
+    "register": "general",
+    "pronunciation": "das ˈzoːfa",
+    "audio": "566"
+  },
+  {
+    "meaning": "Sofas",
+    "german": "die Sofas",
+    "register": "general",
+    "pronunciation": "diː ˈzoːfas",
+    "audio": "567"
+  },
+  {
+    "meaning": "Couch",
+    "german": "die Couch",
+    "register": "general",
+    "pronunciation": "diː kaʊ̯tʃ",
+    "audio": "568"
+  },
+  {
+    "meaning": "Couches",
+    "german": "die Couchs",
+    "register": "general",
+    "pronunciation": "diː kaʊ̯tʃs",
+    "audio": "569"
+  },
+  {
+    "meaning": "Couches",
+    "german": "die Couches",
+    "register": "general",
+    "pronunciation": "diː ˈkuːtʃəs",
+    "audio": "570"
+  },
+  {
+    "meaning": "Wall unit",
+    "german": "die Wohnwand",
+    "register": "general",
+    "pronunciation": "diː ˈvoːnˌvant",
+    "audio": "571"
+  },
+  {
+    "meaning": "Wall units",
+    "german": "die Wohnwände",
+    "register": "general",
+    "pronunciation": "diː ˈvoːnˌvɛndə",
+    "audio": "572"
+  },
+  {
+    "meaning": "TV bench",
+    "german": "die Fernsehbank",
+    "register": "general",
+    "pronunciation": "diː ˈfɛʁnzeːˌbaŋk",
+    "audio": "573"
+  },
+  {
+    "meaning": "TV benches",
+    "german": "die Fernsehbänke",
+    "register": "general",
+    "pronunciation": "diː ˈfɛʁnzeːˌbɛŋkə",
+    "audio": "574"
+  },
+  {
+    "meaning": "Fireplace",
+    "german": "der Kamin",
+    "register": "general",
+    "pronunciation": "deːɐ̯ kaˈmiːn",
+    "audio": "575"
+  },
+  {
+    "meaning": "Fireplaces",
+    "german": "die Kamine",
+    "register": "general",
+    "pronunciation": "diː kaˈmiːnə",
+    "audio": "576"
+  },
+  {
+    "meaning": "Couch table",
+    "german": "der Couchtisch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkaʊ̯tʃˌtɪʃ",
+    "audio": "577"
+  },
+  {
+    "meaning": "Couch tables",
+    "german": "die Couchtische",
+    "register": "general",
+    "pronunciation": "diː ˈkaʊ̯tʃˌtɪʃə",
+    "audio": "578"
+  },
+  {
+    "meaning": "Curtain",
+    "german": "der Vorhang",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfoːɐ̯haŋ",
+    "audio": "579"
+  },
+  {
+    "meaning": "Curtains",
+    "german": "die Vorhänge",
+    "register": "general",
+    "pronunciation": "diː ˈfoːɐ̯hɛŋə",
+    "audio": "580"
+  },
+  {
+    "meaning": "Lamp",
+    "german": "die Lampe",
+    "register": "general",
+    "pronunciation": "diː ˈlampə",
+    "audio": "581"
+  },
+  {
+    "meaning": "Lamps",
+    "german": "die Lampen",
+    "register": "general",
+    "pronunciation": "diː ˈlampn̩",
+    "audio": "582"
+  },
+  {
+    "meaning": "TV",
+    "german": "der Fernseher",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfɛʁnzeːɐ̯",
+    "audio": "583"
+  },
+  {
+    "meaning": "TVs",
+    "german": "die Fernseher",
+    "register": "general",
+    "pronunciation": "diː ˈfɛʁnzeːɐ̯",
+    "audio": "584"
+  },
+  {
+    "meaning": "Vase",
+    "german": "die Vase",
+    "register": "general",
+    "pronunciation": "diː ˈvaːzə",
+    "audio": "585"
+  },
+  {
+    "meaning": "Vases",
+    "german": "die Vasen",
+    "register": "general",
+    "pronunciation": "diː ˈvaːzn̩",
+    "audio": "586"
+  },
+  {
+    "meaning": "Carpet",
+    "german": "der Teppich",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈtɛpɪç",
+    "audio": "587"
+  },
+  {
+    "meaning": "Carpets",
+    "german": "die Teppiche",
+    "register": "general",
+    "pronunciation": "diː ˈtɛpɪçə",
+    "audio": "588"
+  },
+  {
+    "meaning": "Chandelier",
+    "german": "der Kronleuchter",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkʁoːnˌlɔʏ̯çtɐ",
+    "audio": "589"
+  },
+  {
+    "meaning": "Chandeliers",
+    "german": "die Kronleuchter",
+    "register": "general",
+    "pronunciation": "diː ˈkʁoːnˌlɔʏ̯çtɐ",
+    "audio": "590"
+  },
+  {
+    "meaning": "Bookshelf",
+    "german": "das Bücherregal",
+    "register": "general",
+    "pronunciation": "das ˈbyːçɐʁeˌɡaːl",
+    "audio": "591"
+  },
+  {
+    "meaning": "Bookshelves",
+    "german": "die Bücherregale",
+    "register": "general",
+    "pronunciation": "diː ˈbyːçɐʁeˌɡaːlə",
+    "audio": "592"
+  },
+  {
+    "meaning": "Wall clock",
+    "german": "die Wanduhr",
+    "register": "general",
+    "pronunciation": "diː ˈvantˌuːɐ̯",
+    "audio": "593"
+  },
+  {
+    "meaning": "Wall clocks",
+    "german": "die Wanduhren",
+    "register": "general",
+    "pronunciation": "diː ˈvantˌuːʁən",
+    "audio": "594"
+  },
+  {
+    "meaning": "Potted plant",
+    "german": "die Topfpflanze",
+    "register": "general",
+    "pronunciation": "diː ˈtɔpfˌflantsə",
+    "audio": "595"
+  },
+  {
+    "meaning": "Potted plants",
+    "german": "die Topfpflanzen",
+    "register": "general",
+    "pronunciation": "diː ˈtɔpfˌflantsn̩",
+    "audio": "596"
+  },
+  {
+    "meaning": "Air conditioner",
+    "german": "die Klimaanlage",
+    "register": "general",
+    "pronunciation": "diː ˈkliːmaʔanˌlaːɡə",
+    "audio": "597"
+  },
+  {
+    "meaning": "Air conditioners",
+    "german": "die Klimaanlagen",
+    "register": "general",
+    "pronunciation": "diː ˈkliːmaʔanˌlaːɡn̩",
+    "audio": "598"
+  },
+  {
+    "meaning": "Heater",
+    "german": "die Heizung",
+    "register": "general",
+    "pronunciation": "diː ˈhaɪ̯tsʊŋ",
+    "audio": "599"
+  },
+  {
+    "meaning": "Heaters",
+    "german": "die Heizungen",
+    "register": "general",
+    "pronunciation": "diː ˈhaɪ̯tsʊŋən",
+    "audio": "600"
+  },
+  {
+    "meaning": "Fan",
+    "german": "der Ventilator",
+    "register": "general",
+    "pronunciation": "deːɐ̯ vɛntilaˈtoːɐ̯",
+    "audio": "601"
+  },
+  {
+    "meaning": "Fans",
+    "german": "die Ventilatoren",
+    "register": "general",
+    "pronunciation": "diː vɛntilaˈtoːʁən",
+    "audio": "602"
+  },
+  {
+    "meaning": "Standing lamp",
+    "german": "die Stehlampe",
+    "register": "general",
+    "pronunciation": "diː ˈʃteːlˌlampə",
+    "audio": "603"
+  },
+  {
+    "meaning": "Standing lamps",
+    "german": "die Stehlampen",
+    "register": "general",
+    "pronunciation": "diː ˈʃteːlˌlampn̩",
+    "audio": "604"
+  },
+  {
+    "meaning": "Picture",
+    "german": "das Bild",
+    "register": "general",
+    "pronunciation": "das bɪlt",
+    "audio": "605"
+  },
+  {
+    "meaning": "Painting",
+    "german": "das Bild",
+    "register": "general",
+    "pronunciation": "das bɪlt",
+    "audio": "606"
+  },
+  {
+    "meaning": "Pictures",
+    "german": "die Bilder",
+    "register": "general",
+    "pronunciation": "diː ˈbɪldɐ",
+    "audio": "607"
+  },
+
+
+  {
+    "meaning": "In the Bathroom",
+    "german": "Im Badezimmer",
+    "register": "general",
+    "pronunciation": "ɪm ˈbaːdəˌtsɪmɐ",
+    "audio": "608"
+  },
+  {
+    "meaning": "In the Living Room",
+    "german": "Im Wohnzimmer",
+    "register": "general",
+    "pronunciation": "ɪm ˈvoːnˌtsɪmɐ",
+    "audio": "609"
+  },
+
+
+  {
+    "meaning": "Clothes",
+    "german": "die Kleidung",
+    "register": "general",
+    "pronunciation": "diː ˈklaɪ̯dʊŋ",
+    "audio": "610"
+  },
+  {
+    "meaning": "T-Shirt",
+    "german": "das T-Shirt",
+    "register": "general",
+    "pronunciation": "das ˈtiːʃœːɐ̯t",
+    "audio": "611"
+  },
+  {
+    "meaning": "T-Shirts",
+    "german": "die T-Shirts",
+    "register": "general",
+    "pronunciation": "diː ˈtiːʃœːɐ̯ts",
+    "audio": "612"
+  },
+  {
+    "meaning": "Pants",
+    "german": "die Hose",
+    "register": "general",
+    "pronunciation": "diː ˈhoːzə",
+    "audio": "613"
+  },
+  {
+    "meaning": "Trouser",
+    "german": "die Hose",
+    "register": "general",
+    "pronunciation": "diː ˈhoːzə",
+    "audio": "614"
+  },
+  {
+    "meaning": "Trousers",
+    "german": "die Hosen",
+    "register": "general",
+    "pronunciation": "diː ˈhoːzn̩",
+    "audio": "615"
+  },
+  {
+    "meaning": "Skirt",
+    "german": "der Rock",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʁɔk",
+    "audio": "616"
+  },
+  {
+    "meaning": "Skirts",
+    "german": "die Röcke",
+    "register": "general",
+    "pronunciation": "diː ˈʁœkə",
+    "audio": "617"
+  },
+  {
+    "meaning": "Dress",
+    "german": "das Kleid",
+    "register": "general",
+    "pronunciation": "das klaɪ̯t",
+    "audio": "618"
+  },
+  {
+    "meaning": "Dresses",
+    "german": "die Kleider",
+    "register": "general",
+    "pronunciation": "diː ˈklaɪ̯dɐ",
+    "audio": "619"
+  },
+  {
+    "meaning": "Shirt",
+    "german": "das Hemd",
+    "register": "general",
+    "pronunciation": "das hɛmt",
+    "audio": "620"
+  },
+  {
+    "meaning": "Shirts",
+    "german": "die Hemden",
+    "register": "general",
+    "pronunciation": "diː ˈhɛmdn̩",
+    "audio": "621"
+  },
+  {
+    "meaning": "Pullover",
+    "german": "der Pullover",
+    "register": "general",
+    "pronunciation": "deːɐ̯ pʊˈloːvɐ",
+    "audio": "622"
+  },
+  {
+    "meaning": "Sweater",
+    "german": "der Pullover",
+    "register": "general",
+    "pronunciation": "deːɐ̯ pʊˈloːvɐ",
+    "audio": "623"
+  },
+  {
+    "meaning": "Sweaters",
+    "german": "die Pullover",
+    "register": "general",
+    "pronunciation": "diː pʊˈloːvɐ",
+    "audio": "624"
+  },
+  {
+    "meaning": "Blouse",
+    "german": "die Bluse",
+    "register": "general",
+    "pronunciation": "diː ˈbluːzə",
+    "audio": "625"
+  },
+  {
+    "meaning": "Blouses",
+    "german": "die Blusen",
+    "register": "general",
+    "pronunciation": "diː ˈbluːzn̩",
+    "audio": "626"
+  },
+  {
+    "meaning": "Jeans",
+    "german": "die Jeans",
+    "register": "general",
+    "pronunciation": "diː dʒiːns",
+    "audio": "627"
+  },
+  {
+    "meaning": "Jeans",
+    "german": "die Jeans",
+    "register": "general",
+    "pronunciation": "diː dʒiːns",
+    "audio": "628"
+  },
+  {
+    "meaning": "Shorts",
+    "german": "die Shorts",
+    "register": "general",
+    "pronunciation": "diː ʃɔʁts",
+    "audio": "629"
+  },
+  {
+    "meaning": "Jacket",
+    "german": "die Jacke",
+    "register": "general",
+    "pronunciation": "diː ˈjakə",
+    "audio": "630"
+  },
+  {
+    "meaning": "Jackets",
+    "german": "die Jacken",
+    "register": "general",
+    "pronunciation": "diː ˈjakn̩",
+    "audio": "631"
+  },
+  {
+    "meaning": "Overcoat",
+    "german": "der Mantel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈmantl̩",
+    "audio": "632"
+  },
+  {
+    "meaning": "Overcoats",
+    "german": "die Mäntel",
+    "register": "general",
+    "pronunciation": "diː ˈmɛntl̩",
+    "audio": "633"
+  },
+  {
+    "meaning": "Sock",
+    "german": "die Socke",
+    "register": "general",
+    "pronunciation": "diː ˈzɔkə",
+    "audio": "634"
+  },
+  {
+    "meaning": "Socks",
+    "german": "die Socken",
+    "register": "general",
+    "pronunciation": "diː ˈzɔkn̩",
+    "audio": "635"
+  },
+  {
+    "meaning": "Shawl",
+    "german": "der Schal",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃaːl",
+    "audio": "636"
+  },
+  {
+    "meaning": "Muffler",
+    "german": "der Schal",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃaːl",
+    "audio": "637"
+  },
+  {
+    "meaning": "Scarf",
+    "german": "der Schal",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃaːl",
+    "audio": "638"
+  },
+  {
+    "meaning": "Scarves",
+    "german": "die Schals",
+    "register": "general",
+    "pronunciation": "diː ʃaːls",
+    "audio": "639"
+  },
+  {
+    "meaning": "Beanie",
+    "german": "die Mütze",
+    "register": "general",
+    "pronunciation": "diː ˈmʏtsə",
+    "audio": "640"
+  },
+  {
+    "meaning": "Cap",
+    "german": "die Mütze",
+    "register": "general",
+    "pronunciation": "diː ˈmʏtsə",
+    "audio": "641"
+  },
+  {
+    "meaning": "Caps",
+    "german": "die Mützen",
+    "register": "general",
+    "pronunciation": "diː ˈmʏtsn̩",
+    "audio": "642"
+  },
+  {
+    "meaning": "Shoe",
+    "german": "der Schuh",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃuː",
+    "audio": "643"
+  },
+  {
+    "meaning": "Shoes",
+    "german": "die Schuhe",
+    "register": "general",
+    "pronunciation": "diː ˈʃuːə",
+    "audio": "644"
+  },
+  {
+    "meaning": "Glove",
+    "german": "der Handschuh",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈhantˌʃuː",
+    "audio": "645"
+  },
+  {
+    "meaning": "Gloves",
+    "german": "die Handschuhe",
+    "register": "general",
+    "pronunciation": "diː ˈhantˌʃuːə",
+    "audio": "646"
+  },
+  {
+    "meaning": "Boot",
+    "german": "der Stiefel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃtiːfl̩",
+    "audio": "647"
+  },
+  {
+    "meaning": "Boots",
+    "german": "die Stiefel",
+    "register": "general",
+    "pronunciation": "diː ˈʃtiːfl̩",
+    "audio": "648"
+  },
+  {
+    "meaning": "Hat",
+    "german": "der Hut",
+    "register": "general",
+    "pronunciation": "deːɐ̯ huːt",
+    "audio": "649"
+  },
+  {
+    "meaning": "Hats",
+    "german": "die Hüte",
+    "register": "general",
+    "pronunciation": "diː ˈhyːtə",
+    "audio": "650"
+  },
+  {
+    "meaning": "Suit",
+    "german": "der Anzug",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈantsuːk",
+    "audio": "651"
+  },
+  {
+    "meaning": "Suits",
+    "german": "die Anzüge",
+    "register": "general",
+    "pronunciation": "diː ˈantsyːɡə",
+    "audio": "652"
+  },
+  {
+    "meaning": "Belt",
+    "german": "der Gürtel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈɡʏʁtl̩",
+    "audio": "653"
+  },
+  {
+    "meaning": "Belts",
+    "german": "die Gürtel",
+    "register": "general",
+    "pronunciation": "diː ˈɡʏʁtl̩",
+    "audio": "654"
+  },
+  {
+    "meaning": "Tie",
+    "german": "die Krawatte",
+    "register": "general",
+    "pronunciation": "diː kʁaˈvatə",
+    "audio": "655"
+  },
+  {
+    "meaning": "Necktie",
+    "german": "die Krawatte",
+    "register": "general",
+    "pronunciation": "diː kʁaˈvatə",
+    "audio": "656"
+  },
+  {
+    "meaning": "Neckties",
+    "german": "die Krawatten",
+    "register": "general",
+    "pronunciation": "diː kʁaˈvatn̩",
+    "audio": "657"
+  },
+  {
+    "meaning": "Bikini",
+    "german": "der Bikini",
+    "register": "general",
+    "pronunciation": "deːɐ̯ biˈkiːni",
+    "audio": "658"
+  },
+  {
+    "meaning": "Bikinis",
+    "german": "die Bikinis",
+    "register": "general",
+    "pronunciation": "diː biˈkiːnis",
+    "audio": "659"
+  },
+  {
+    "meaning": "Bathing trunk",
+    "german": "die Badehose",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌhoːzə",
+    "audio": "660"
+  },
+  {
+    "meaning": "Bathing trunks",
+    "german": "die Badehosen",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌhoːzn̩",
+    "audio": "661"
+  },
+  {
+    "meaning": "Flip-flop",
+    "german": "die Badelatsche",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌlatʃə",
+    "audio": "662"
+  },
+  {
+    "meaning": "Flip-flops",
+    "german": "die Badelatschen",
+    "register": "general",
+    "pronunciation": "diː ˈbaːdəˌlatʃn̩",
+    "audio": "663"
+  },
+  {
+    "meaning": "Cap",
+    "german": "die Kappe",
+    "register": "general",
+    "pronunciation": "diː ˈkapə",
+    "audio": "664"
+  },
+  {
+    "meaning": "Caps",
+    "german": "die Kappen",
+    "register": "general",
+    "pronunciation": "diː ˈkapn̩",
+    "audio": "665"
+  },
+  {
+    "meaning": "Bow tie",
+    "german": "die Fliege",
+    "register": "general",
+    "pronunciation": "diː ˈfliːɡə",
+    "audio": "666"
+  },
+  {
+    "meaning": "Bow ties",
+    "german": "die Fliegen",
+    "register": "general",
+    "pronunciation": "diː ˈfliːɡn̩",
+    "audio": "667"
+  },
+  {
+    "meaning": "Pump",
+    "german": "der Pumps",
+    "register": "general",
+    "pronunciation": "deːɐ̯ pʊmps",
+    "audio": "668"
+  },
+  {
+    "meaning": "Pumps",
+    "german": "die Pumps",
+    "register": "general",
+    "pronunciation": "diː pʊmps",
+    "audio": "669"
   }
 ]
+
 
 
