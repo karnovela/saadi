@@ -4763,8 +4763,1044 @@
     "register": "general",
     "pronunciation": "diː pʊmps",
     "audio": "669"
+  },
+
+  
+
+  {
+    "meaning": "Vegetables",
+    "german": "das Gemüse",
+    "register": "general",
+    "pronunciation": "das ɡəˈmyːzə",
+    "audio": "670"
+  },
+  {
+    "meaning": "Carrot",
+    "german": "die Karotte",
+    "register": "general",
+    "pronunciation": "diː kaˈʁɔtə",
+    "audio": "671"
+  },
+  {
+    "meaning": "Carrots",
+    "german": "die Karotten",
+    "register": "general",
+    "pronunciation": "diː kaˈʁɔtən",
+    "audio": "672"
+  },
+  {
+    "meaning": "Onion",
+    "german": "die Zwiebel",
+    "register": "general",
+    "pronunciation": "diː ˈtsviːbəl",
+    "audio": "673"
+  },
+  {
+    "meaning": "Onions",
+    "german": "die Zwiebeln",
+    "register": "general",
+    "pronunciation": "diː ˈtsviːbəl̩n",
+    "audio": "674"
+  },
+  {
+    "meaning": "Capsicum",
+    "german": "die Paprika",
+    "register": "general",
+    "pronunciation": "diː paˈpʁiːka",
+    "audio": "675"
+  },
+  {
+    "meaning": "Capsicums",
+    "german": "die Paprikas",
+    "register": "general",
+    "pronunciation": "diː paˈpʁiːkas",
+    "audio": "676"
+  },
+  {
+    "meaning": "Potato",
+    "german": "die Kartoffel",
+    "register": "general",
+    "pronunciation": "diː kaʁˈtɔfəl",
+    "audio": "677"
+  },
+  {
+    "meaning": "Potatoes",
+    "german": "die Kartoffeln",
+    "register": "general",
+    "pronunciation": "diː kaʁˈtɔfəl̩n",
+    "audio": "678"
+  },
+  {
+    "meaning": "Lemon",
+    "german": "die Zitrone",
+    "register": "general",
+    "pronunciation": "diː tsiˈtʁoːnə",
+    "audio": "679"
+  },
+  {
+    "meaning": "Lemons",
+    "german": "die Zitronen",
+    "register": "general",
+    "pronunciation": "diː tsiˈtʁoːnən",
+    "audio": "680"
+  },
+  {
+    "meaning": "Bean",
+    "german": "die Bohne",
+    "register": "general",
+    "pronunciation": "diː ˈboːnə",
+    "audio": "681"
+  },
+  {
+    "meaning": "Beans",
+    "german": "die Bohnen",
+    "register": "general",
+    "pronunciation": "diː ˈboːnən",
+    "audio": "682"
+  },
+  {
+    "meaning": "Pumpkin",
+    "german": "der Kürbis",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkʏʁbɪs",
+    "audio": "683"
+  },
+  {
+    "meaning": "Pumpkins",
+    "german": "die Kürbisse",
+    "register": "general",
+    "pronunciation": "diː ˈkʏʁbɪsə",
+    "audio": "684"
+  },
+  {
+    "meaning": "Corn",
+    "german": "der Mais",
+    "register": "general",
+    "pronunciation": "deːɐ̯ maɪ̯s",
+    "audio": "685"
+  },
+  {
+    "meaning": "Cauliflower",
+    "german": "der Blumenkohl",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbluːmənkoːl",
+    "audio": "686"
+  },
+  {
+    "meaning": "Cauliflowers",
+    "german": "die Blumenkohle",
+    "register": "general",
+    "pronunciation": "diː ˈbluːmənkoːlə",
+    "audio": "687"
+  },
+  {
+    "meaning": "Cabbage",
+    "german": "der Kohl",
+    "register": "general",
+    "pronunciation": "deːɐ̯ koːl",
+    "audio": "688"
+  },
+  {
+    "meaning": "Cabbages",
+    "german": "die Kohle",
+    "register": "general",
+    "pronunciation": "diː ˈkoːlə",
+    "audio": "689"
+  },
+  {
+    "meaning": "Garlic",
+    "german": "der Knoblauch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈknoːplaʊ̯x",
+    "audio": "690"
+  },
+  {
+    "meaning": "Asparagus",
+    "german": "der Spargel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃpaʁɡəl",
+    "audio": "691"
+  },
+  {
+    "meaning": "Asparagus",
+    "german": "die Spargeln",
+    "register": "general",
+    "pronunciation": "diː ˈʃpaʁɡəl̩n",
+    "audio": "692"
+  },
+  {
+    "meaning": "Broccoli",
+    "german": "der Brokkoli",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbʁɔkoli",
+    "audio": "693"
+  },
+  {
+    "meaning": "Broccolis",
+    "german": "die Brokkoli",
+    "register": "general",
+    "pronunciation": "diː ˈbʁɔkoli",
+    "audio": "694"
+  },
+  {
+    "meaning": "Spinach",
+    "german": "der Spinat",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃpiˈnaːt",
+    "audio": "695"
+  },
+  {
+    "meaning": "Zucchini",
+    "german": "die Zucchini",
+    "register": "general",
+    "pronunciation": "diː tsuˈkiːni",
+    "audio": "696"
+  },
+  {
+    "meaning": "Courgette",
+    "german": "die Zucchini",
+    "register": "general",
+    "pronunciation": "diː tsuˈkiːni",
+    "audio": "697"
+  },
+  {
+    "meaning": "Zucchinis",
+    "german": "die Zucchini",
+    "register": "general",
+    "pronunciation": "diː tsuˈkiːni",
+    "audio": "698"
+  },
+  {
+    "meaning": "Peas",
+    "german": "Die Erbse",
+    "register": "general",
+    "pronunciation": "diː ˈɛʁpsə",
+    "audio": "699"
+  },
+  {
+    "meaning": "Peas",
+    "german": "die Erbsen",
+    "register": "general",
+    "pronunciation": "diː ˈɛʁpsən",
+    "audio": "700"
+  },
+  {
+    "meaning": "Cucumber",
+    "german": "die Gurke",
+    "register": "general",
+    "pronunciation": "diː ˈɡʊʁkə",
+    "audio": "701"
+  },
+  {
+    "meaning": "Cucumbers",
+    "german": "die Gurken",
+    "register": "general",
+    "pronunciation": "diː ˈɡʊʁkən",
+    "audio": "702"
+  },
+  {
+    "meaning": "Eggplant",
+    "german": "die Aubergine",
+    "register": "general",
+    "pronunciation": "diː obeʁˈʒiːnə",
+    "audio": "703"
+  },
+  {
+    "meaning": "Eggplants",
+    "german": "die Auberginen",
+    "register": "general",
+    "pronunciation": "diː obeʁˈʒiːnən",
+    "audio": "704"
+  },
+  {
+    "meaning": "Brinjal",
+    "german": "die Aubergine",
+    "register": "general",
+    "pronunciation": "diː obeʁˈʒiːnə",
+    "audio": "705"
+  },
+  {
+    "meaning": "Beet root",
+    "german": "die Rote Bete",
+    "register": "general",
+    "pronunciation": "diː ˈʁoːtə ˈbeːtə",
+    "audio": "706"
+  },
+  {
+    "meaning": "Beet roots",
+    "german": "die Rote Beten",
+    "register": "general",
+    "pronunciation": "diː ˈʁoːtə ˈbeːtən",
+    "audio": "707"
+  },
+  {
+    "meaning": "Beet roots",
+    "german": "die Roten Beten",
+    "register": "general",
+    "pronunciation": "diː ˈʁoːtən ˈbeːtən",
+    "audio": "708"
+  },
+  {
+    "meaning": "Ginger",
+    "german": "der Ingwer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈɪŋvɐ",
+    "audio": "709"
+  },
+  {
+    "meaning": "Turnip",
+    "german": "die Rübe",
+    "register": "general",
+    "pronunciation": "diː ˈʁyːbə",
+    "audio": "710"
+  },
+  {
+    "meaning": "Turnips",
+    "german": "die Rüben",
+    "register": "general",
+    "pronunciation": "diː ˈʁyːbən",
+    "audio": "711"
+  },
+  {
+    "meaning": "Sweet potato",
+    "german": "die Süßkartoffel",
+    "register": "general",
+    "pronunciation": "diː ˈzyːskaʁˌtɔfəl",
+    "audio": "712"
+  },
+  {
+    "meaning": "Sweet potatoes",
+    "german": "die Süßkartoffeln",
+    "register": "general",
+    "pronunciation": "diː ˈzyːskaʁˌtɔfəl̩n",
+    "audio": "713"
+  },
+  {
+    "meaning": "Fennel",
+    "german": "der Fenchel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfɛnçəl",
+    "audio": "714"
+  },
+  {
+    "meaning": "Brussel sprouts",
+    "german": "der Rosenkohl",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʁoːzn̩koːl",
+    "audio": "715"
+  },
+  {
+    "meaning": "Lettuce",
+    "german": "der Salat",
+    "register": "general",
+    "pronunciation": "deːɐ̯ zaˈlaːt",
+    "audio": "716"
+  },
+  {
+    "meaning": "Lettuces",
+    "german": "die Salate",
+    "register": "general",
+    "pronunciation": "diː zaˈlaːtə",
+    "audio": "717"
+  },
+  {
+    "meaning": "Leek",
+    "german": "der Lauch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ laʊ̯x",
+    "audio": "718"
+  },
+  {
+    "meaning": "Leeks",
+    "german": "die Lauche",
+    "register": "general",
+    "pronunciation": "diː ˈlaʊ̯çə",
+    "audio": "719"
+  },
+  
+  
+  
+  {
+    "meaning": "Fruits",
+    "german": "Obst",
+    "register": "general",
+    "pronunciation": "oːpst",
+    "audio": "720"
+  },
+  {
+    "meaning": "Fruit",
+    "german": "das Obst",
+    "register": "general",
+    "pronunciation": "das oːpst",
+    "audio": "721"
+  },
+  {
+    "meaning": "Fruits",
+    "german": "die Obst",
+    "register": "general",
+    "pronunciation": "diː oːpst",
+    "audio": "722"
+  },
+  {
+    "meaning": "Apple",
+    "german": "der Apfel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈapfəl",
+    "audio": "723"
+  },
+  {
+    "meaning": "Apples",
+    "german": "die Äpfel",
+    "register": "general",
+    "pronunciation": "diː ˈɛpfəl",
+    "audio": "724"
+  },
+  {
+    "meaning": "Banana",
+    "german": "die Banane",
+    "register": "general",
+    "pronunciation": "diː baˈnaːnə",
+    "audio": "725"
+  },
+  {
+    "meaning": "Bananas",
+    "german": "die Bananen",
+    "register": "general",
+    "pronunciation": "diː baˈnaːnən",
+    "audio": "726"
+  },
+  {
+    "meaning": "Pear",
+    "german": "die Birne",
+    "register": "general",
+    "pronunciation": "diː ˈbɪʁnə",
+    "audio": "727"
+  },
+  {
+    "meaning": "Pears",
+    "german": "die Birnen",
+    "register": "general",
+    "pronunciation": "diː ˈbɪʁnən",
+    "audio": "728"
+  },
+  {
+    "meaning": "Strawberry",
+    "german": "die Erdbeere",
+    "register": "general",
+    "pronunciation": "diː ˈeːɐ̯tbeːʁə",
+    "audio": "729"
+  },
+  {
+    "meaning": "Strawberries",
+    "german": "die Erdbeeren",
+    "register": "general",
+    "pronunciation": "diː ˈeːɐ̯tbeːʁən",
+    "audio": "730"
+  },
+  {
+    "meaning": "Passion Fruit",
+    "german": "die Passionsfrucht",
+    "register": "general",
+    "pronunciation": "diː paˈsi̯oːnsfʁʊxt",
+    "audio": "731"
+  },
+  {
+    "meaning": "Passion Fruits",
+    "german": "die Passionsfrüchte",
+    "register": "general",
+    "pronunciation": "diː paˈsi̯oːnsfʁʏçtə",
+    "audio": "732"
+  },
+  {
+    "meaning": "Grape fruit",
+    "german": "die Grapefruit",
+    "register": "general",
+    "pronunciation": "diː ˈɡʁeːpˌfʁuːt",
+    "audio": "733"
+  },
+  {
+    "meaning": "Grapefruits",
+    "german": "die Grapefruits",
+    "register": "general",
+    "pronunciation": "diː ˈɡʁeːpˌfʁuːts",
+    "audio": "734"
+  },
+  {
+    "meaning": "Fig",
+    "german": "die Feige",
+    "register": "general",
+    "pronunciation": "diː ˈfaɪ̯ɡə",
+    "audio": "735"
+  },
+  {
+    "meaning": "Figs",
+    "german": "die Feigen",
+    "register": "general",
+    "pronunciation": "diː ˈfaɪ̯ɡən",
+    "audio": "736"
+  },
+  {
+    "meaning": "Blueberry",
+    "german": "die Heidelbeere",
+    "register": "general",
+    "pronunciation": "diː ˈhaɪ̯dəlbeːʁə",
+    "audio": "737"
+  },
+  {
+    "meaning": "Blueberries",
+    "german": "die Heidelbeeren",
+    "register": "general",
+    "pronunciation": "diː ˈhaɪ̯dəlbeːʁən",
+    "audio": "738"
+  },
+  {
+    "meaning": "Cherry",
+    "german": "die Kirsche",
+    "register": "general",
+    "pronunciation": "diː ˈkɪʁʃə",
+    "audio": "739"
+  },
+  {
+    "meaning": "Cherries",
+    "german": "die Kirschen",
+    "register": "general",
+    "pronunciation": "diː ˈkɪʁʃən",
+    "audio": "740"
+  },
+  {
+    "meaning": "Kiwi",
+    "german": "die Kiwi",
+    "register": "general",
+    "pronunciation": "diː ˈkiːvi",
+    "audio": "741"
+  },
+  {
+    "meaning": "Kiwis",
+    "german": "die Kiwis",
+    "register": "general",
+    "pronunciation": "diː ˈkiːvis",
+    "audio": "742"
+  },
+  {
+    "meaning": "Orange",
+    "german": "die Orange",
+    "register": "general",
+    "pronunciation": "diː oˈʁaŋʒə",
+    "audio": "743"
+  },
+  {
+    "meaning": "Oranges",
+    "german": "die Orangen",
+    "register": "general",
+    "pronunciation": "diː oˈʁaŋʒən",
+    "audio": "744"
+  },
+  {
+    "meaning": "Plum",
+    "german": "die Pflaume",
+    "register": "general",
+    "pronunciation": "diː ˈpflaʊ̯mə",
+    "audio": "745"
+  },
+  {
+    "meaning": "Plums",
+    "german": "die Pflaumen",
+    "register": "general",
+    "pronunciation": "diː ˈpflaʊ̯mən",
+    "audio": "746"
+  },
+  {
+    "meaning": "Grape",
+    "german": "die Traube",
+    "register": "general",
+    "pronunciation": "diː ˈtʁaʊ̯bə",
+    "audio": "747"
+  },
+  {
+    "meaning": "Grapes",
+    "german": "die Trauben",
+    "register": "general",
+    "pronunciation": "diː ˈtʁaʊ̯bən",
+    "audio": "748"
+  },
+  {
+    "meaning": "Watermelon",
+    "german": "die Wassermelone",
+    "register": "general",
+    "pronunciation": "diː ˈvasɐmeˌloːnə",
+    "audio": "749"
+  },
+  {
+    "meaning": "Watermelons",
+    "german": "die Wassermelonen",
+    "register": "general",
+    "pronunciation": "diː ˈvasɐmeˌloːnən",
+    "audio": "750"
+  },
+  {
+    "meaning": "Pineapple",
+    "german": "die Ananas",
+    "register": "general",
+    "pronunciation": "diː ˈananas",
+    "audio": "751"
+  },
+  {
+    "meaning": "Pineapples",
+    "german": "die Ananas",
+    "register": "general",
+    "pronunciation": "diː ˈananas",
+    "audio": "752"
+  },
+  {
+    "meaning": "Pomegranate",
+    "german": "der Granatapfel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ɡʁaˈnaːtˌapfəl",
+    "audio": "753"
+  },
+  {
+    "meaning": "Pomegranates",
+    "german": "die Granatäpfel",
+    "register": "general",
+    "pronunciation": "diː ɡʁaˈnaːtˌɛpfəl",
+    "audio": "754"
+  },
+  {
+    "meaning": "Peach",
+    "german": "der Pfirsich",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈpfɪʁzɪç",
+    "audio": "755"
+  },
+  {
+    "meaning": "Peaches",
+    "german": "die Pfirsiche",
+    "register": "general",
+    "pronunciation": "diː ˈpfɪʁzɪçə",
+    "audio": "756"
+  },
+  {
+    "meaning": "Apricot",
+    "german": "die Aprikose",
+    "register": "general",
+    "pronunciation": "diː apriˈkoːzə",
+    "audio": "757"
+  },
+  {
+    "meaning": "Apricots",
+    "german": "die Aparikosen",
+    "register": "general",
+    "pronunciation": "diː apaʁiˈkoːzən",
+    "audio": "758"
+  },
+  {
+    "meaning": "Melon",
+    "german": "die Melone",
+    "register": "general",
+    "pronunciation": "diː meˈloːnə",
+    "audio": "759"
+  },
+  {
+    "meaning": "Melons",
+    "german": "die Melonen",
+    "register": "general",
+    "pronunciation": "diː meˈloːnən",
+    "audio": "760"
+  },
+  {
+    "meaning": "Raspberry",
+    "german": "die Himbeere",
+    "register": "general",
+    "pronunciation": "diː ˈhɪmbeːʁə",
+    "audio": "761"
+  },
+  {
+    "meaning": "Raspberries",
+    "german": "die Himbeeren",
+    "register": "general",
+    "pronunciation": "diː ˈhɪmbeːʁən",
+    "audio": "762"
+  },
+  {
+    "meaning": "Avocado",
+    "german": "die Avocado",
+    "register": "general",
+    "pronunciation": "diː avoˈkaːdo",
+    "audio": "763"
+  },
+  {
+    "meaning": "Avocados",
+    "german": "die Avocados",
+    "register": "general",
+    "pronunciation": "diː avoˈkaːdos",
+    "audio": "764"
+  },
+  {
+    "meaning": "Papaya",
+    "german": "die Papaya",
+    "register": "general",
+    "pronunciation": "diː paˈpaːja",
+    "audio": "765"
+  },
+  {
+    "meaning": "Papayas",
+    "german": "die Papayas",
+    "register": "general",
+    "pronunciation": "diː paˈpaːjas",
+    "audio": "766"
+  },
+  {
+    "meaning": "Blackberry",
+    "german": "die Brombeere",
+    "register": "general",
+    "pronunciation": "diː ˈbʁoːmbeːʁə",
+    "audio": "767"
+  },
+  {
+    "meaning": "Blackberries",
+    "german": "die Brombeeren",
+    "register": "general",
+    "pronunciation": "diː ˈbʁoːmbeːʁən",
+    "audio": "768"
+  },
+  
+  
+  {
+    "meaning": "Breakfast",
+    "german": "das Frühstück",
+    "register": "general",
+    "pronunciation": "das ˈfʁyːʃtʏk",
+    "audio": "769"
+  },
+  {
+    "meaning": "To have breakfast",
+    "german": "frühstücken",
+    "register": "general",
+    "pronunciation": "ˈfʁyːʃtʏkən",
+    "audio": "770"
+  },
+  {
+    "meaning": "Breakfast Table",
+    "german": "der Frühstückstisch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfʁyːʃtʏkstiʃ",
+    "audio": "771"
+  },
+  {
+    "meaning": "Coffee",
+    "german": "der Kaffee",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkafeː",
+    "audio": "772"
+  },
+  {
+    "meaning": "Coffees",
+    "german": "die Kaffees",
+    "register": "general",
+    "pronunciation": "diː ˈkafeːs",
+    "audio": "773"
+  },
+  {
+    "meaning": "Tea",
+    "german": "der Tee",
+    "register": "general",
+    "pronunciation": "deːɐ̯ teː",
+    "audio": "774"
+  },
+  {
+    "meaning": "Teas",
+    "german": "die Tees",
+    "register": "general",
+    "pronunciation": "diː teːs",
+    "audio": "775"
+  },
+  {
+    "meaning": "Milk",
+    "german": "die Milch",
+    "register": "general",
+    "pronunciation": "diː mɪlç",
+    "audio": "776"
+  },
+  {
+    "meaning": "Muesli",
+    "german": "das Müsli",
+    "register": "general",
+    "pronunciation": "das ˈmyːsli",
+    "audio": "777"
+  },
+  {
+    "meaning": "Mueslis",
+    "german": "die Müslis",
+    "register": "general",
+    "pronunciation": "diː ˈmyːslis",
+    "audio": "778"
+  },
+  {
+    "meaning": "Yoghurt",
+    "german": "der Joghurt",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈjoːɡʊʁt",
+    "audio": "779"
+  },
+  {
+    "meaning": "Yoghurt",
+    "german": "die Joghurt",
+    "register": "general",
+    "pronunciation": "diː ˈjoːɡʊʁt",
+    "audio": "780"
+  },
+  {
+    "meaning": "Bread roll",
+    "german": "das Brötchen",
+    "register": "general",
+    "pronunciation": "das ˈbʁøːtçən",
+    "audio": "781"
+  },
+  {
+    "meaning": "Bread roll",
+    "german": "die Brötchen",
+    "register": "general",
+    "pronunciation": "diː ˈbʁøːtçən",
+    "audio": "782"
+  },
+  {
+    "meaning": "Pretzel",
+    "german": "die Brezel",
+    "register": "general",
+    "pronunciation": "diː ˈbʁeːtsəl",
+    "audio": "783"
+  },
+  {
+    "meaning": "Pretzel",
+    "german": "das Brezel",
+    "register": "general",
+    "pronunciation": "das ˈbʁeːtsəl",
+    "audio": "784"
+  },
+  {
+    "meaning": "Pretzels",
+    "german": "die Brezeln",
+    "register": "general",
+    "pronunciation": "diː ˈbʁeːtsəl̩n",
+    "audio": "785"
+  },
+  {
+    "meaning": "Croissant",
+    "german": "das Croissant",
+    "register": "general",
+    "pronunciation": "das kʁoaˈsɑ̃ː",
+    "audio": "786"
+  },
+  {
+    "meaning": "Croissant",
+    "german": "die Croissants",
+    "register": "general",
+    "pronunciation": "diː kʁoaˈsɑ̃ːs",
+    "audio": "787"
+  },
+  {
+    "meaning": "Bread",
+    "german": "das Brot",
+    "register": "general",
+    "pronunciation": "das bʁoːt",
+    "audio": "788"
+  },
+  {
+    "meaning": "Breads",
+    "german": "die Brote",
+    "register": "general",
+    "pronunciation": "diː ˈbʁoːtə",
+    "audio": "789"
+  },
+  {
+    "meaning": "Toast",
+    "german": "der Toast",
+    "register": "general",
+    "pronunciation": "deːɐ̯ toːst",
+    "audio": "790"
+  },
+  {
+    "meaning": "Toast",
+    "german": "das Toast",
+    "register": "general",
+    "pronunciation": "das toːst",
+    "audio": "791"
+  },
+  {
+    "meaning": "Toasts",
+    "german": "die Toasts",
+    "register": "general",
+    "pronunciation": "diː toːsts",
+    "audio": "792"
+  },
+  {
+    "meaning": "Butter",
+    "german": "die Butter",
+    "register": "general",
+    "pronunciation": "diː ˈbʊtɐ",
+    "audio": "793"
+  },
+  {
+    "meaning": "Cheese",
+    "german": "der Käse",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkɛːzə",
+    "audio": "794"
+  },
+  {
+    "meaning": "Cheeses",
+    "german": "die Käse",
+    "register": "general",
+    "pronunciation": "diː ˈkɛːzə",
+    "audio": "795"
+  },
+  {
+    "meaning": "Jam",
+    "german": "die Marmelade",
+    "register": "general",
+    "pronunciation": "diː maʁməˈlaːdə",
+    "audio": "796"
+  },
+  {
+    "meaning": "Jams",
+    "german": "die Marmeladen",
+    "register": "general",
+    "pronunciation": "diː maʁməˈlaːdən",
+    "audio": "797"
+  },
+  {
+    "meaning": "Fried egg",
+    "german": "das Spiegelei",
+    "register": "general",
+    "pronunciation": "das ˈʃpiːɡəlˌaɪ̯",
+    "audio": "798"
+  },
+  {
+    "meaning": "Fried eggs",
+    "german": "die Spiegeleier",
+    "register": "general",
+    "pronunciation": "diː ˈʃpiːɡəlˌaɪ̯ɐ",
+    "audio": "799"
+  },
+  {
+    "meaning": "Scrambled egg",
+    "german": "das Rührei",
+    "register": "general",
+    "pronunciation": "das ˈʁyːɐ̯ˌaɪ̯",
+    "audio": "800"
+  },
+  {
+    "meaning": "Scrambled eggs",
+    "german": "die Rühreier",
+    "register": "general",
+    "pronunciation": "diː ˈʁyːɐ̯ˌaɪ̯ɐ",
+    "audio": "801"
+  },
+  {
+    "meaning": "Boiled egg",
+    "german": "das Gekochte Eier",
+    "register": "general",
+    "pronunciation": "das ɡəˈkɔxtə ˈaɪ̯ɐ",
+    "audio": "802"
+  },
+  {
+    "meaning": "Boiled eggs",
+    "german": "die Gekochten Eier",
+    "register": "general",
+    "pronunciation": "diː ɡəˈkɔxtən ˈaɪ̯ɐ",
+    "audio": "803"
+  },
+  {
+    "meaning": "Sausage",
+    "german": "die Wurst",
+    "register": "general",
+    "pronunciation": "diː vʊʁst",
+    "audio": "804"
+  },
+  {
+    "meaning": "Sausages",
+    "german": "die Würste",
+    "register": "general",
+    "pronunciation": "diː ˈvʏʁstə",
+    "audio": "805"
+  },
+  {
+    "meaning": "Bacon",
+    "german": "der Speck",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃpɛk",
+    "audio": "806"
+  },
+  {
+    "meaning": "Ham",
+    "german": "der Schinken",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃɪŋkən",
+    "audio": "807"
+  },
+  {
+    "meaning": "Hams",
+    "german": "die Schinken",
+    "register": "general",
+    "pronunciation": "diː ˈʃɪŋkən",
+    "audio": "808"
+  },
+  {
+    "meaning": "Honey",
+    "german": "der Honig",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈhoːnɪç",
+    "audio": "809"
+  },
+  {
+    "meaning": "Fruits",
+    "german": "das Obst",
+    "register": "general",
+    "pronunciation": "das oːpst",
+    "audio": "810"
+  },
+  {
+    "meaning": "Juice",
+    "german": "der Saft",
+    "register": "general",
+    "pronunciation": "deːɐ̯ zaft",
+    "audio": "811"
+  },
+  {
+    "meaning": "Juice",
+    "german": "die Säfte",
+    "register": "general",
+    "pronunciation": "diː ˈzɛftə",
+    "audio": "812"
+  },
+  {
+    "meaning": "Smoothie",
+    "german": "der Smoothie",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈsmuːði",
+    "audio": "813"
+  },
+  {
+    "meaning": "Smoothie",
+    "german": "die Smoothies",
+    "register": "general",
+    "pronunciation": "diː ˈsmuːðis",
+    "audio": "814"
+  },
+  {
+    "meaning": "For breakfast I eat a banana and drink a coffee.",
+    "german": "Zum Frühstück esse ich eine Banane und trinke einen Kaffee.",
+    "register": "general",
+    "pronunciation": "tsʊm ˈfʁyːʃtʏk ˈɛsə ɪç ˈaɪ̯nə baˈnaːnə ʊnt ˈtʁɪŋkə ˈaɪ̯nən ˈkafeː",
+    "audio": "815"
+  },
+  {
+    "meaning": "For breakfast I eat a slice of bread with cheese and drink a juice.",
+    "german": "Zum Frühstück esse ich eine Scheibe Brot mit Käse und trinke einen Saft.",
+    "register": "general",
+    "pronunciation": "tsʊm ˈfʁyːʃtʏk ˈɛsə ɪç ˈaɪ̯nə ˈʃaɪ̯bə bʁoːt mɪt ˈkɛːzə ʊnt ˈtʁɪŋkə ˈaɪ̯nən zaft",
+    "audio": "816"
   }
 ]
-
 
 
