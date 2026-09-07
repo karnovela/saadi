@@ -5800,7 +5800,342 @@
     "register": "general",
     "pronunciation": "tsʊm ˈfʁyːʃtʏk ˈɛsə ɪç ˈaɪ̯nə ˈʃaɪ̯bə bʁoːt mɪt ˈkɛːzə ʊnt ˈtʁɪŋkə ˈaɪ̯nən zaft",
     "audio": "816"
+  },
+
+  
+  {
+    "meaning": "one",
+    "german": "erste",
+    "register": "general",
+    "pronunciation": "ˈɛʁstə",
+    "audio": "817"
+  },
+  {
+    "meaning": "two",
+    "german": "zweite",
+    "register": "general",
+    "pronunciation": "ˈtsvaɪ̯tə",
+    "audio": "818"
+  },
+  {
+    "meaning": "three",
+    "german": "dritte",
+    "register": "general",
+    "pronunciation": "ˈdʁɪtə",
+    "audio": "819"
+  },
+  {
+    "meaning": "four",
+    "german": "vierte",
+    "register": "general",
+    "pronunciation": "ˈfiːɐ̯tə",
+    "audio": "820"
+  },
+  {
+    "meaning": "five",
+    "german": "fünfte",
+    "register": "general",
+    "pronunciation": "ˈfʏnftə",
+    "audio": "821"
+  },
+  {
+    "meaning": "six",
+    "german": "sechste",
+    "register": "general",
+    "pronunciation": "ˈzɛçstə",
+    "audio": "822"
+  },
+  {
+    "meaning": "seven",
+    "german": "siebte",
+    "register": "general",
+    "pronunciation": "ˈziːptə",
+    "audio": "823"
+  },
+  {
+    "meaning": "eight",
+    "german": "achte",
+    "register": "general",
+    "pronunciation": "ˈaxtə",
+    "audio": "824"
+  },
+  {
+    "meaning": "nine",
+    "german": "neunte",
+    "register": "general",
+    "pronunciation": "ˈnɔʏ̯ntə",
+    "audio": "825"
+  },
+  {
+    "meaning": "ten",
+    "german": "zehnte",
+    "register": "general",
+    "pronunciation": "ˈtseːntə",
+    "audio": "826"
+  },
+  {
+    "meaning": "twenty",
+    "german": "zwanzigste",
+    "register": "general",
+    "pronunciation": "ˈtsvantsɪçstə",
+    "audio": "827"
+  },
+  {
+    "meaning": "thirty",
+    "german": "dreißigste",
+    "register": "general",
+    "pronunciation": "ˈdʁaɪ̯sɪçstə",
+    "audio": "828"
+  },
+  {
+    "meaning": "forty",
+    "german": "vierzigste",
+    "register": "general",
+    "pronunciation": "ˈfiːɐ̯tsɪçstə",
+    "audio": "829"
+  },
+  {
+    "meaning": "fifty",
+    "german": "fünfzigste",
+    "register": "general",
+    "pronunciation": "ˈfʏnftsɪçstə",
+    "audio": "830"
+  },
+  {
+    "meaning": "sixty",
+    "german": "sechzigste",
+    "register": "general",
+    "pronunciation": "ˈzɛçtsɪçstə",
+    "audio": "831"
+  },
+  {
+    "meaning": "seventy",
+    "german": "siebzigste",
+    "register": "general",
+    "pronunciation": "ˈziːptsɪçstə",
+    "audio": "832"
+  },
+  {
+    "meaning": "eighty",
+    "german": "achtzigste",
+    "register": "general",
+    "pronunciation": "ˈaxtsɪçstə",
+    "audio": "833"
+  },
+  {
+    "meaning": "ninety",
+    "german": "neunzigste",
+    "register": "general",
+    "pronunciation": "ˈnɔʏ̯ntsɪçstə",
+    "audio": "834"
+  },
+  {
+    "meaning": "hundred",
+    "german": "hundertste",
+    "register": "general",
+    "pronunciation": "ˈhʊndɐtstə",
+    "audio": "835"
+  },
+  {
+    "meaning": "thousand",
+    "german": "tausendste",
+    "register": "general",
+    "pronunciation": "ˈtaʊ̯zəntstə",
+    "audio": "836"
+  },
+  {
+    "meaning": "one",
+    "german": "ersten",
+    "register": "general",
+    "pronunciation": "ˈɛʁstən",
+    "audio": "837"
+  },
+  {
+    "meaning": "two",
+    "german": "zweiten",
+    "register": "general",
+    "pronunciation": "ˈtsvaɪ̯tən",
+    "audio": "838"
+  },
+  {
+    "meaning": "three",
+    "german": "dritten",
+    "register": "general",
+    "pronunciation": "ˈdʁɪtən",
+    "audio": "839"
+  },
+  {
+    "meaning": "four",
+    "german": "vierten",
+    "register": "general",
+    "pronunciation": "ˈfiːɐ̯tən",
+    "audio": "840"
+  },
+  {
+    "meaning": "five",
+    "german": "fünften",
+    "register": "general",
+    "pronunciation": "ˈfʏnftən",
+    "audio": "841"
+  },
+  {
+    "meaning": "six",
+    "german": "sechsten",
+    "register": "general",
+    "pronunciation": "ˈzɛçstən",
+    "audio": "842"
+  },
+  {
+    "meaning": "seven",
+    "german": "siebten",
+    "register": "general",
+    "pronunciation": "ˈziːptən",
+    "audio": "843"
+  },
+  {
+    "meaning": "eight",
+    "german": "achten",
+    "register": "general",
+    "pronunciation": "ˈaxtən",
+    "audio": "844"
+  },
+  {
+    "meaning": "nine",
+    "german": "neunten",
+    "register": "general",
+    "pronunciation": "ˈnɔʏ̯ntən",
+    "audio": "845"
+  },
+  {
+    "meaning": "ten",
+    "german": "zehnten",
+    "register": "general",
+    "pronunciation": "ˈtseːntən",
+    "audio": "846"
+  },
+  {
+    "meaning": "twenty",
+    "german": "zwanzigsten",
+    "register": "general",
+    "pronunciation": "ˈtsvantsɪçstən",
+    "audio": "847"
+  },
+  {
+    "meaning": "thirty",
+    "german": "dreißigsten",
+    "register": "general",
+    "pronunciation": "ˈdʁaɪ̯sɪçstən",
+    "audio": "848"
+  },
+  {
+    "meaning": "forty",
+    "german": "vierzigsten",
+    "register": "general",
+    "pronunciation": "ˈfiːɐ̯tsɪçstən",
+    "audio": "849"
+  },
+  {
+    "meaning": "fifty",
+    "german": "fünfzigsten",
+    "register": "general",
+    "pronunciation": "ˈfʏnftsɪçstən",
+    "audio": "850"
+  },
+  {
+    "meaning": "sixty",
+    "german": "sechzigsten",
+    "register": "general",
+    "pronunciation": "ˈzɛçtsɪçstən",
+    "audio": "851"
+  },
+  {
+    "meaning": "seventy",
+    "german": "siebzigsten",
+    "register": "general",
+    "pronunciation": "ˈziːptsɪçstən",
+    "audio": "852"
+  },
+  {
+    "meaning": "eighty",
+    "german": "achtzigsten",
+    "register": "general",
+    "pronunciation": "ˈaxtsɪçstən",
+    "audio": "853"
+  },
+  {
+    "meaning": "ninety",
+    "german": "neunzigsten",
+    "register": "general",
+    "pronunciation": "ˈnɔʏ̯ntsɪçstən",
+    "audio": "854"
+  },
+  {
+    "meaning": "hundred",
+    "german": "hundertsten",
+    "register": "general",
+    "pronunciation": "ˈhʊndɐtstən",
+    "audio": "855"
+  },
+  {
+    "meaning": "thousand",
+    "german": "tausendsten",
+    "register": "general",
+    "pronunciation": "ˈtaʊ̯zəntstən",
+    "audio": "856"
+  },
+  {
+    "meaning": "Today is the 6th of April.",
+    "german": "Heute ist der sechste April.",
+    "register": "general",
+    "pronunciation": "ˈhɔʏ̯tə ɪst deːɐ̯ ˈzɛkstə aˈpʁɪl",
+    "audio": "857"
+  },
+  {
+    "meaning": "She will come on the 6th of April.",
+    "german": "Sie kommt am sechsten April.",
+    "register": "general",
+    "pronunciation": "ziː kɔmt am ˈzɛkstən aˈpʁɪl",
+    "audio": "858"
+  },
+  {
+    "meaning": "My birthday is on the 6th of April.",
+    "german": "Ich habe am sechsten April Geburtstag.",
+    "register": "general",
+    "pronunciation": "ɪç ˈhaːbə am ˈzɛkstən aˈpʁɪl ɡəˈbʊʁtstaːk",
+    "audio": "859"
+  },
+  {
+    "meaning": "The third house from the left is my house.",
+    "german": "Das dritte Haus von links ist mein Haus.",
+    "register": "general",
+    "pronunciation": "das ˈdʁɪtə haʊ̯s fɔn lɪŋks ɪst maɪ̯n haʊ̯s",
+    "audio": "860"
+  },
+
+  
+  {
+    "meaning": "Ordinal Numbers",
+    "german": "Ordinalzahlen",
+    "register": "general",
+    "pronunciation": "ɔʁdiˈnaːltsaːlən",
+    "audio": "861"
+  },
+  {
+    "meaning": "Cardinal Numbers",
+    "german": "Kardinalzahlen",
+    "register": "general",
+    "pronunciation": "kardiˈnaːltsaːlən",
+    "audio": "862"
+  },
+  {
+    "meaning": "Ordinal Numbers",
+    "german": "Ordinalzahlen",
+    "register": "general",
+    "pronunciation": "ɔʁdiˈnaːltsaːlən",
+    "audio": "863"
   }
 ]
+
+
 
 
