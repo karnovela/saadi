@@ -6276,9 +6276,683 @@
     "register": "general",
     "pronunciation": "miːɐ̯ ʃteːt blaʊ̯",
     "audio": "883"
+  },
+
+
+
+  {
+    "meaning": "Body part",
+    "german": "der Körperteil",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkœʁpɐtaɪ̯l",
+    "audio": "884"
+  },
+  {
+    "meaning": "body parts",
+    "german": "die Körperteile",
+    "register": "general",
+    "pronunciation": "diː ˈkœʁpɐtaɪ̯lə",
+    "audio": "885"
+  },
+  {
+    "meaning": "Head",
+    "german": "der Kopf",
+    "register": "general",
+    "pronunciation": "deːɐ̯ kɔpf",
+    "audio": "886"
+  },
+  {
+    "meaning": "Heads",
+    "german": "die Köpfe",
+    "register": "general",
+    "pronunciation": "diː ˈkœpfə",
+    "audio": "887"
+  },
+  {
+    "meaning": "Face",
+    "german": "das Gesicht",
+    "register": "general",
+    "pronunciation": "das ɡəˈzɪçt",
+    "audio": "888"
+  },
+  {
+    "meaning": "Faces",
+    "german": "die Gesichter",
+    "register": "general",
+    "pronunciation": "diː ɡəˈzɪçtɐ",
+    "audio": "889"
+  },
+  {
+    "meaning": "Hair",
+    "german": "das Haar",
+    "register": "general",
+    "pronunciation": "das haːɐ̯",
+    "audio": "890"
+  },
+  {
+    "meaning": "Hairs",
+    "german": "die Haare",
+    "register": "general",
+    "pronunciation": "diː ˈhaːʁə",
+    "audio": "891"
+  },
+  {
+    "meaning": "Forehead",
+    "german": "die Stirn",
+    "register": "general",
+    "pronunciation": "diː ʃtɪʁn",
+    "audio": "892"
+  },
+  {
+    "meaning": "Foreheads",
+    "german": "die Stirnen",
+    "register": "general",
+    "pronunciation": "diː ˈʃtɪʁnən",
+    "audio": "893"
+  },
+  {
+    "meaning": "Eyebrow",
+    "german": "die Augenbraue",
+    "register": "general",
+    "pronunciation": "diː ˈaʊ̯ɡn̩bʁaʊ̯ə",
+    "audio": "894"
+  },
+  {
+    "meaning": "Eyebrows",
+    "german": "die Augenbrauen",
+    "register": "general",
+    "pronunciation": "diː ˈaʊ̯ɡn̩bʁaʊ̯ən",
+    "audio": "895"
+  },
+  {
+    "meaning": "Eye",
+    "german": "das Auge",
+    "register": "general",
+    "pronunciation": "das ˈaʊ̯ɡə",
+    "audio": "896"
+  },
+  {
+    "meaning": "Eyes",
+    "german": "die Augen",
+    "register": "general",
+    "pronunciation": "diː ˈaʊ̯ɡn̩",
+    "audio": "897"
+  },
+  {
+    "meaning": "Eyelid",
+    "german": "das Augenlid",
+    "register": "general",
+    "pronunciation": "das ˈaʊ̯ɡn̩liːt",
+    "audio": "898"
+  },
+  {
+    "meaning": "Eyelids",
+    "german": "die Augenlider",
+    "register": "general",
+    "pronunciation": "diː ˈaʊ̯ɡn̩liːdɐ",
+    "audio": "899"
+  },
+  {
+    "meaning": "Eyelash",
+    "german": "die Wimper",
+    "register": "general",
+    "pronunciation": "diː ˈvɪmpɐ",
+    "audio": "900"
+  },
+  {
+    "meaning": "Eyelashes",
+    "german": "die Wimpern",
+    "register": "general",
+    "pronunciation": "diː ˈvɪmpɐn",
+    "audio": "901"
+  },
+  {
+    "meaning": "Nose",
+    "german": "die Nase",
+    "register": "general",
+    "pronunciation": "diː ˈnaːzə",
+    "audio": "902"
+  },
+  {
+    "meaning": "Noses",
+    "german": "die Nasen",
+    "register": "general",
+    "pronunciation": "diː ˈnaːzən",
+    "audio": "903"
+  },
+  {
+    "meaning": "cheek",
+    "german": "die Wange",
+    "register": "general",
+    "pronunciation": "diː ˈvaŋə",
+    "audio": "904"
+  },
+  {
+    "meaning": "cheeks",
+    "german": "die Wangen",
+    "register": "general",
+    "pronunciation": "diː ˈvaŋən",
+    "audio": "905"
+  },
+  {
+    "meaning": "Mouth",
+    "german": "der Mund",
+    "register": "general",
+    "pronunciation": "deːɐ̯ mʊnt",
+    "audio": "906"
+  },
+  {
+    "meaning": "Mouths",
+    "german": "die Münder",
+    "register": "general",
+    "pronunciation": "diː ˈmʏndɐ",
+    "audio": "907"
+  },
+  {
+    "meaning": "lip",
+    "german": "die Lippe",
+    "register": "general",
+    "pronunciation": "diː ˈlɪpə",
+    "audio": "908"
+  },
+  {
+    "meaning": "lips",
+    "german": "die Lippen",
+    "register": "general",
+    "pronunciation": "diː ˈlɪpən",
+    "audio": "909"
+  },
+  {
+    "meaning": "tooth",
+    "german": "der Zahn",
+    "register": "general",
+    "pronunciation": "deːɐ̯ tsaːn",
+    "audio": "910"
+  },
+  {
+    "meaning": "teeth",
+    "german": "die Zähne",
+    "register": "general",
+    "pronunciation": "diː ˈtsɛːnə",
+    "audio": "911"
+  },
+  {
+    "meaning": "chin",
+    "german": "das Kinn",
+    "register": "general",
+    "pronunciation": "das kɪn",
+    "audio": "912"
+  },
+  {
+    "meaning": "chins",
+    "german": "die Kinne",
+    "register": "general",
+    "pronunciation": "diː ˈkɪnə",
+    "audio": "913"
+  },
+  {
+    "meaning": "Neck",
+    "german": "der Hals",
+    "register": "general",
+    "pronunciation": "deːɐ̯ hals",
+    "audio": "914"
+  },
+  {
+    "meaning": "Necks",
+    "german": "die Hälse",
+    "register": "general",
+    "pronunciation": "diː ˈhɛlzə",
+    "audio": "915"
+  },
+  {
+    "meaning": "Ear",
+    "german": "das Ohr",
+    "register": "general",
+    "pronunciation": "das oːɐ̯",
+    "audio": "916"
+  },
+  {
+    "meaning": "Ears",
+    "german": "die Ohren",
+    "register": "general",
+    "pronunciation": "diː ˈoːʁən",
+    "audio": "917"
+  },
+  {
+    "meaning": "Moustache",
+    "german": "der Schnurrbart",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃnʊʁbaʁt",
+    "audio": "918"
+  },
+  {
+    "meaning": "moustaches",
+    "german": "die Schnurrbärte",
+    "register": "general",
+    "pronunciation": "diː ˈʃnʊʁbɛʁtə",
+    "audio": "919"
+  },
+  {
+    "meaning": "Beard",
+    "german": "der Bart",
+    "register": "general",
+    "pronunciation": "deːɐ̯ baʁt",
+    "audio": "920"
+  },
+  {
+    "meaning": "Beards",
+    "german": "die Bärte",
+    "register": "general",
+    "pronunciation": "diː ˈbɛʁtə",
+    "audio": "921"
+  },
+  {
+    "meaning": "Body",
+    "german": "der Körper",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkœʁpɐ",
+    "audio": "922"
+  },
+  {
+    "meaning": "Arm",
+    "german": "der Arm",
+    "register": "general",
+    "pronunciation": "deːɐ̯ aʁm",
+    "audio": "923"
+  },
+  {
+    "meaning": "Arms",
+    "german": "die Arme",
+    "register": "general",
+    "pronunciation": "diː ˈaʁmə",
+    "audio": "924"
+  },
+  {
+    "meaning": "Chest",
+    "german": "die Brust",
+    "register": "general",
+    "pronunciation": "diː bʁʊst",
+    "audio": "925"
+  },
+  {
+    "meaning": "Chests",
+    "german": "die Brüste",
+    "register": "general",
+    "pronunciation": "diː ˈbʁʏstə",
+    "audio": "926"
+  },
+  {
+    "meaning": "Waist",
+    "german": "die Taille",
+    "register": "general",
+    "pronunciation": "diː ˈtaljə",
+    "audio": "927"
+  },
+  {
+    "meaning": "Waists",
+    "german": "die Taillen",
+    "register": "general",
+    "pronunciation": "diː ˈtaljən",
+    "audio": "928"
+  },
+  {
+    "meaning": "Leg",
+    "german": "das Bein",
+    "register": "general",
+    "pronunciation": "das baɪ̯n",
+    "audio": "929"
+  },
+  {
+    "meaning": "Legs",
+    "german": "die Beine",
+    "register": "general",
+    "pronunciation": "diː ˈbaɪ̯nə",
+    "audio": "930"
+  },
+  {
+    "meaning": "Hand",
+    "german": "die Hand",
+    "register": "general",
+    "pronunciation": "diː hant",
+    "audio": "931"
+  },
+  {
+    "meaning": "Hands",
+    "german": "die Hände",
+    "register": "general",
+    "pronunciation": "diː ˈhɛndə",
+    "audio": "932"
+  },
+  {
+    "meaning": "Forearm",
+    "german": "der Unterarm",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʊntɐaʁm",
+    "audio": "933"
+  },
+  {
+    "meaning": "Forearms",
+    "german": "die Unterarme",
+    "register": "general",
+    "pronunciation": "diː ˈʊntɐaʁmə",
+    "audio": "934"
+  },
+  {
+    "meaning": "Elbow",
+    "german": "der Ellenbogen",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈɛlənboːɡn̩",
+    "audio": "935"
+  },
+  {
+    "meaning": "Elbows",
+    "german": "die Ellenbogen",
+    "register": "general",
+    "pronunciation": "diː ˈɛlənboːɡn̩",
+    "audio": "936"
+  },
+  {
+    "meaning": "Upperarm",
+    "german": "der Oberarm",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈoːbɐaʁm",
+    "audio": "937"
+  },
+  {
+    "meaning": "Upperarms",
+    "german": "die Oberarme",
+    "register": "general",
+    "pronunciation": "diː ˈoːbɐaʁmə",
+    "audio": "938"
+  },
+  {
+    "meaning": "Finger",
+    "german": "der Finger",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfɪŋɐ",
+    "audio": "939"
+  },
+  {
+    "meaning": "Fingers",
+    "german": "die Finger",
+    "register": "general",
+    "pronunciation": "diː ˈfɪŋɐ",
+    "audio": "940"
+  },
+  {
+    "meaning": "Thumb",
+    "german": "der Daumen",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈdaʊ̯mən",
+    "audio": "941"
+  },
+  {
+    "meaning": "Thumbs",
+    "german": "die Daumen",
+    "register": "general",
+    "pronunciation": "diː ˈdaʊ̯mən",
+    "audio": "942"
+  },
+  {
+    "meaning": "Nail",
+    "german": "der Nagel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈnaːɡl̩",
+    "audio": "943"
+  },
+  {
+    "meaning": "Nails",
+    "german": "die Nägel",
+    "register": "general",
+    "pronunciation": "diː ˈnɛːɡl̩",
+    "audio": "944"
+  },
+  {
+    "meaning": "Wrist",
+    "german": "das Handgelenk",
+    "register": "general",
+    "pronunciation": "das ˈhantɡəlɛŋk",
+    "audio": "945"
+  },
+  {
+    "meaning": "Wrists",
+    "german": "die Handgelenke",
+    "register": "general",
+    "pronunciation": "diː ˈhantɡəlɛŋkə",
+    "audio": "946"
+  },
+  {
+    "meaning": "Shoulder",
+    "german": "die Schulter",
+    "register": "general",
+    "pronunciation": "diː ˈʃʊltɐ",
+    "audio": "947"
+  },
+  {
+    "meaning": "Shoulders",
+    "german": "die Schultern",
+    "register": "general",
+    "pronunciation": "diː ˈʃʊltɐn",
+    "audio": "948"
+  },
+  {
+    "meaning": "Armpit",
+    "german": "die Achsel",
+    "register": "general",
+    "pronunciation": "diː ˈaksəl",
+    "audio": "949"
+  },
+  {
+    "meaning": "Armpits",
+    "german": "die Achseln",
+    "register": "general",
+    "pronunciation": "diː ˈaksəln",
+    "audio": "950"
+  },
+  {
+    "meaning": "Breast",
+    "german": "der Busen",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbuːzn̩",
+    "audio": "951"
+  },
+  {
+    "meaning": "Breasts",
+    "german": "die Busen",
+    "register": "general",
+    "pronunciation": "diː ˈbuːzn̩",
+    "audio": "952"
+  },
+  {
+    "meaning": "Stomach",
+    "german": "der Bauch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ baʊ̯x",
+    "audio": "953"
+  },
+  {
+    "meaning": "Stomachs",
+    "german": "die Bäuche",
+    "register": "general",
+    "pronunciation": "diː ˈbɔʏ̯çə",
+    "audio": "954"
+  },
+  {
+    "meaning": "Thigh",
+    "german": "der Oberschenkel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈoːbɐʃɛŋkl̩",
+    "audio": "955"
+  },
+  {
+    "meaning": "Thighs",
+    "german": "die Oberschenkel",
+    "register": "general",
+    "pronunciation": "diː ˈoːbɐʃɛŋkl̩",
+    "audio": "956"
+  },
+  {
+    "meaning": "Knee",
+    "german": "das Knie",
+    "register": "general",
+    "pronunciation": "das kniː",
+    "audio": "957"
+  },
+  {
+    "meaning": "Knees",
+    "german": "die Knie",
+    "register": "general",
+    "pronunciation": "diː kniː",
+    "audio": "958"
+  },
+  {
+    "meaning": "Lower leg",
+    "german": "der Unterschenkel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʊntɐʃɛŋkl̩",
+    "audio": "959"
+  },
+  {
+    "meaning": "Lower legs",
+    "german": "die Unterschenkel",
+    "register": "general",
+    "pronunciation": "diː ˈʊntɐʃɛŋkl̩",
+    "audio": "960"
+  },
+  {
+    "meaning": "Back",
+    "german": "der Rücken",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʁʏkn̩",
+    "audio": "961"
+  },
+  {
+    "meaning": "Backs",
+    "german": "die Rücken",
+    "register": "general",
+    "pronunciation": "diː ˈʁʏkn̩",
+    "audio": "962"
+  },
+  {
+    "meaning": "Hip",
+    "german": "die Hüfte",
+    "register": "general",
+    "pronunciation": "diː ˈhʏftə",
+    "audio": "963"
+  },
+  {
+    "meaning": "Hips",
+    "german": "die Hüften",
+    "register": "general",
+    "pronunciation": "diː ˈhʏftən",
+    "audio": "964"
+  },
+  {
+    "meaning": "Calf",
+    "german": "die Wade",
+    "register": "general",
+    "pronunciation": "diː ˈvaːdə",
+    "audio": "965"
+  },
+  {
+    "meaning": "Calfs",
+    "german": "die Waden",
+    "register": "general",
+    "pronunciation": "diː ˈvaːdən",
+    "audio": "966"
+  },
+  {
+    "meaning": "Ankle",
+    "german": "das Fußgelenk",
+    "register": "general",
+    "pronunciation": "das ˈfuːsɡəlɛŋk",
+    "audio": "967"
+  },
+  {
+    "meaning": "Ankles",
+    "german": "die Fußgelenke",
+    "register": "general",
+    "pronunciation": "diː ˈfuːsɡəlɛŋkə",
+    "audio": "968"
+  },
+  {
+    "meaning": "Ankle joint",
+    "german": "das Fußgelenk",
+    "register": "general",
+    "pronunciation": "das ˈfuːsɡəlɛŋk",
+    "audio": "969"
+  },
+  {
+    "meaning": "Ankle joints",
+    "german": "die Fußgelenke",
+    "register": "general",
+    "pronunciation": "diː ˈfuːsɡəlɛŋkə",
+    "audio": "970"
+  },
+  {
+    "meaning": "Foot",
+    "german": "der Fuß",
+    "register": "general",
+    "pronunciation": "deːɐ̯ fuːs",
+    "audio": "971"
+  },
+  {
+    "meaning": "Feet",
+    "german": "die Füße",
+    "register": "general",
+    "pronunciation": "diː ˈfyːsə",
+    "audio": "972"
+  },
+  {
+    "meaning": "ankle bone",
+    "german": "der Fußknöchel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfuːsknœçl̩",
+    "audio": "973"
+  },
+  {
+    "meaning": "ankle bones",
+    "german": "die Fußknöchel",
+    "register": "general",
+    "pronunciation": "diː ˈfuːsknœçl̩",
+    "audio": "974"
+  },
+  {
+    "meaning": "Heel",
+    "german": "die Ferse",
+    "register": "general",
+    "pronunciation": "diː ˈfɛʁzə",
+    "audio": "975"
+  },
+  {
+    "meaning": "Heels",
+    "german": "die Fersen",
+    "register": "general",
+    "pronunciation": "diː ˈfɛʁzən",
+    "audio": "976"
+  },
+  {
+    "meaning": "Toe",
+    "german": "der Zeh",
+    "register": "general",
+    "pronunciation": "deːɐ̯ tseː",
+    "audio": "977"
+  },
+  {
+    "meaning": "Toes",
+    "german": "die Zehen",
+    "register": "general",
+    "pronunciation": "diː ˈtseːən",
+    "audio": "978"
+  },
+  {
+    "meaning": "Toes",
+    "german": "die Zehen",
+    "register": "general",
+    "pronunciation": "diː ˈtseːən",
+    "audio": "979"
   }
 ]
-
 
 
 
