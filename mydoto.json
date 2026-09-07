@@ -6133,8 +6133,153 @@
     "register": "general",
     "pronunciation": "ɔʁdiˈnaːltsaːlən",
     "audio": "863"
+  },
+
+  
+  
+  {
+    "meaning": "Color",
+    "german": "die Farbe",
+    "register": "general",
+    "pronunciation": "diː ˈfaʁbə",
+    "audio": "864"
+  },
+  {
+    "meaning": "Colors",
+    "german": "die Farben",
+    "register": "general",
+    "pronunciation": "diː ˈfaʁbən",
+    "audio": "865"
+  },
+  {
+    "meaning": "Red",
+    "german": "rot",
+    "register": "general",
+    "pronunciation": "ʁoːt",
+    "audio": "866"
+  },
+  {
+    "meaning": "Blue",
+    "german": "blau",
+    "register": "general",
+    "pronunciation": "blaʊ̯",
+    "audio": "867"
+  },
+  {
+    "meaning": "Brown",
+    "german": "braun",
+    "register": "general",
+    "pronunciation": "bʁaʊ̯n",
+    "audio": "868"
+  },
+  {
+    "meaning": "Green",
+    "german": "grün",
+    "register": "general",
+    "pronunciation": "ɡʁyːn",
+    "audio": "869"
+  },
+  {
+    "meaning": "Orange",
+    "german": "orange",
+    "register": "general",
+    "pronunciation": "oˈʁaŋʒə",
+    "audio": "870"
+  },
+  {
+    "meaning": "Purple",
+    "german": "lila",
+    "register": "general",
+    "pronunciation": "ˈliːla",
+    "audio": "871"
+  },
+  {
+    "meaning": "Yellow",
+    "german": "gelb",
+    "register": "general",
+    "pronunciation": "ɡɛlp",
+    "audio": "872"
+  },
+  {
+    "meaning": "White",
+    "german": "weiß",
+    "register": "general",
+    "pronunciation": "vaɪ̯s",
+    "audio": "873"
+  },
+  {
+    "meaning": "Pink",
+    "german": "rosa",
+    "register": "general",
+    "pronunciation": "ˈʁoːza",
+    "audio": "874"
+  },
+  {
+    "meaning": "Grey",
+    "german": "grau",
+    "register": "general",
+    "pronunciation": "ɡʁaʊ̯",
+    "audio": "875"
+  },
+  {
+    "meaning": "Light Blue",
+    "german": "hellblau",
+    "register": "general",
+    "pronunciation": "ˈhɛl.blaʊ̯",
+    "audio": "876"
+  },
+  {
+    "meaning": "Magenta",
+    "german": "magenta",
+    "register": "general",
+    "pronunciation": "maˈɡɛnta",
+    "audio": "877"
+  },
+  {
+    "meaning": "Black",
+    "german": "schwarz",
+    "register": "general",
+    "pronunciation": "ʃvaʁts",
+    "audio": "878"
+  },
+  {
+    "meaning": "Describe something",
+    "german": "Etwas beschreiben",
+    "register": "general",
+    "pronunciation": "ˈɛtvas bəˈʃʁaɪ̯bən",
+    "audio": "879"
+  },
+  {
+    "meaning": "The car is red.",
+    "german": "Das Auto ist rot.",
+    "register": "general",
+    "pronunciation": "das ˈaʊ̯toː ɪst ʁoːt",
+    "audio": "880"
+  },
+  {
+    "meaning": "The flower is yellow.",
+    "german": "Die Blume ist gelb.",
+    "register": "general",
+    "pronunciation": "diː ˈbluːmə ɪst ɡɛlp",
+    "audio": "881"
+  },
+  {
+    "meaning": "My favourite colour is green.",
+    "german": "Meine Lieblingsfarbe ist grün.",
+    "register": "general",
+    "pronunciation": "ˈmaɪ̯nə ˈliːplɪŋsˌfaʁbə ɪst ɡʁyːn",
+    "audio": "882"
+  },
+  {
+    "meaning": "Blue suits me.",
+    "german": "Mir steht blau.",
+    "register": "general",
+    "pronunciation": "miːɐ̯ ʃteːt blaʊ̯",
+    "audio": "883"
   }
 ]
+
+
 
 
 
