@@ -7264,6 +7264,858 @@
     "register": "general",
     "pronunciation": "ˈhɔʏ̯tə ɪst das ˈvɛtɐ ʃøːn",
     "audio": "1023"
+  },
+
+
+
+
+  
+  {
+    "meaning": "Profession",
+    "german": "der Beruf",
+    "register": "general",
+    "pronunciation": "deːɐ̯ bəˈʁuːf",
+    "audio": "1024"
+  },
+  {
+    "meaning": "Professions",
+    "german": "die Berufe",
+    "register": "general",
+    "pronunciation": "diː bəˈʁuːfə",
+    "audio": "1025"
+  },
+  {
+    "meaning": "Occupation",
+    "german": "die Tätigkeit",
+    "register": "general",
+    "pronunciation": "diː ˈtɛːtɪçkaɪ̯t",
+    "audio": "1026"
+  },
+  {
+    "meaning": "Occupations",
+    "german": "die Tätigkeiten",
+    "register": "general",
+    "pronunciation": "diː ˈtɛːtɪçkaɪ̯tən",
+    "audio": "1027"
+  },
+  {
+    "meaning": "Teacher",
+    "german": "der Lehrer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈleːʁɐ",
+    "audio": "1028"
+  },
+  {
+    "meaning": "Teachers",
+    "german": "die Lehrer",
+    "register": "general",
+    "pronunciation": "diː ˈleːʁɐ",
+    "audio": "1029"
+  },
+  {
+    "meaning": "Teacher",
+    "german": "die Lehrerin",
+    "register": "general",
+    "pronunciation": "diː ˈleːʁəʁɪn",
+    "audio": "1030"
+  },
+  {
+    "meaning": "Teachers",
+    "german": "die Lehrerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈleːʁəʁɪnən",
+    "audio": "1031"
+  },
+  {
+    "meaning": "Doctor",
+    "german": "der Arzt",
+    "register": "general",
+    "pronunciation": "deːɐ̯ aːɐ̯tst",
+    "audio": "1032"
+  },
+  {
+    "meaning": "Doctors",
+    "german": "die Ärzte",
+    "register": "general",
+    "pronunciation": "diː ˈɛːɐ̯tstə",
+    "audio": "1033"
+  },
+  {
+    "meaning": "Doctor",
+    "german": "die Ärztin",
+    "register": "general",
+    "pronunciation": "diː ˈɛːɐ̯tstɪn",
+    "audio": "1034"
+  },
+  {
+    "meaning": "Doctors",
+    "german": "die Ärztinnen",
+    "register": "general",
+    "pronunciation": "diː ˈɛːɐ̯tstɪnən",
+    "audio": "1035"
+  },
+  {
+    "meaning": "Pilot",
+    "german": "der Pilot",
+    "register": "general",
+    "pronunciation": "deːɐ̯ piˈloːt",
+    "audio": "1036"
+  },
+  {
+    "meaning": "Pilots",
+    "german": "die Piloten",
+    "register": "general",
+    "pronunciation": "diː piˈloːtən",
+    "audio": "1037"
+  },
+  {
+    "meaning": "Pilot",
+    "german": "die Pilotin",
+    "register": "general",
+    "pronunciation": "diː piloˈtiːn",
+    "audio": "1038"
+  },
+  {
+    "meaning": "Pilots",
+    "german": "die Pilotinnen",
+    "register": "general",
+    "pronunciation": "diː piloˈtiːnən",
+    "audio": "1039"
+  },
+  {
+    "meaning": "Architect",
+    "german": "der Architekt",
+    "register": "general",
+    "pronunciation": "deːɐ̯ aʁçiˈtɛkt",
+    "audio": "1040"
+  },
+  {
+    "meaning": "Architects",
+    "german": "die Architekten",
+    "register": "general",
+    "pronunciation": "diː aʁçiˈtɛktən",
+    "audio": "1041"
+  },
+  {
+    "meaning": "Architect",
+    "german": "die Architektin",
+    "register": "general",
+    "pronunciation": "diː aʁçiˈtɛktɪn",
+    "audio": "1042"
+  },
+  {
+    "meaning": "Architects",
+    "german": "die Architektinnen",
+    "register": "general",
+    "pronunciation": "diː aʁçiˈtɛktɪnən",
+    "audio": "1043"
+  },
+  {
+    "meaning": "Programmer",
+    "german": "der Programmierer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ pʁoɡʁaˈmiːʁɐ",
+    "audio": "1044"
+  },
+  {
+    "meaning": "Programmers",
+    "german": "die Programmierer",
+    "register": "general",
+    "pronunciation": "diː pʁoɡʁaˈmiːʁɐ",
+    "audio": "1045"
+  },
+  {
+    "meaning": "Programmer",
+    "german": "die Programmiererin",
+    "register": "general",
+    "pronunciation": "diː pʁoɡʁaˈmiːʁəʁɪn",
+    "audio": "1046"
+  },
+  {
+    "meaning": "Programmers",
+    "german": "die Programmiererinnen",
+    "register": "general",
+    "pronunciation": "diː pʁoɡʁaˈmiːʁəʁɪnən",
+    "audio": "1047"
+  },
+  {
+    "meaning": "Student",
+    "german": "der Student",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃtuˈdɛnt",
+    "audio": "1048"
+  },
+  {
+    "meaning": "Students",
+    "german": "die Studenten",
+    "register": "general",
+    "pronunciation": "diː ʃtuˈdɛntən",
+    "audio": "1049"
+  },
+  {
+    "meaning": "Student",
+    "german": "die Studentin",
+    "register": "general",
+    "pronunciation": "diː ʃtuˈdɛntɪn",
+    "audio": "1050"
+  },
+  {
+    "meaning": "Students",
+    "german": "die Studentinnen",
+    "register": "general",
+    "pronunciation": "diː ʃtuˈdɛntɪnən",
+    "audio": "1051"
+  },
+  {
+    "meaning": "Photographer",
+    "german": "der Fotograf",
+    "register": "general",
+    "pronunciation": "deːɐ̯ fotoˈɡʁaːf",
+    "audio": "1052"
+  },
+  {
+    "meaning": "Photographers",
+    "german": "die Fotografen",
+    "register": "general",
+    "pronunciation": "diː fotoˈɡʁaːfən",
+    "audio": "1053"
+  },
+  {
+    "meaning": "Photographer",
+    "german": "die Fotografin",
+    "register": "general",
+    "pronunciation": "diː fotoˈɡʁaːfɪn",
+    "audio": "1054"
+  },
+  {
+    "meaning": "Photographers",
+    "german": "die Fotografinnen",
+    "register": "general",
+    "pronunciation": "diː fotoˈɡʁaːfɪnən",
+    "audio": "1055"
+  },
+  {
+    "meaning": "Police officer",
+    "german": "der Polizist",
+    "register": "general",
+    "pronunciation": "deːɐ̯ poliˈtsɪst",
+    "audio": "1056"
+  },
+  {
+    "meaning": "Police officers",
+    "german": "die Polizisten",
+    "register": "general",
+    "pronunciation": "diː poliˈtsɪstən",
+    "audio": "1057"
+  },
+  {
+    "meaning": "Police officer",
+    "german": "die Polizistin",
+    "register": "general",
+    "pronunciation": "diː poliˈtsɪstɪn",
+    "audio": "1058"
+  },
+  {
+    "meaning": "Police officers",
+    "german": "die Polizistinnen",
+    "register": "general",
+    "pronunciation": "diː poliˈtsɪstɪnən",
+    "audio": "1059"
+  },
+  {
+    "meaning": "Journalist",
+    "german": "der Journalist",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʒʊʁnaˈlɪst",
+    "audio": "1060"
+  },
+  {
+    "meaning": "Journalists",
+    "german": "die Journalisten",
+    "register": "general",
+    "pronunciation": "diː ʒʊʁnaˈlɪstən",
+    "audio": "1061"
+  },
+  {
+    "meaning": "Journalist",
+    "german": "die Journalistin",
+    "register": "general",
+    "pronunciation": "diː ʒʊʁnaˈlɪstɪn",
+    "audio": "1062"
+  },
+  {
+    "meaning": "Journalists",
+    "german": "die Journalistinnen",
+    "register": "general",
+    "pronunciation": "diː ʒʊʁnaˈlɪstɪnən",
+    "audio": "1063"
+  },
+  {
+    "meaning": "Singer",
+    "german": "der Sänger",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈzɛŋɐ",
+    "audio": "1064"
+  },
+  {
+    "meaning": "Singers",
+    "german": "die Sänger",
+    "register": "general",
+    "pronunciation": "diː ˈzɛŋɐ",
+    "audio": "1065"
+  },
+  {
+    "meaning": "Singer",
+    "german": "die Sängerin",
+    "register": "general",
+    "pronunciation": "diː ˈzɛŋəʁɪn",
+    "audio": "1066"
+  },
+  {
+    "meaning": "Singers",
+    "german": "die Sängerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈzɛŋəʁɪnən",
+    "audio": "1067"
+  },
+  {
+    "meaning": "Dancer",
+    "german": "der Tänzer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈtɛnt͡sɐ",
+    "audio": "1068"
+  },
+  {
+    "meaning": "Dancers",
+    "german": "die Tänzer",
+    "register": "general",
+    "pronunciation": "diː ˈtɛnt͡sɐ",
+    "audio": "1069"
+  },
+  {
+    "meaning": "Dancer",
+    "german": "die Tänzerin",
+    "register": "general",
+    "pronunciation": "diː ˈtɛnt͡səʁɪn",
+    "audio": "1070"
+  },
+  {
+    "meaning": "Dancers",
+    "german": "die Tänzerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈtɛnt͡səʁɪnən",
+    "audio": "1071"
+  },
+  {
+    "meaning": "Manager",
+    "german": "der Manager",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈmɛnɪd͡ʒɐ",
+    "audio": "1072"
+  },
+  {
+    "meaning": "Managers",
+    "german": "die Manager",
+    "register": "general",
+    "pronunciation": "diː ˈmɛnɪd͡ʒɐ",
+    "audio": "1073"
+  },
+  {
+    "meaning": "Manager",
+    "german": "die Managerin",
+    "register": "general",
+    "pronunciation": "diː ˈmɛnɪd͡ʒəʁɪn",
+    "audio": "1074"
+  },
+  {
+    "meaning": "Managers",
+    "german": "die Managerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈmɛnɪd͡ʒəʁɪnən",
+    "audio": "1075"
+  },
+  {
+    "meaning": "Accountant",
+    "german": "der Buchhalter",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbuːxhaltɐ",
+    "audio": "1076"
+  },
+  {
+    "meaning": "Accountants",
+    "german": "die Buchhalter",
+    "register": "general",
+    "pronunciation": "diː ˈbuːxhaltɐ",
+    "audio": "1077"
+  },
+  {
+    "meaning": "Accountant",
+    "german": "die Buchhalterin",
+    "register": "general",
+    "pronunciation": "diː ˈbuːxhaltəʁɪn",
+    "audio": "1078"
+  },
+  {
+    "meaning": "Accountants",
+    "german": "die Buchhalterinnen",
+    "register": "general",
+    "pronunciation": "diː ˈbuːxhaltəʁɪnən",
+    "audio": "1079"
+  },
+  {
+    "meaning": "Painter",
+    "german": "der Kunstmaler",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkʊnstmaːlɐ",
+    "audio": "1080"
+  },
+  {
+    "meaning": "Painters",
+    "german": "die Kunstmaler",
+    "register": "general",
+    "pronunciation": "diː ˈkʊnstmaːlɐ",
+    "audio": "1081"
+  },
+  {
+    "meaning": "Painter",
+    "german": "die Kunstmalerin",
+    "register": "general",
+    "pronunciation": "diː ˈkʊnstmaːləʁɪn",
+    "audio": "1082"
+  },
+  {
+    "meaning": "Painters",
+    "german": "die Kunstmalerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈkʊnstmaːləʁɪnən",
+    "audio": "1083"
+  },
+  {
+    "meaning": "Interpreter",
+    "german": "der Dolmetscher",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈdɔlmɛtʃɐ",
+    "audio": "1084"
+  },
+  {
+    "meaning": "Interpreters",
+    "german": "die Dolmetscher",
+    "register": "general",
+    "pronunciation": "diː ˈdɔlmɛtʃɐ",
+    "audio": "1085"
+  },
+  {
+    "meaning": "Interpreter",
+    "german": "die Dolmetscherin",
+    "register": "general",
+    "pronunciation": "diː ˈdɔlmɛtʃəʁɪn",
+    "audio": "1086"
+  },
+  {
+    "meaning": "Interpreters",
+    "german": "die Dolmetscherinnen",
+    "register": "general",
+    "pronunciation": "diː ˈdɔlmɛtʃəʁɪnən",
+    "audio": "1087"
+  },
+  {
+    "meaning": "Cook",
+    "german": "der Koch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ kɔx",
+    "audio": "1088"
+  },
+  {
+    "meaning": "Cooks",
+    "german": "die Köche",
+    "register": "general",
+    "pronunciation": "diː ˈkœçə",
+    "audio": "1089"
+  },
+  {
+    "meaning": "Chef",
+    "german": "der Koch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ kɔx",
+    "audio": "1090"
+  },
+  {
+    "meaning": "Chefs",
+    "german": "die Köche",
+    "register": "general",
+    "pronunciation": "diː ˈkœçə",
+    "audio": "1091"
+  },
+  {
+    "meaning": "Chef",
+    "german": "die Köchin",
+    "register": "general",
+    "pronunciation": "diː ˈkœçɪn",
+    "audio": "1092"
+  },
+  {
+    "meaning": "Chefs",
+    "german": "die Köchinnen",
+    "register": "general",
+    "pronunciation": "diː ˈkœçɪnən",
+    "audio": "1093"
+  },
+  {
+    "meaning": "Nurse",
+    "german": "der Krankenpfleger",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkʁaŋkn̩ˌpfleːɡɐ",
+    "audio": "1094"
+  },
+  {
+    "meaning": "Nurses",
+    "german": "die Krankenpfleger",
+    "register": "general",
+    "pronunciation": "diː ˈkʁaŋkn̩ˌpfleːɡɐ",
+    "audio": "1095"
+  },
+  {
+    "meaning": "Nurse",
+    "german": "die Krankenschwester",
+    "register": "general",
+    "pronunciation": "diː ˈkʁaŋkn̩ˌʃvɛstɐ",
+    "audio": "1096"
+  },
+  {
+    "meaning": "Nurses",
+    "german": "die Krankenschwestern",
+    "register": "general",
+    "pronunciation": "diː ˈkʁaŋkn̩ˌʃvɛstɐn",
+    "audio": "1097"
+  },
+  {
+    "meaning": "Scientist",
+    "german": "der Wissenschaftler",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈvɪsn̩ʃaftlɐ",
+    "audio": "1098"
+  },
+  {
+    "meaning": "Scientists",
+    "german": "die Wissenschaftler",
+    "register": "general",
+    "pronunciation": "diː ˈvɪsn̩ʃaftlɐ",
+    "audio": "1099"
+  },
+  {
+    "meaning": "Scientist",
+    "german": "die Wissenschaftlerin",
+    "register": "general",
+    "pronunciation": "diː ˈvɪsn̩ʃaftləʁɪn",
+    "audio": "1100"
+  },
+  {
+    "meaning": "Scientists",
+    "german": "die Wissenschaftlerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈvɪsn̩ʃaftləʁɪnən",
+    "audio": "1101"
+  },
+  {
+    "meaning": "Electrician",
+    "german": "der Elektriker",
+    "register": "general",
+    "pronunciation": "deːɐ̯ eˈlɛktʁɪkɐ",
+    "audio": "1102"
+  },
+  {
+    "meaning": "Electricians",
+    "german": "die Elektriker",
+    "register": "general",
+    "pronunciation": "diː eˈlɛktʁɪkɐ",
+    "audio": "1103"
+  },
+  {
+    "meaning": "Electrician",
+    "german": "die Elektrikerin",
+    "register": "general",
+    "pronunciation": "diː eˈlɛktʁɪkəʁɪn",
+    "audio": "1104"
+  },
+  {
+    "meaning": "Electricians",
+    "german": "die Elektrikerinnen",
+    "register": "general",
+    "pronunciation": "diː eˈlɛktʁɪkəʁɪnən",
+    "audio": "1105"
+  },
+  {
+    "meaning": "Musician",
+    "german": "der Musiker",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈmuːzɪkɐ",
+    "audio": "1106"
+  },
+  {
+    "meaning": "Musicians",
+    "german": "die Musiker",
+    "register": "general",
+    "pronunciation": "diː ˈmuːzɪkɐ",
+    "audio": "1107"
+  },
+  {
+    "meaning": "Musician",
+    "german": "die Musikerin",
+    "register": "general",
+    "pronunciation": "diː ˈmuːzɪkəʁɪn",
+    "audio": "1108"
+  },
+  {
+    "meaning": "Musicians",
+    "german": "die Musikerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈmuːzɪkəʁɪnən",
+    "audio": "1109"
+  },
+  {
+    "meaning": "Hairdresser",
+    "german": "der Friseur",
+    "register": "general",
+    "pronunciation": "deːɐ̯ fʁiˈzøːɐ̯",
+    "audio": "1110"
+  },
+  {
+    "meaning": "Hairdressers",
+    "german": "die Friseure",
+    "register": "general",
+    "pronunciation": "diː fʁiˈzøːʁə",
+    "audio": "1111"
+  },
+  {
+    "meaning": "Hairdresser",
+    "german": "die Friseurin",
+    "register": "general",
+    "pronunciation": "diː fʁiˈzøːʁɪn",
+    "audio": "1112"
+  },
+  {
+    "meaning": "Hairdressers",
+    "german": "die Friseurinnen",
+    "register": "general",
+    "pronunciation": "diː fʁiˈzøːʁɪnən",
+    "audio": "1113"
+  },
+  {
+    "meaning": "Construction worker",
+    "german": "der Bauarbeiter",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbaʊ̯ˌaʁbaɪ̯tɐ",
+    "audio": "1114"
+  },
+  {
+    "meaning": "Construction workers",
+    "german": "die Bauarbeiter",
+    "register": "general",
+    "pronunciation": "diː ˈbaʊ̯ˌaʁbaɪ̯tɐ",
+    "audio": "1115"
+  },
+  {
+    "meaning": "Construction worker",
+    "german": "die Bauarbeiterin",
+    "register": "general",
+    "pronunciation": "diː ˈbaʊ̯ˌaʁbaɪ̯təʁɪn",
+    "audio": "1116"
+  },
+  {
+    "meaning": "Construction workers",
+    "german": "die Bauarbeiterinnen",
+    "register": "general",
+    "pronunciation": "diː ˈbaʊ̯ˌaʁbaɪ̯təʁɪnən",
+    "audio": "1117"
+  },
+  {
+    "meaning": "Baker",
+    "german": "der Bäcker",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbɛkɐ",
+    "audio": "1118"
+  },
+  {
+    "meaning": "Bakers",
+    "german": "die Bäcker",
+    "register": "general",
+    "pronunciation": "diː ˈbɛkɐ",
+    "audio": "1119"
+  },
+  {
+    "meaning": "Baker",
+    "german": "die Bäckerin",
+    "register": "general",
+    "pronunciation": "diː ˈbɛkəʁɪn",
+    "audio": "1120"
+  },
+  {
+    "meaning": "Bakers",
+    "german": "die Bäckerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈbɛkəʁɪnən",
+    "audio": "1121"
+  },
+  {
+    "meaning": "Salesperson",
+    "german": "der Verkäufer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ fɛɐ̯ˈkɔʏ̯fɐ",
+    "audio": "1122"
+  },
+  {
+    "meaning": "Salespersons",
+    "german": "die Verkäufer",
+    "register": "general",
+    "pronunciation": "diː fɛɐ̯ˈkɔʏ̯fɐ",
+    "audio": "1123"
+  },
+  {
+    "meaning": "Salesperson",
+    "german": "die Verkäuferin",
+    "register": "general",
+    "pronunciation": "diː fɛɐ̯ˈkɔʏ̯fəʁɪn",
+    "audio": "1124"
+  },
+  {
+    "meaning": "Salespersons",
+    "german": "die Verkäuferinnen",
+    "register": "general",
+    "pronunciation": "diː fɛɐ̯ˈkɔʏ̯fəʁɪnən",
+    "audio": "1125"
+  },
+  {
+    "meaning": "Engineer",
+    "german": "der Ingenieur",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ɪnʒeˈni̯øːɐ̯",
+    "audio": "1126"
+  },
+  {
+    "meaning": "Engineers",
+    "german": "die Ingenieure",
+    "register": "general",
+    "pronunciation": "diː ɪnʒeˈni̯øːʁə",
+    "audio": "1127"
+  },
+  {
+    "meaning": "Engineer",
+    "german": "die Ingenieurin",
+    "register": "general",
+    "pronunciation": "diː ɪnʒeˈni̯øːʁɪn",
+    "audio": "1128"
+  },
+  {
+    "meaning": "Engineers",
+    "german": "die Ingenieurinnen",
+    "register": "general",
+    "pronunciation": "diː ɪnʒeˈni̯øːʁɪnən",
+    "audio": "1129"
+  },
+  {
+    "meaning": "Actor",
+    "german": "der Schauspieler",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃaʊ̯ʃpiːlɐ",
+    "audio": "1130"
+  },
+  {
+    "meaning": "Actors",
+    "german": "die Schauspieler",
+    "register": "general",
+    "pronunciation": "diː ˈʃaʊ̯ʃpiːlɐ",
+    "audio": "1131"
+  },
+  {
+    "meaning": "Actor",
+    "german": "die Schauspielerin",
+    "register": "general",
+    "pronunciation": "diː ˈʃaʊ̯ʃpiːləʁɪn",
+    "audio": "1132"
+  },
+  {
+    "meaning": "Actors",
+    "german": "die Schauspielerinnen",
+    "register": "general",
+    "pronunciation": "diː ˈʃaʊ̯ʃpiːləʁɪnən",
+    "audio": "1133"
+  },
+  {
+    "meaning": "Firefighter",
+    "german": "der Feuerwehrmann",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈfeːɐ̯veːɐ̯ˌman",
+    "audio": "1134"
+  },
+  {
+    "meaning": "Firefighters",
+    "german": "die Feuerwehrmänner",
+    "register": "general",
+    "pronunciation": "diː ˈfeːɐ̯veːɐ̯ˌmɛnɐ",
+    "audio": "1135"
+  },
+  {
+    "meaning": "Firefighter",
+    "german": "die Feuerwehrfrau",
+    "register": "general",
+    "pronunciation": "diː ˈfeːɐ̯veːɐ̯ˌfʁaʊ̯",
+    "audio": "1136"
+  },
+  {
+    "meaning": "Firefighters",
+    "german": "die Feuerwehrfrauen",
+    "register": "general",
+    "pronunciation": "diː ˈfeːɐ̯veːɐ̯ˌfʁaʊ̯ən",
+    "audio": "1137"
+  },
+  {
+    "meaning": "Mechanic",
+    "german": "der Mechaniker",
+    "register": "general",
+    "pronunciation": "deːɐ̯ meˈçaːnɪkɐ",
+    "audio": "1138"
+  },
+  {
+    "meaning": "Mechanics",
+    "german": "die Mechaniker",
+    "register": "general",
+    "pronunciation": "diː meˈçaːnɪkɐ",
+    "audio": "1139"
+  },
+  {
+    "meaning": "Mechanic",
+    "german": "die Mechanikerin",
+    "register": "general",
+    "pronunciation": "diː meˈçaːnɪkəʁɪn",
+    "audio": "1140"
+  },
+  {
+    "meaning": "Mechanics",
+    "german": "die Mechanikerinnen",
+    "register": "general",
+    "pronunciation": "diː meˈçaːnɪkəʁɪnən",
+    "audio": "1141"
+  },
+  {
+    "meaning": "What is your profession?",
+    "german": "Was sind Sie von Beruf?",
+    "register": "formal",
+    "pronunciation": "vas zɪnt ziː fɔn bəˈʁuːf",
+    "audio": "1142"
+  },
+  {
+    "meaning": "What do you do for a living?",
+    "german": "Was machen Sie beruflich?",
+    "register": "formal",
+    "pronunciation": "vas ˈmaxən ziː bəˈʁuːflɪç",
+    "audio": "1143"
+  },
+  {
+    "meaning": "I am a teacher by profession.",
+    "german": "Ich bin Lehrerin von Beruf.",
+    "register": "general",
+    "pronunciation": "ɪç bɪn ˈleːʁəʁɪn fɔn bəˈʁuːf",
+    "audio": "1144"
   }
 ]
 
