@@ -6951,6 +6951,319 @@
     "register": "general",
     "pronunciation": "diː ˈtseːən",
     "audio": "979"
+  },
+
+
+
+
+  
+  {
+    "meaning": "Weather",
+    "german": "das Wetter",
+    "register": "general",
+    "pronunciation": "das ˈvɛtɐ",
+    "audio": "980"
+  },
+  {
+    "meaning": "Sun",
+    "german": "die Sonne",
+    "register": "general",
+    "pronunciation": "diː ˈzɔnə",
+    "audio": "981"
+  },
+  {
+    "meaning": "Rain",
+    "german": "der Regen",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʁeːɡn̩",
+    "audio": "982"
+  },
+  {
+    "meaning": "Hail",
+    "german": "der Hagel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈhaːɡl̩",
+    "audio": "983"
+  },
+  {
+    "meaning": "Cloud",
+    "german": "die Wolke",
+    "register": "general",
+    "pronunciation": "diː ˈvɔlkə",
+    "audio": "984"
+  },
+  {
+    "meaning": "Clouds",
+    "german": "die Wolken",
+    "register": "general",
+    "pronunciation": "diː ˈvɔlkən",
+    "audio": "985"
+  },
+  {
+    "meaning": "Wind",
+    "german": "der Wind",
+    "register": "general",
+    "pronunciation": "deːɐ̯ vɪnt",
+    "audio": "986"
+  },
+  {
+    "meaning": "Severe weather",
+    "german": "das Unwetter",
+    "register": "general",
+    "pronunciation": "das ˈʊnˌvɛtɐ",
+    "audio": "987"
+  },
+  {
+    "meaning": "Storm",
+    "german": "der Sturm",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃtʊʁm",
+    "audio": "988"
+  },
+  {
+    "meaning": "Storms",
+    "german": "die Stürme",
+    "register": "general",
+    "pronunciation": "diː ˈʃtʏʁmə",
+    "audio": "989"
+  },
+  {
+    "meaning": "Thunder",
+    "german": "der Donner",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈdɔnɐ",
+    "audio": "990"
+  },
+  {
+    "meaning": "Lightning",
+    "german": "der Blitz",
+    "register": "general",
+    "pronunciation": "deːɐ̯ blɪts",
+    "audio": "991"
+  },
+  {
+    "meaning": "Fog",
+    "german": "der Nebel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈneːbl̩",
+    "audio": "992"
+  },
+  {
+    "meaning": "Snow",
+    "german": "der Schnee",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃneː",
+    "audio": "993"
+  },
+  {
+    "meaning": "Ice",
+    "german": "das Eis",
+    "register": "general",
+    "pronunciation": "das aɪ̯s",
+    "audio": "994"
+  },
+  {
+    "meaning": "Frost",
+    "german": "der Frost",
+    "register": "general",
+    "pronunciation": "deːɐ̯ fʁɔst",
+    "audio": "995"
+  },
+  {
+    "meaning": "Warmth",
+    "german": "die Wärme",
+    "register": "general",
+    "pronunciation": "diː ˈvɛʁmə",
+    "audio": "996"
+  },
+  {
+    "meaning": "Heat",
+    "german": "die Hitze",
+    "register": "general",
+    "pronunciation": "diː ˈhɪtsə",
+    "audio": "997"
+  },
+  {
+    "meaning": "Cold",
+    "german": "die Kälte",
+    "register": "general",
+    "pronunciation": "diː ˈkɛltə",
+    "audio": "998"
+  },
+  {
+    "meaning": "The sun is shining",
+    "german": "Die Sonne scheint.",
+    "register": "general",
+    "pronunciation": "diː ˈzɔnə ʃaɪ̯nt",
+    "audio": "999"
+  },
+  {
+    "meaning": "It is sunny.",
+    "german": "Es ist sonnig.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst ˈzɔnɪç",
+    "audio": "1000"
+  },
+  {
+    "meaning": "It is warm.",
+    "german": "Es ist warm.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst vaʁm",
+    "audio": "1001"
+  },
+  {
+    "meaning": "It is hot.",
+    "german": "Es ist heiß.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst haɪ̯s",
+    "audio": "1002"
+  },
+  {
+    "meaning": "The wind is blowing",
+    "german": "Der Wind weht.",
+    "register": "general",
+    "pronunciation": "deːɐ̯ vɪnt veːt",
+    "audio": "1003"
+  },
+  {
+    "meaning": "It is windy.",
+    "german": "Es ist windig.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst ˈvɪndɪç",
+    "audio": "1004"
+  },
+  {
+    "meaning": "It is overcast.",
+    "german": "Es ist bedeckt.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst bəˈdɛkt",
+    "audio": "1005"
+  },
+  {
+    "meaning": "It is overcast.",
+    "german": "Es ist bewölkt.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst bəˈvœlkt",
+    "audio": "1006"
+  },
+  {
+    "meaning": "It is cloudy.",
+    "german": "Es ist wolkig.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst ˈvɔlkɪç",
+    "audio": "1007"
+  },
+  {
+    "meaning": "There is lightning.",
+    "german": "Es blitzt.",
+    "register": "general",
+    "pronunciation": "ɛs blɪtst",
+    "audio": "1008"
+  },
+  {
+    "meaning": "There is thunder.",
+    "german": "Es donnert.",
+    "register": "general",
+    "pronunciation": "ɛs ˈdɔnɐt",
+    "audio": "1009"
+  },
+  {
+    "meaning": "There is a thunderstorm.",
+    "german": "Es gibt ein Gewitter.",
+    "register": "general",
+    "pronunciation": "ɛs ɡiːpt aɪ̯n ɡəˈvɪtɐ",
+    "audio": "1010"
+  },
+  {
+    "meaning": "It is stormy.",
+    "german": "Es ist stürmisch.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst ˈʃtʏʁmɪʃ",
+    "audio": "1011"
+  },
+  {
+    "meaning": "It is raining.",
+    "german": "Es regnet.",
+    "register": "general",
+    "pronunciation": "ɛs ˈʁeːɡnət",
+    "audio": "1012"
+  },
+  {
+    "meaning": "It is rainy.",
+    "german": "Es ist regnerisch.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst ˈʁeːɡnəʁɪʃ",
+    "audio": "1013"
+  },
+  {
+    "meaning": "It is hailing.",
+    "german": "Es hagelt.",
+    "register": "general",
+    "pronunciation": "ɛs ˈhaːɡəlt",
+    "audio": "1014"
+  },
+  {
+    "meaning": "It is foggy.",
+    "german": "Es ist neblig.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst ˈneːblɪç",
+    "audio": "1015"
+  },
+  {
+    "meaning": "It is cold.",
+    "german": "Es ist kalt.",
+    "register": "general",
+    "pronunciation": "ɛs ɪst kalt",
+    "audio": "1016"
+  },
+  {
+    "meaning": "It is snowing.",
+    "german": "Es schneit.",
+    "register": "general",
+    "pronunciation": "ɛs ʃnaɪ̯t",
+    "audio": "1017"
+  },
+  {
+    "meaning": "The weather is changeable.",
+    "german": "Das Wetter ist wechselhaft.",
+    "register": "general",
+    "pronunciation": "das ˈvɛtɐ ɪst ˈvɛksəlhaft",
+    "audio": "1018"
+  },
+  {
+    "meaning": "The weather is changeable.",
+    "german": "Das Wetter ist unbeständig.",
+    "register": "general",
+    "pronunciation": "das ˈvɛtɐ ɪst ʊn bəˈʃtɛndɪç",
+    "audio": "1019"
+  },
+  {
+    "meaning": "The sky is clear.",
+    "german": "Der Himmel ist klar.",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈhɪml̩ ɪst klaːɐ̯",
+    "audio": "1020"
+  },
+  {
+    "meaning": "How is the weather today?",
+    "german": "Wie ist das Wetter heute?",
+    "register": "general",
+    "pronunciation": "viː ɪst das ˈvɛtɐ ˈhɔʏ̯tə",
+    "audio": "1021"
+  },
+  {
+    "meaning": "Today the weather is nice.",
+    "german": "Heute ist schönes Wetter.",
+    "register": "general",
+    "pronunciation": "ˈhɔʏ̯tə ɪst ˈʃøːnəs ˈvɛtɐ",
+    "audio": "1022"
+  },
+  {
+    "meaning": "The weather is nice today.",
+    "german": "Heute ist das Wetter schön.",
+    "register": "general",
+    "pronunciation": "ˈhɔʏ̯tə ɪst das ˈvɛtɐ ʃøːn",
+    "audio": "1023"
   }
 ]
 
