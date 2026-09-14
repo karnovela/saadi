@@ -8116,7 +8116,571 @@
     "register": "general",
     "pronunciation": "ɪç bɪn ˈleːʁəʁɪn fɔn bəˈʁuːf",
     "audio": "1144"
+  },
+
+
+
+
+  
+  
+  {
+    "meaning": "Country",
+    "german": "das Land",
+    "register": "general",
+    "pronunciation": "das lant",
+    "audio": "1145"
+  },
+  {
+    "meaning": "Countries",
+    "german": "die Länder",
+    "register": "general",
+    "pronunciation": "diː ˈlɛndɐ",
+    "audio": "1146"
+  },
+  {
+    "meaning": "Language",
+    "german": "die Sprache",
+    "register": "general",
+    "pronunciation": "diː ˈʃpʁaːxə",
+    "audio": "1147"
+  },
+  {
+    "meaning": "Languages",
+    "german": "die Sprachen",
+    "register": "general",
+    "pronunciation": "diː ˈʃpʁaːxən",
+    "audio": "1148"
+  },
+  {
+    "meaning": "Germany",
+    "german": "Deutschland",
+    "register": "general",
+    "pronunciation": "ˈdɔʏ̯tʃlant",
+    "audio": "1149"
+  },
+  {
+    "meaning": "German",
+    "german": "Deutsch",
+    "register": "general",
+    "pronunciation": "dɔʏ̯tʃ",
+    "audio": "1150"
+  },
+  {
+    "meaning": "Spain",
+    "german": "Spanien",
+    "register": "general",
+    "pronunciation": "ˈʃpaːni̯ən",
+    "audio": "1151"
+  },
+  {
+    "meaning": "Spanish",
+    "german": "Spanisch",
+    "register": "general",
+    "pronunciation": "ˈʃpaːnɪʃ",
+    "audio": "1152"
+  },
+  {
+    "meaning": "France",
+    "german": "Frankreich",
+    "register": "general",
+    "pronunciation": "ˈfʁaŋkʁaɪ̯ç",
+    "audio": "1153"
+  },
+  {
+    "meaning": "French",
+    "german": "Französisch",
+    "register": "general",
+    "pronunciation": "fʁanˈtsøːzɪʃ",
+    "audio": "1154"
+  },
+  {
+    "meaning": "Austria",
+    "german": "Österreich",
+    "register": "general",
+    "pronunciation": "ˈøːstɐʁaɪ̯ç",
+    "audio": "1155"
+  },
+  {
+    "meaning": "German",
+    "german": "Deutsch",
+    "register": "general",
+    "pronunciation": "dɔʏ̯tʃ",
+    "audio": "1156"
+  },
+  {
+    "meaning": "Poland",
+    "german": "Polen",
+    "register": "general",
+    "pronunciation": "ˈpoːlən",
+    "audio": "1157"
+  },
+  {
+    "meaning": "Polish",
+    "german": "Polnisch",
+    "register": "general",
+    "pronunciation": "ˈpoːlnɪʃ",
+    "audio": "1158"
+  },
+  {
+    "meaning": "The USA",
+    "german": "die USA",
+    "register": "general",
+    "pronunciation": "diː uː ɛs ˈaː",
+    "audio": "1159"
+  },
+  {
+    "meaning": "English",
+    "german": "Englisch",
+    "register": "general",
+    "pronunciation": "ˈɛŋlɪʃ",
+    "audio": "1160"
+  },
+  {
+    "meaning": "Czechia",
+    "german": "Tschechien",
+    "register": "general",
+    "pronunciation": "ˈtʃɛçi̯ən",
+    "audio": "1161"
+  },
+  {
+    "meaning": "Czech",
+    "german": "Tschechisch",
+    "register": "general",
+    "pronunciation": "ˈtʃɛçɪʃ",
+    "audio": "1162"
+  },
+  {
+    "meaning": "England",
+    "german": "England",
+    "register": "general",
+    "pronunciation": "ˈɛŋlant",
+    "audio": "1163"
+  },
+  {
+    "meaning": "English",
+    "german": "Englisch",
+    "register": "general",
+    "pronunciation": "ˈɛŋlɪʃ",
+    "audio": "1164"
+  },
+  {
+    "meaning": "Italy",
+    "german": "Italien",
+    "register": "general",
+    "pronunciation": "iˈtaːli̯ən",
+    "audio": "1165"
+  },
+  {
+    "meaning": "Italian",
+    "german": "Italienisch",
+    "register": "general",
+    "pronunciation": "itaˈli̯eːnɪʃ",
+    "audio": "1166"
+  },
+  {
+    "meaning": "Holland",
+    "german": "Holland",
+    "register": "general",
+    "pronunciation": "ˈhɔlant",
+    "audio": "1167"
+  },
+  {
+    "meaning": "Dutch",
+    "german": "Holländisch",
+    "register": "general",
+    "pronunciation": "ˈhɔlɛndɪʃ",
+    "audio": "1168"
+  },
+  {
+    "meaning": "Portugal",
+    "german": "Portugal",
+    "register": "general",
+    "pronunciation": "ˈpɔʁtuɡaːl",
+    "audio": "1169"
+  },
+  {
+    "meaning": "Portuguese",
+    "german": "Portugiesisch",
+    "register": "general",
+    "pronunciation": "pɔʁtuˈɡiːzɪʃ",
+    "audio": "1170"
+  },
+  {
+    "meaning": "Greece",
+    "german": "Griechenland",
+    "register": "general",
+    "pronunciation": "ˈɡʁiːçn̩lant",
+    "audio": "1171"
+  },
+  {
+    "meaning": "Greek",
+    "german": "Griechisch",
+    "register": "general",
+    "pronunciation": "ˈɡʁiːçɪʃ",
+    "audio": "1172"
+  },
+  {
+    "meaning": "Hungary",
+    "german": "Ungarn",
+    "register": "general",
+    "pronunciation": "ˈʊŋɡaʁn",
+    "audio": "1173"
+  },
+  {
+    "meaning": "Hungarian",
+    "german": "Ungarisch",
+    "register": "general",
+    "pronunciation": "ʊŋˈɡaːʁɪʃ",
+    "audio": "1174"
+  },
+  {
+    "meaning": "Russia",
+    "german": "Russland",
+    "register": "general",
+    "pronunciation": "ˈʁʊslant",
+    "audio": "1175"
+  },
+  {
+    "meaning": "Russian",
+    "german": "Russisch",
+    "register": "general",
+    "pronunciation": "ˈʁʊsɪʃ",
+    "audio": "1176"
+  },
+  {
+    "meaning": "Sweden",
+    "german": "Schweden",
+    "register": "general",
+    "pronunciation": "ˈʃveːdn̩",
+    "audio": "1177"
+  },
+  {
+    "meaning": "Swedish",
+    "german": "Schwedisch",
+    "register": "general",
+    "pronunciation": "ˈʃveːdɪʃ",
+    "audio": "1178"
+  },
+  {
+    "meaning": "Denmark",
+    "german": "Dänemark",
+    "register": "general",
+    "pronunciation": "ˈdɛːnəmaʁk",
+    "audio": "1179"
+  },
+  {
+    "meaning": "Danish",
+    "german": "Dänisch",
+    "register": "general",
+    "pronunciation": "ˈdɛːnɪʃ",
+    "audio": "1180"
+  },
+  {
+    "meaning": "Japan",
+    "german": "Japan",
+    "register": "general",
+    "pronunciation": "ˈjaːpaːn",
+    "audio": "1181"
+  },
+  {
+    "meaning": "Japanese",
+    "german": "Japanisch",
+    "register": "general",
+    "pronunciation": "jaˈpaːnɪʃ",
+    "audio": "1182"
+  },
+  {
+    "meaning": "India",
+    "german": "Indien",
+    "register": "general",
+    "pronunciation": "ˈɪndi̯ən",
+    "audio": "1183"
+  },
+  {
+    "meaning": "Hindi",
+    "german": "Hindi",
+    "register": "general",
+    "pronunciation": "ˈhɪndi",
+    "audio": "1184"
+  },
+  {
+    "meaning": "China",
+    "german": "China",
+    "register": "general",
+    "pronunciation": "ˈçiːna",
+    "audio": "1185"
+  },
+  {
+    "meaning": "Chinese",
+    "german": "Chinesisch",
+    "register": "general",
+    "pronunciation": "çiˈneːzɪʃ",
+    "audio": "1186"
+  },
+  {
+    "meaning": "Turkey",
+    "german": "die Türkei",
+    "register": "general",
+    "pronunciation": "diː tʏʁˈkaɪ̯",
+    "audio": "1187"
+  },
+  {
+    "meaning": "Turkish",
+    "german": "Türkisch",
+    "register": "general",
+    "pronunciation": "ˈtʏʁkɪʃ",
+    "audio": "1188"
+  },
+  {
+    "meaning": "Thailand",
+    "german": "Thailand",
+    "register": "general",
+    "pronunciation": "ˈtaɪ̯lant",
+    "audio": "1189"
+  },
+  {
+    "meaning": "Thai",
+    "german": "Thai",
+    "register": "general",
+    "pronunciation": "taɪ̯",
+    "audio": "1190"
+  },
+  {
+    "meaning": "Egypt",
+    "german": "Ägypten",
+    "register": "general",
+    "pronunciation": "ɛˈɡʏptn̩",
+    "audio": "1191"
+  },
+  {
+    "meaning": "Arabic",
+    "german": "Arabisch",
+    "register": "general",
+    "pronunciation": "aˈʁaːbɪʃ",
+    "audio": "1192"
+  },
+  {
+    "meaning": "Australia",
+    "german": "Australien",
+    "register": "general",
+    "pronunciation": "aʊ̯sˈtʁaːli̯ən",
+    "audio": "1193"
+  },
+  {
+    "meaning": "English",
+    "german": "Englisch",
+    "register": "general",
+    "pronunciation": "ˈɛŋlɪʃ",
+    "audio": "1194"
+  },
+  {
+    "meaning": "Canada",
+    "german": "Kanada",
+    "register": "general",
+    "pronunciation": "ˈkanada",
+    "audio": "1195"
+  },
+  {
+    "meaning": "English",
+    "german": "Englisch",
+    "register": "general",
+    "pronunciation": "ˈɛŋlɪʃ",
+    "audio": "1196"
+  },
+  {
+    "meaning": "French",
+    "german": "Französisch",
+    "register": "general",
+    "pronunciation": "fʁanˈtsøːzɪʃ",
+    "audio": "1197"
+  },
+  {
+    "meaning": "Indonesia",
+    "german": "Indonesien",
+    "register": "general",
+    "pronunciation": "ɪndoˈneːzi̯ən",
+    "audio": "1198"
+  },
+  {
+    "meaning": "Indonesian",
+    "german": "Indonesisch",
+    "register": "general",
+    "pronunciation": "ɪndoˈneːzɪʃ",
+    "audio": "1199"
+  },
+  {
+    "meaning": "Nigeria",
+    "german": "Nigeria",
+    "register": "general",
+    "pronunciation": "niˈɡeːʁi̯a",
+    "audio": "1200"
+  },
+  {
+    "meaning": "English",
+    "german": "Englisch",
+    "register": "general",
+    "pronunciation": "ˈɛŋlɪʃ",
+    "audio": "1201"
+  },
+  {
+    "meaning": "Romania",
+    "german": "Rumänien",
+    "register": "general",
+    "pronunciation": "ʁuˈmɛːni̯ən",
+    "audio": "1202"
+  },
+  {
+    "meaning": "Romanian",
+    "german": "Rumänisch",
+    "register": "general",
+    "pronunciation": "ʁuˈmɛːnɪʃ",
+    "audio": "1203"
+  },
+  {
+    "meaning": "Brazil",
+    "german": "Brasilien",
+    "register": "general",
+    "pronunciation": "bʁaˈziːli̯ən",
+    "audio": "1204"
+  },
+  {
+    "meaning": "Portuguese",
+    "german": "Portugiesisch",
+    "register": "general",
+    "pronunciation": "pɔʁtuˈɡiːzɪʃ",
+    "audio": "1205"
+  },
+  {
+    "meaning": "Algeria",
+    "german": "Algerien",
+    "register": "general",
+    "pronunciation": "alˈɡeːʁi̯ən",
+    "audio": "1206"
+  },
+  {
+    "meaning": "Arabic",
+    "german": "Arabisch",
+    "register": "general",
+    "pronunciation": "aˈʁaːbɪʃ",
+    "audio": "1207"
+  },
+  {
+    "meaning": "Bangladesh",
+    "german": "Bangladesch",
+    "register": "general",
+    "pronunciation": "baŋlaˈdɛʃ",
+    "audio": "1208"
+  },
+  {
+    "meaning": "Bengali",
+    "german": "Bengalisch",
+    "register": "general",
+    "pronunciation": "bɛŋˈɡaːlɪʃ",
+    "audio": "1209"
+  },
+  {
+    "meaning": "Iran",
+    "german": "der Iran",
+    "register": "general",
+    "pronunciation": "deːɐ̯ iˈʁaːn",
+    "audio": "1210"
+  },
+  {
+    "meaning": "Persian",
+    "german": "Persisch",
+    "register": "general",
+    "pronunciation": "ˈpɛʁzɪʃ",
+    "audio": "1211"
+  },
+  {
+    "meaning": "Nepal",
+    "german": "Nepal",
+    "register": "general",
+    "pronunciation": "neˈpaːl",
+    "audio": "1212"
+  },
+  {
+    "meaning": "Nepali",
+    "german": "Nepali",
+    "register": "general",
+    "pronunciation": "neˈpaːli",
+    "audio": "1213"
+  },
+  {
+    "meaning": "Pakistan",
+    "german": "Pakistan",
+    "register": "general",
+    "pronunciation": "ˈpaːkɪstaːn",
+    "audio": "1214"
+  },
+  {
+    "meaning": "Urdu",
+    "german": "Urdu",
+    "register": "general",
+    "pronunciation": "ˈʊʁdu",
+    "audio": "1215"
+  },
+  {
+    "meaning": "English",
+    "german": "English",
+    "register": "general",
+    "pronunciation": "ˈɪŋɡlɪʃ",
+    "audio": "1216"
+  },
+  {
+    "meaning": "Saudi Arabia",
+    "german": "Saudi-Arabien",
+    "register": "general",
+    "pronunciation": "ˈsaʊ̯di aˈʁaːbi̯ən",
+    "audio": "1217"
+  },
+  {
+    "meaning": "Arabic",
+    "german": "Arabisch",
+    "register": "general",
+    "pronunciation": "aˈʁaːbɪʃ",
+    "audio": "1218"
+  },
+  {
+    "meaning": "Tunisia",
+    "german": "Tunesien",
+    "register": "general",
+    "pronunciation": "tuˈneːzi̯ən",
+    "audio": "1219"
+  },
+  {
+    "meaning": "Arabic",
+    "german": "Arabisch",
+    "register": "general",
+    "pronunciation": "aˈʁaːbɪʃ",
+    "audio": "1220"
+  },
+  {
+    "meaning": "Which languages do you speak?",
+    "german": "Welche Sprachen sprichst du?",
+    "register": "informal",
+    "pronunciation": "ˈvɛlçə ˈʃpʁaːxən ʃpʁɪçst duː",
+    "audio": "1221"
+  },
+  {
+    "meaning": "Which languages do you speak?",
+    "german": "Welche Sprachen sprechen Sie?",
+    "register": "formal",
+    "pronunciation": "ˈvɛlçə ˈʃpʁaːxən ˈʃpʁɛçən ziː",
+    "audio": "1222"
+  },
+  {
+    "meaning": "I speak German and English.",
+    "german": "Ich spreche Deutsch und Englisch.",
+    "register": "general",
+    "pronunciation": "ɪç ˈʃpʁɛçə dɔʏ̯tʃ ʊnt ˈɛŋlɪʃ",
+    "audio": "1223"
   }
+
+
+
+
+
 ]
 
 
