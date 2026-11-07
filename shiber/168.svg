@@ -1,25 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_168" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#DB2777"/>
-      <stop offset="100%" stop-color="#BE185D"/>
+    <linearGradient id="bg168" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_168)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GENERAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FBCFE8" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#DB2777" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#BE185D" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Das ist Michael.</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FBCFE8" text-anchor="middle">This is Michael.</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg168)"/>
+  <!-- Michael portrait card -->
+  <rect x="135" y="55" width="130" height="125" rx="16" fill="#FFFFFF"/>
+  <circle cx="200" cy="100" r="24" fill="#3B82F6"/>
+  <path d="M170 150 C170 125 230 125 230 150 Z" fill="#1D4ED8"/>
+  <text x="200" y="170" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1E293B" text-anchor="middle">Michael</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Das ist Michael</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#BFDBFE" text-anchor="middle">This is Michael</text>
 </svg>

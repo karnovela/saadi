@@ -1,25 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_49" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#9333EA"/>
-      <stop offset="100%" stop-color="#7E22CE"/>
+    <linearGradient id="bg49" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DC2626"/>
+      <stop offset="100%" stop-color="#991B1B"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_49)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#E9D5FF" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#9333EA" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#7E22CE" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Magst du Rockmusik?</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#E9D5FF" text-anchor="middle">Do you like rock music?</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg49)"/>
+  <!-- Lightning bolts -->
+  <polygon points="120,50 145,95 130,95 150,140 115,85 132,85" fill="#FDE047"/>
+  <!-- Rock Horns Hand Sign (🤘) -->
+  <g transform="translate(165, 55)">
+    <!-- Palm -->
+    <rect x="20" y="55" width="45" height="50" rx="10" fill="#FEF08A"/>
+    <!-- Index Finger Up -->
+    <rect x="20" y="15" width="12" height="45" rx="6" fill="#FEF08A"/>
+    <!-- Middle & Ring Folded -->
+    <rect x="33" y="45" width="10" height="25" rx="5" fill="#FDE68A"/>
+    <rect x="44" y="45" width="10" height="25" rx="5" fill="#FDE68A"/>
+    <!-- Pinky Up -->
+    <rect x="54" y="20" width="11" height="40" rx="5.5" fill="#FEF08A"/>
+    <!-- Thumb In -->
+    <ellipse cx="22" cy="70" rx="6" ry="12" fill="#FDE68A"/>
+  </g>
+  <!-- Question mark badge -->
+  <circle cx="280" cy="85" r="22" fill="#FFFFFF"/>
+  <text x="280" y="94" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#DC2626" text-anchor="middle">?</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Magst du Rockmusik?</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#FECACA" text-anchor="middle">Do you like rock music?</text>
 </svg>

@@ -1,25 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_94" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#16A34A"/>
-      <stop offset="100%" stop-color="#15803D"/>
+    <linearGradient id="bg94" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15803D"/>
+      <stop offset="100%" stop-color="#14532D"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_94)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">NEUTRAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#BBF7D0" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#16A34A" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#15803D" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Alles ist grün.</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#BBF7D0" text-anchor="middle">Everything is green.</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg94)"/>
+  <!-- Lush Green rolling hills & vibrant green trees -->
+  <path d="M50 175 Q150 115 250 160 T400 145 L400 200 L50 200 Z" fill="#22C55E"/>
+  <path d="M0 165 Q120 120 220 150 T400 170 L400 200 L0 200 Z" fill="#16A34A"/>
+  <!-- 2 Round lush green trees -->
+  <circle cx="160" cy="115" r="32" fill="#4ADE80"/>
+  <rect x="156" y="145" width="8" height="25" fill="#78350F"/>
+  <circle cx="250" cy="100" r="38" fill="#86EFAC"/>
+  <rect x="245" y="135" width="10" height="30" fill="#78350F"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Alles ist grün</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#BBF7D0" text-anchor="middle">Everything is green</text>
 </svg>

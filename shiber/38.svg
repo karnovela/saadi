@@ -1,28 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_38" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#DB2777"/>
-      <stop offset="100%" stop-color="#BE185D"/>
+    <linearGradient id="bg38" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#172554"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_38)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-      <!-- Open Book -->
-      <path d="M200 145 C180 120 130 120 120 125 L120 75 C135 70 180 70 200 95 C220 70 265 70 280 75 L280 125 C270 120 220 120 200 145 Z" fill="#FFFFFF"/>
-      <path d="M200 95 L200 145" stroke="#CBD5E1" stroke-width="3"/>
-      <line x1="135" y1="88" x2="185" y2="88" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="135" y1="102" x2="175" y2="102" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
-      <line x1="215" y1="88" x2="265" y2="88" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="215" y1="102" x2="255" y2="102" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
-    
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Französisch</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FBCFE8" text-anchor="middle">French</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg38)"/>
+  <!-- French Tricolor -->
+  <g transform="translate(125, 55)">
+    <rect x="0" y="0" width="50" height="110" rx="8" fill="#002654"/>
+    <rect x="50" y="0" width="50" height="110" fill="#FFFFFF"/>
+    <rect x="100" y="0" width="50" height="110" rx="8" fill="#ED2939"/>
+  </g>
+  <text x="200" y="235" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Französisch</text>
+  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#93C5FD" text-anchor="middle">French language</text>
 </svg>

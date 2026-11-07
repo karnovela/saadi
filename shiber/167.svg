@@ -1,25 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_167" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#DC2626"/>
-      <stop offset="100%" stop-color="#B91C1C"/>
+    <linearGradient id="bg167" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_167)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GENERAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FECACA" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#DC2626" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#B91C1C" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">sie</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FECACA" text-anchor="middle">They</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg167)"/>
+  <!-- Multiple figures in distance -->
+  <circle cx="145" cy="90" r="16" fill="#EDE9FE"/>
+  <path d="M125 150 C125 115 165 115 165 150 Z" fill="#8B5CF6"/>
+  <circle cx="200" cy="80" r="18" fill="#EDE9FE"/>
+  <path d="M175 150 C175 105 225 105 225 150 Z" fill="#A78BFA"/>
+  <circle cx="255" cy="90" r="16" fill="#EDE9FE"/>
+  <path d="M235 150 C235 115 275 115 275 150 Z" fill="#8B5CF6"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">sie</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="15" fill="#DDD6FE" text-anchor="middle">they (3rd person plural)</text>
 </svg>

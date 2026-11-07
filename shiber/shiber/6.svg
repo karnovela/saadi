@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#065F46"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg6)"/>
+  <rect x="70" y="60" width="260" height="150" rx="10" fill="#01411C" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="70" y="60" width="60" height="150" fill="#FFFFFF"/>
+  <circle cx="220" cy="135" r="36" fill="#FFFFFF"/>
+  <circle cx="228" cy="130" r="32" fill="#01411C"/>
+  <polygon points="230,110 234,120 244,120 236,126 239,136 230,130 221,136 224,126 216,120 226,120" fill="#FFFFFF"/>
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Ich komme aus Pakistan</text>
+</svg>

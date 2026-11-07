@@ -1,25 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_57" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#DC2626"/>
-      <stop offset="100%" stop-color="#B91C1C"/>
+    <linearGradient id="bg57" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#BE185D"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_57)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FECACA" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#DC2626" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#B91C1C" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Ich tanze gerne</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FECACA" text-anchor="middle">I like to dance</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg57)"/>
+  <!-- Dancer doing dynamic joyful pose with heart -->
+  <circle cx="200" cy="65" r="18" fill="#FDF2F8"/>
+  <!-- Dancing body with outstretched arms -->
+  <path d="M185 110 L150 95" stroke="#FDF2F8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M215 110 L250 85" stroke="#FDF2F8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M175 145 C175 95 225 95 225 145 Z" fill="#FDE047"/>
+  <!-- Jump legs -->
+  <path d="M185 145 L170 180" stroke="#FDF2F8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M215 145 L235 175" stroke="#FDF2F8" stroke-width="5" stroke-linecap="round"/>
+  <!-- Heart symbol -->
+  <path d="M255 75 C255 75 245 65 245 58 C245 53 249 51 253 54 C255 56 255 57 255 57 C255 57 255 56 257 54 C261 51 265 53 265 58 C265 65 255 75 255 75 Z" fill="#FFFFFF"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Ich tanze gerne</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#FCE7F3" text-anchor="middle">I like to dance</text>
 </svg>

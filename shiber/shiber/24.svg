@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg24" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#78350F"/>
+      <stop offset="100%" stop-color="#92400E"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg24)"/>
+  <!-- Dog Face -->
+  <circle cx="200" cy="125" r="50" fill="#FBBF24"/>
+  <!-- Pointed Ears -->
+  <polygon points="155,95 140,45 175,75" fill="#D97706"/>
+  <polygon points="245,95 260,45 225,75" fill="#D97706"/>
+  <!-- Eyes -->
+  <circle cx="180" cy="115" r="6" fill="#1E293B"/>
+  <circle cx="220" cy="115" r="6" fill="#1E293B"/>
+  <!-- Muzzle -->
+  <ellipse cx="200" cy="140" rx="22" ry="16" fill="#FEF3C7"/>
+  <ellipse cx="200" cy="132" rx="9" ry="6" fill="#1E293B"/>
+  <path d="M193 143 Q200 152 207 143" stroke="#1E293B" stroke-width="2.5" fill="none"/>
+  <!-- Tongue -->
+  <path d="M197 149 Q200 162 203 149 Z" fill="#EF4444"/>
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Dog / Hund</text>
+</svg>

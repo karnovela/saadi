@@ -1,25 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_96" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#EA580C"/>
-      <stop offset="100%" stop-color="#C2410C"/>
+    <linearGradient id="bg96" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1E293B"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_96)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">NEUTRAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FED7AA" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#EA580C" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#C2410C" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Es regnet oft.</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FED7AA" text-anchor="middle">It rains often.</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg96)"/>
+  <!-- Raincloud & Droplets with Blue Umbrella -->
+  <!-- Raincloud -->
+  <g fill="#94A3B8">
+    <ellipse cx="200" cy="80" rx="55" ry="24"/>
+    <circle cx="180" cy="65" r="28"/>
+    <circle cx="225" cy="70" r="22"/>
+  </g>
+  <!-- Diagonal raindrops -->
+  <line x1="160" y1="115" x2="150" y2="135" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="185" y1="125" x2="175" y2="145" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="210" y1="115" x2="200" y2="135" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="235" y1="125" x2="225" y2="145" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Umbrella -->
+  <path d="M170 170 A30 30 0 0 1 230 170 Z" fill="#38BDF8"/>
+  <line x1="200" y1="170" x2="200" y2="190" stroke="#E2E8F0" stroke-width="3"/>
+  <path d="M200 190 Q200 196 194 196" stroke="#E2E8F0" stroke-width="3" fill="none"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Es regnet oft</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8" text-anchor="middle">It rains often</text>
 </svg>

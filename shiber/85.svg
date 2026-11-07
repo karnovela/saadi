@@ -1,25 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_85" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#D97706"/>
-      <stop offset="100%" stop-color="#B45309"/>
+    <linearGradient id="bg85" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#EA580C"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_85)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">NEUTRAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FDE68A" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#D97706" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#B45309" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">der Sommer</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FDE68A" text-anchor="middle">Summer</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg85)"/>
+  <!-- Sun with sunglasses -->
+  <circle cx="200" cy="105" r="48" fill="#FDE047"/>
+  <!-- Cool Sunglasses -->
+  <polygon points="172,95 195,95 190,115 175,115" fill="#1E293B"/>
+  <polygon points="205,95 228,95 225,115 210,115" fill="#1E293B"/>
+  <line x1="195" y1="102" x2="205" y2="102" stroke="#1E293B" stroke-width="3"/>
+  <!-- Big Smile -->
+  <path d="M185 125 Q200 138 215 125" stroke="#1E293B" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Sunbeams -->
+  <line x1="200" y1="42" x2="200" y2="28" stroke="#FEF08A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="200" y1="168" x2="200" y2="182" stroke="#FEF08A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="138" y1="105" x2="124" y2="105" stroke="#FEF08A" stroke-width="4.5" stroke-linecap="round"/>
+  <line x1="262" y1="105" x2="276" y2="105" stroke="#FEF08A" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">der Sommer</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#FEF3C7" text-anchor="middle">Summer</text>
 </svg>

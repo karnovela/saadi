@@ -1,25 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_52" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0284C7"/>
-      <stop offset="100%" stop-color="#0369A1"/>
+    <linearGradient id="bg52" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_52)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#BAE6FD" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#0284C7" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#0369A1" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Saxophon</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#BAE6FD" text-anchor="middle">saxophone</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg52)"/>
+  <!-- Golden Saxophone J-Curve -->
+  <g transform="translate(140, 40)">
+    <!-- Mouthpiece & Neck -->
+    <path d="M20 30 L45 30 L55 50" fill="none" stroke="#F59E0B" stroke-width="8" stroke-linecap="round"/>
+    <rect x="12" y="27" width="10" height="6" rx="2" fill="#1E293B"/>
+    <!-- Main Tube -->
+    <line x1="55" y1="50" x2="55" y2="120" stroke="#FBBF24" stroke-width="12" stroke-linecap="round"/>
+    <!-- Keys -->
+    <circle cx="63" cy="65" r="3.5" fill="#FEF08A"/>
+    <circle cx="63" cy="80" r="3.5" fill="#FEF08A"/>
+    <circle cx="63" cy="95" r="3.5" fill="#FEF08A"/>
+    <circle cx="63" cy="110" r="3.5" fill="#FEF08A"/>
+    <!-- Bow & Flare Bell -->
+    <path d="M55 120 C55 155 95 155 95 120 L108 90" fill="none" stroke="#FBBF24" stroke-width="14" stroke-linecap="round"/>
+    <!-- Horn Bell Opening -->
+    <ellipse cx="112" cy="88" rx="16" ry="10" fill="#D97706" stroke="#FDE047" stroke-width="3"/>
+  </g>
+  <!-- Musical notes floating -->
+  <text x="290" y="80" font-family="Arial, sans-serif" font-size="28" fill="#FDE047">♪</text>
+  <text x="315" y="110" font-family="Arial, sans-serif" font-size="22" fill="#FDE047">♫</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Saxophon</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#FDE68A" text-anchor="middle">Saxophone</text>
 </svg>

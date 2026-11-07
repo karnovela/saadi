@@ -1,28 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_42" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0284C7"/>
-      <stop offset="100%" stop-color="#0369A1"/>
+    <linearGradient id="bg42" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B45309"/>
+      <stop offset="100%" stop-color="#92400E"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_42)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-      <!-- Open Book -->
-      <path d="M200 145 C180 120 130 120 120 125 L120 75 C135 70 180 70 200 95 C220 70 265 70 280 75 L280 125 C270 120 220 120 200 145 Z" fill="#FFFFFF"/>
-      <path d="M200 95 L200 145" stroke="#CBD5E1" stroke-width="3"/>
-      <line x1="135" y1="88" x2="185" y2="88" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="135" y1="102" x2="175" y2="102" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
-      <line x1="215" y1="88" x2="265" y2="88" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
-      <line x1="215" y1="102" x2="255" y2="102" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
-    
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Wir lernen Spanisch</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#BAE6FD" text-anchor="middle">we are learning Spanish</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg42)"/>
+  <!-- Group studying -->
+  <circle cx="140" cy="90" r="18" fill="#FEF3C7"/>
+  <path d="M115 145 C115 110 165 110 165 145 Z" fill="#F59E0B"/>
+  <circle cx="195" cy="85" r="18" fill="#FEF3C7"/>
+  <path d="M170 145 C170 105 220 105 220 145 Z" fill="#D97706"/>
+  <!-- Spanish Flag Book -->
+  <rect x="235" y="75" width="85" height="80" rx="8" fill="#FFFFFF"/>
+  <rect x="245" y="85" width="65" height="18" fill="#AA151B"/>
+  <rect x="245" y="103" width="65" height="24" fill="#F1BF00"/>
+  <rect x="245" y="127" width="65" height="18" fill="#AA151B"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Wir lernen Spanisch</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#FDE68A" text-anchor="middle">We are learning Spanish</text>
 </svg>

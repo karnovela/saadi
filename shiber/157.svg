@@ -1,25 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_157" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#DC2626"/>
-      <stop offset="100%" stop-color="#B91C1C"/>
+    <linearGradient id="bg157" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EA580C"/>
+      <stop offset="100%" stop-color="#C2410C"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_157)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">INFORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FECACA" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#DC2626" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#B91C1C" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ihr</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FECACA" text-anchor="middle">You all (informal).</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg157)"/>
+  <!-- Two peers / friends with pointing arrow -->
+  <circle cx="160" cy="85" r="20" fill="#FFFFFF"/>
+  <path d="M135 150 C135 110 185 110 185 150 Z" fill="#FB923C"/>
+  <circle cx="240" cy="85" r="20" fill="#FFFFFF"/>
+  <path d="M215 150 C215 110 265 110 265 150 Z" fill="#FB923C"/>
+  <!-- Arrow pointing to them -->
+  <path d="M70 115 L115 115 M105 105 L115 115 L105 125" stroke="#FDE047" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ihr</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="15" fill="#FED7AA" text-anchor="middle">you all (informal plural)</text>
 </svg>

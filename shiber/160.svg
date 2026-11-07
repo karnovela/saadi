@@ -1,26 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_160" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#334155"/>
-      <stop offset="100%" stop-color="#1E293B"/>
+    <linearGradient id="bg160" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0369A1"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_160)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">INFORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-      <polygon points="200,65 130,120 270,120" fill="#EF4444"/>
-      <rect x="145" y="120" width="110" height="65" fill="#FEF3C7"/>
-      <rect x="185" y="145" width="30" height="40" fill="#B45309"/>
-      <rect x="155" y="132" width="20" height="20" rx="3" fill="#60A5FA"/>
-      <rect x="225" y="132" width="20" height="20" rx="3" fill="#60A5FA"/>
-    
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Max, wo wohnst du?</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#CBD5E1" text-anchor="middle">Max, where do you live?</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg160)"/>
+  <!-- Boy Max with house query pin -->
+  <circle cx="140" cy="95" r="24" fill="#FFFFFF"/>
+  <path d="M105 160 C105 125 175 125 175 160 Z" fill="#38BDF8"/>
+  <!-- Small house with question mark -->
+  <polygon points="255,75 220,105 290,105" fill="#EF4444"/>
+  <rect x="230" y="105" width="50" height="40" fill="#FEF3C7"/>
+  <text x="255" y="132" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0284C7" text-anchor="middle">?</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Max, wo wohnst du?</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#BAE6FD" text-anchor="middle">Max, where do you live?</text>
 </svg>

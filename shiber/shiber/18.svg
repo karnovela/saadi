@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg18" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg18)"/>
+  <!-- Clock with Bus -->
+  <circle cx="150" cy="120" r="50" fill="#FFFFFF"/>
+  <circle cx="150" cy="120" r="4" fill="#0F172A"/>
+  <line x1="150" y1="120" x2="150" y2="85" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+  <line x1="150" y1="120" x2="175" y2="120" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Small Bus -->
+  <rect x="220" y="95" width="85" height="50" rx="8" fill="#FBBF24"/>
+  <circle cx="240" cy="145" r="9" fill="#1E293B"/>
+  <circle cx="285" cy="145" r="9" fill="#1E293B"/>
+  <text x="200" y="255" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">When is the next bus?</text>
+</svg>

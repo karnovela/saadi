@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg1)"/>
+  <rect x="70" y="55" width="260" height="165" rx="16" fill="#FFFFFF"/>
+  <circle cx="200" cy="115" r="30" fill="#E0E7FF"/>
+  <circle cx="200" cy="105" r="14" fill="#4F46E5"/>
+  <path d="M180 135 C180 123 220 123 220 135 Z" fill="#4F46E5"/>
+  <rect x="110" y="160" width="180" height="12" rx="6" fill="#C7D2FE"/>
+  <rect x="140" y="180" width="120" height="10" rx="5" fill="#E0E7FF"/>
+  <circle cx="200" cy="55" r="6" fill="#94A3B8"/>
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">What is your name? (du)</text>
+</svg>

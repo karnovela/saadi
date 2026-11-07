@@ -1,25 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_44" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#16A34A"/>
-      <stop offset="100%" stop-color="#15803D"/>
+    <linearGradient id="bg44" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="100%" stop-color="#312E81"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_44)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FORMAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#BBF7D0" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#16A34A" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#15803D" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Band</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#BBF7D0" text-anchor="middle">band</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg44)"/>
+  <!-- Stage spot light cone -->
+  <polygon points="200,10 90,180 310,180" fill="#FACC15" opacity="0.15"/>
+  <!-- 3 Band Members -->
+  <circle cx="140" cy="95" r="16" fill="#F8FAFC"/>
+  <!-- Guitarist silhouette -->
+  <rect x="120" y="115" width="40" height="50" rx="8" fill="#F43F5E"/>
+  <line x1="125" y1="110" x2="165" y2="145" stroke="#FDE047" stroke-width="4"/>
+  <circle cx="200" cy="80" r="18" fill="#F8FAFC"/>
+  <!-- Lead Singer with mic -->
+  <rect x="180" y="105" width="40" height="60" rx="8" fill="#6366F1"/>
+  <line x1="200" y1="110" x2="200" y2="155" stroke="#E2E8F0" stroke-width="3"/>
+  <circle cx="200" cy="108" r="6" fill="#94A3B8"/>
+  <circle cx="260" cy="95" r="16" fill="#F8FAFC"/>
+  <!-- Drummer -->
+  <rect x="240" y="115" width="40" height="50" rx="8" fill="#10B981"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Band</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#C7D2FE" text-anchor="middle">Music band</text>
 </svg>

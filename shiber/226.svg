@@ -1,25 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
   <defs>
-    <linearGradient id="bg_226" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#EA580C"/>
-      <stop offset="100%" stop-color="#C2410C"/>
+    <linearGradient id="bg226" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
   </defs>
-  <rect width="400" height="300" rx="20" fill="url(#bg_226)"/>
-  
-  <!-- Category / Register Pill -->
-  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
-  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GENERAL</text>
-
-  <!-- Centered Illustration -->
-  
-    <rect x="135" y="65" width="130" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.95"/>
-    <circle cx="200" cy="115" r="32" fill="#FED7AA" fill-opacity="0.5"/>
-    <text x="200" y="127" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#EA580C" text-anchor="middle">★</text>
-    <rect x="155" y="155" width="90" height="8" rx="4" fill="#C2410C" fill-opacity="0.3"/>
-  
-
-  <!-- Phrase text info -->
-  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">das Hobby</text>
-  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FED7AA" text-anchor="middle">Hobby</text>
+  <rect width="400" height="300" rx="20" fill="url(#bg226)"/>
+  <!-- Paint Palette + Music note + Game icon -->
+  <path d="M190 75 C150 75 130 100 130 130 C130 160 160 170 190 170 C205 170 215 160 215 150 C215 142 225 140 230 145 C238 152 245 150 250 145 C265 130 260 75 190 75 Z" fill="#FFFFFF"/>
+  <circle cx="160" cy="105" r="9" fill="#EF4444"/>
+  <circle cx="190" cy="95" r="9" fill="#F59E0B"/>
+  <circle cx="225" cy="110" r="9" fill="#3B82F6"/>
+  <circle cx="170" cy="140" r="9" fill="#10B981"/>
+  <circle cx="235" cy="135" r="10" fill="#4F46E5"/>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">das Hobby</text>
+  <text x="200" y="268" font-family="Arial, sans-serif" font-size="14" fill="#C7D2FE" text-anchor="middle">Hobby</text>
 </svg>

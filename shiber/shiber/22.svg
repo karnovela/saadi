@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg22" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg22)"/>
+  <!-- Puppy face -->
+  <ellipse cx="200" cy="130" rx="55" ry="48" fill="#FDE68A"/>
+  <!-- Ears floppy -->
+  <ellipse cx="145" cy="110" rx="18" ry="32" fill="#B45309" transform="rotate(-15 145 110)"/>
+  <ellipse cx="255" cy="110" rx="18" ry="32" fill="#B45309" transform="rotate(15 255 110)"/>
+  <!-- Eyes -->
+  <circle cx="180" cy="120" r="7" fill="#1E293B"/>
+  <circle cx="182" cy="118" r="2.5" fill="#FFFFFF"/>
+  <circle cx="220" cy="120" r="7" fill="#1E293B"/>
+  <circle cx="222" cy="118" r="2.5" fill="#FFFFFF"/>
+  <!-- Snout & Nose -->
+  <ellipse cx="200" cy="142" rx="18" ry="12" fill="#FEF3C7"/>
+  <ellipse cx="200" cy="136" rx="8" ry="5" fill="#1E293B"/>
+  <path d="M195 144 Q200 150 205 144" stroke="#1E293B" stroke-width="2" fill="none"/>
+  <text x="200" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Puppy / Welpe</text>
+</svg>
