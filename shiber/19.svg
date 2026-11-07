@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg19" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4338CA"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg19)"/>
+  <!-- Clock with Train -->
+  <circle cx="150" cy="120" r="50" fill="#FFFFFF"/>
+  <circle cx="150" cy="120" r="4" fill="#0F172A"/>
+  <line x1="150" y1="120" x2="150" y2="90" stroke="#0F172A" stroke-width="4" stroke-linecap="round"/>
+  <line x1="150" y1="120" x2="180" y2="135" stroke="#EF4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Front of Train -->
+  <rect x="230" y="85" width="60" height="70" rx="14" fill="#F8FAFC"/>
+  <path d="M236 95 L284 95 L280 115 L240 115 Z" fill="#0284C7"/>
+  <circle cx="245" cy="135" r="5" fill="#FDE047"/>
+  <circle cx="275" cy="135" r="5" fill="#FDE047"/>
+  <text x="200" y="255" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#FFFFFF" text-anchor="middle">When is the next train?</text>
+</svg>

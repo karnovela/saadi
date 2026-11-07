@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg_1223" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D97706"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg_1223)"/>
+  
+  <!-- Category / Register Pill -->
+  <rect x="25" y="20" width="80" height="24" rx="12" fill="#000000" fill-opacity="0.25"/>
+  <text x="65" y="36" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GENERAL</text>
+
+  <!-- Centered Illustration -->
+  
+      <!-- Open Book -->
+      <path d="M200 145 C180 120 130 120 120 125 L120 75 C135 70 180 70 200 95 C220 70 265 70 280 75 L280 125 C270 120 220 120 200 145 Z" fill="#FFFFFF"/>
+      <path d="M200 95 L200 145" stroke="#CBD5E1" stroke-width="3"/>
+      <line x1="135" y1="88" x2="185" y2="88" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="135" y1="102" x2="175" y2="102" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+      <line x1="215" y1="88" x2="265" y2="88" stroke="#6366F1" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="215" y1="102" x2="255" y2="102" stroke="#94A3B8" stroke-width="2" stroke-linecap="round"/>
+    
+
+  <!-- Phrase text info -->
+  <text x="200" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Ich spreche Deutsch und Englisch.</text>
+  <text x="200" y="265" font-family="Arial, sans-serif" font-size="14" fill="#FDE68A" text-anchor="middle">I speak German and English.</text>
+</svg>
