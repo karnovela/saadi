@@ -8675,13 +8675,1090 @@
     "register": "general",
     "pronunciation": "ɪç ˈʃpʁɛçə dɔʏ̯tʃ ʊnt ˈɛŋlɪʃ",
     "audio": "1223"
+  },
+
+
+
+
+
+
+  {
+    "meaning": "Animals",
+    "german": "Tiere",
+    "register": "general",
+    "pronunciation": "ˈtiːʁə",
+    "audio": "1224"
+  },
+  {
+    "meaning": "Animal",
+    "german": "das Tier",
+    "register": "general",
+    "pronunciation": "das tiːɐ̯",
+    "audio": "1225"
+  },
+  {
+    "meaning": "Animals",
+    "german": "die Tiere",
+    "register": "general",
+    "pronunciation": "diː ˈtiːʁə",
+    "audio": "1226"
+  },
+  {
+    "meaning": "Cat",
+    "german": "die Katze",
+    "register": "general",
+    "pronunciation": "diː ˈkatsə",
+    "audio": "1227"
+  },
+  {
+    "meaning": "Cats",
+    "german": "die Katzen",
+    "register": "general",
+    "pronunciation": "diː ˈkatsən",
+    "audio": "1228"
+  },
+  {
+    "meaning": "Dog",
+    "german": "der Hund",
+    "register": "general",
+    "pronunciation": "deːɐ̯ hʊnt",
+    "audio": "1229"
+  },
+  {
+    "meaning": "Dogs",
+    "german": "die Hunde",
+    "register": "general",
+    "pronunciation": "diː ˈhʊndə",
+    "audio": "1230"
+  },
+  {
+    "meaning": "Cow",
+    "german": "die Kuh",
+    "register": "general",
+    "pronunciation": "diː kuː",
+    "audio": "1231"
+  },
+  {
+    "meaning": "Cows",
+    "german": "die Kühe",
+    "register": "general",
+    "pronunciation": "diː ˈkyːə",
+    "audio": "1232"
+  },
+  {
+    "meaning": "Giraffe",
+    "german": "die Giraffe",
+    "register": "general",
+    "pronunciation": "diː ɡiˈʁafə",
+    "audio": "1233"
+  },
+  {
+    "meaning": "Giraffes",
+    "german": "die Giraffen",
+    "register": "general",
+    "pronunciation": "diː ɡiˈʁafən",
+    "audio": "1234"
+  },
+  {
+    "meaning": "Goat",
+    "german": "die Ziege",
+    "register": "general",
+    "pronunciation": "diː ˈtsiːɡə",
+    "audio": "1235"
+  },
+  {
+    "meaning": "Goats",
+    "german": "die Ziegen",
+    "register": "general",
+    "pronunciation": "diː ˈtsiːɡən",
+    "audio": "1236"
+  },
+  {
+    "meaning": "Monkey",
+    "german": "der Affe",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈafə",
+    "audio": "1237"
+  },
+  {
+    "meaning": "Monkeys",
+    "german": "die Affen",
+    "register": "general",
+    "pronunciation": "diː ˈafən",
+    "audio": "1238"
+  },
+  {
+    "meaning": "Bear",
+    "german": "der Bär",
+    "register": "general",
+    "pronunciation": "deːɐ̯ bɛːɐ̯",
+    "audio": "1239"
+  },
+  {
+    "meaning": "Bears",
+    "german": "die Bären",
+    "register": "general",
+    "pronunciation": "diː ˈbɛːʁən",
+    "audio": "1240"
+  },
+  {
+    "meaning": "Elephant",
+    "german": "der Elefant",
+    "register": "general",
+    "pronunciation": "deːɐ̯ eleˈfant",
+    "audio": "1241"
+  },
+  {
+    "meaning": "Elephants",
+    "german": "die Elefanten",
+    "register": "general",
+    "pronunciation": "diː eleˈfantən",
+    "audio": "1242"
+  },
+  {
+    "meaning": "Donkey",
+    "german": "der Esel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈeːzl̩",
+    "audio": "1243"
+  },
+  {
+    "meaning": "Donkeys",
+    "german": "die Esel",
+    "register": "general",
+    "pronunciation": "diː ˈeːzl̩",
+    "audio": "1244"
+  },
+  {
+    "meaning": "Horse",
+    "german": "das Pferd",
+    "register": "general",
+    "pronunciation": "das pfeːɐ̯t",
+    "audio": "1245"
+  },
+  {
+    "meaning": "Horses",
+    "german": "die Pferde",
+    "register": "general",
+    "pronunciation": "diː ˈpfeːɐ̯də",
+    "audio": "1246"
+  },
+  {
+    "meaning": "Lion",
+    "german": "der Löwe",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈløːvə",
+    "audio": "1247"
+  },
+  {
+    "meaning": "Lions",
+    "german": "die Löwen",
+    "register": "general",
+    "pronunciation": "diː ˈløːvən",
+    "audio": "1248"
+  },
+  {
+    "meaning": "Tiger",
+    "german": "der Tiger",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈtiːɡɐ",
+    "audio": "1249"
+  },
+  {
+    "meaning": "Tigers",
+    "german": "die Tiger",
+    "register": "general",
+    "pronunciation": "diː ˈtiːɡɐ",
+    "audio": "1250"
+  },
+  {
+    "meaning": "Squirrel",
+    "german": "das Eichhörnchen",
+    "register": "general",
+    "pronunciation": "das ˈaɪ̯çˌhœʁnçən",
+    "audio": "1251"
+  },
+  {
+    "meaning": "Squirrels",
+    "german": "die Eichhörnchen",
+    "register": "general",
+    "pronunciation": "diː ˈaɪ̯çˌhœʁnçən",
+    "audio": "1252"
+  },
+  {
+    "meaning": "Deer",
+    "german": "das Reh",
+    "register": "general",
+    "pronunciation": "das ʁeː",
+    "audio": "1253"
+  },
+  {
+    "meaning": "Deer",
+    "german": "die Rehe",
+    "register": "general",
+    "pronunciation": "diː ˈʁeːə",
+    "audio": "1254"
+  },
+  
+  
+  
+  {
+    "meaning": "Sports",
+    "german": "Sportarten",
+    "register": "general",
+    "pronunciation": "ˈʃpɔʁtˌʔaʁtn̩",
+    "audio": "1255"
+  },
+  {
+    "meaning": "Sport",
+    "german": "der Sport",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃpɔʁt",
+    "audio": "1256"
+  },
+  {
+    "meaning": "Types of sports",
+    "german": "die Sportarten",
+    "register": "general",
+    "pronunciation": "diː ˈʃpɔʁtˌʔaʁtn̩",
+    "audio": "1257"
+  },
+  {
+    "meaning": "Swimming",
+    "german": "Schwimmen",
+    "register": "general",
+    "pronunciation": "ˈʃvɪmən",
+    "audio": "1258"
+  },
+  {
+    "meaning": "Football",
+    "german": "Fußball",
+    "register": "general",
+    "pronunciation": "ˈfuːsˌbal",
+    "audio": "1259"
+  },
+  {
+    "meaning": "American football",
+    "german": "Amerikanischer Fußball",
+    "register": "general",
+    "pronunciation": "ameʁiˈkaːnɪʃɐ ˈfuːsˌbal",
+    "audio": "1260"
+  },
+  {
+    "meaning": "Basketball",
+    "german": "Basketball",
+    "register": "general",
+    "pronunciation": "ˈbaskətˌbal",
+    "audio": "1261"
+  },
+  {
+    "meaning": "Golf",
+    "german": "Golf",
+    "register": "general",
+    "pronunciation": "ɡɔlf",
+    "audio": "1262"
+  },
+  {
+    "meaning": "Tennis",
+    "german": "Tennis",
+    "register": "general",
+    "pronunciation": "ˈtɛnɪs",
+    "audio": "1263"
+  },
+  {
+    "meaning": "Surfing",
+    "german": "Surfen",
+    "register": "general",
+    "pronunciation": "ˈzœʁfn̩",
+    "audio": "1264"
+  },
+  {
+    "meaning": "Cycling",
+    "german": "Radfahren",
+    "register": "general",
+    "pronunciation": "ˈʁaːtˌfaːʁən",
+    "audio": "1265"
+  },
+  {
+    "meaning": "Figure skating",
+    "german": "Eiskunstlauf",
+    "register": "general",
+    "pronunciation": "ˈaɪ̯sˌkʊnstˌlaʊ̯f",
+    "audio": "1266"
+  },
+  {
+    "meaning": "Boxing",
+    "german": "Boxen",
+    "register": "general",
+    "pronunciation": "ˈbɔksn̩",
+    "audio": "1267"
+  },
+  {
+    "meaning": "Table tennis",
+    "german": "Tischtennis",
+    "register": "general",
+    "pronunciation": "ˈtɪʃˌtɛnɪs",
+    "audio": "1268"
+  },
+  {
+    "meaning": "Gymnastics",
+    "german": "Gymnastik",
+    "register": "general",
+    "pronunciation": "ɡʏmˈnastɪk",
+    "audio": "1269"
+  },
+  {
+    "meaning": "Archery",
+    "german": "Bogenschießen",
+    "register": "general",
+    "pronunciation": "ˈboːɡn̩ˌʃiːsn̩",
+    "audio": "1270"
+  },
+  {
+    "meaning": "Car racing",
+    "german": "Autorennen",
+    "register": "general",
+    "pronunciation": "ˈaʊ̯toˌʁɛnən",
+    "audio": "1271"
+  },
+  {
+    "meaning": "Skiing",
+    "german": "Skifahren",
+    "register": "general",
+    "pronunciation": "ˈʃiːˌfaːʁən",
+    "audio": "1272"
+  },
+  {
+    "meaning": "Yoga",
+    "german": "Yoga",
+    "register": "general",
+    "pronunciation": "ˈjoːɡa",
+    "audio": "1273"
+  },
+  {
+    "meaning": "My favorite sport is football.",
+    "german": "Mein Lieblingssport ist Fußball.",
+    "register": "general",
+    "pronunciation": "maɪ̯n ˈliːplɪŋsˌʃpɔʁt ɪst ˈfuːsˌbal",
+    "audio": "1274"
+  },
+
+
+  {
+    "meaning": "Musical instruments",
+    "german": "Musikinstrumente",
+    "register": "general",
+    "pronunciation": "muˈziːkɪnstruˌmɛntə",
+    "audio": "1275"
+  },
+  {
+    "meaning": "Piano",
+    "german": "das Klavier",
+    "register": "general",
+    "pronunciation": "das klaˈviːɐ̯",
+    "audio": "1276"
+  },
+  {
+    "meaning": "Pianos",
+    "german": "die Klaviere",
+    "register": "general",
+    "pronunciation": "diː klaˈviːʁə",
+    "audio": "1277"
+  },
+  {
+    "meaning": "Guitar",
+    "german": "die Gitarre",
+    "register": "general",
+    "pronunciation": "diː ɡiˈtaʁə",
+    "audio": "1278"
+  },
+  {
+    "meaning": "Guitars",
+    "german": "die Gitarren",
+    "register": "general",
+    "pronunciation": "diː ɡiˈtaʁən",
+    "audio": "1279"
+  },
+  {
+    "meaning": "Drum",
+    "german": "das Schlagzeug",
+    "register": "general",
+    "pronunciation": "das ˈʃlaːkˌtsɔʏ̯k",
+    "audio": "1280"
+  },
+  {
+    "meaning": "Drums",
+    "german": "die Schlagzeuge",
+    "register": "general",
+    "pronunciation": "diː ˈʃlaːkˌtsɔʏ̯ɡə",
+    "audio": "1281"
+  },
+  {
+    "meaning": "Trumpet",
+    "german": "die Trompete",
+    "register": "general",
+    "pronunciation": "diː tʁɔmˈpeːtə",
+    "audio": "1282"
+  },
+  {
+    "meaning": "Trumpets",
+    "german": "die Trompeten",
+    "register": "general",
+    "pronunciation": "diː tʁɔmˈpeːtn̩",
+    "audio": "1283"
+  },
+  {
+    "meaning": "Flute",
+    "german": "die Flöte",
+    "register": "general",
+    "pronunciation": "diː ˈfløːtə",
+    "audio": "1284"
+  },
+  {
+    "meaning": "Flutes",
+    "german": "die Flöten",
+    "register": "general",
+    "pronunciation": "diː ˈfløːtn̩",
+    "audio": "1285"
+  },
+  {
+    "meaning": "Violin",
+    "german": "die Geige",
+    "register": "general",
+    "pronunciation": "diː ˈɡaɪ̯ɡə",
+    "audio": "1286"
+  },
+  {
+    "meaning": "Violins",
+    "german": "die Geigen",
+    "register": "general",
+    "pronunciation": "diː ˈɡaɪ̯ɡn̩",
+    "audio": "1287"
+  },
+  {
+    "meaning": "Tambourine",
+    "german": "das Tamburin",
+    "register": "general",
+    "pronunciation": "das tambuˈʁiːn",
+    "audio": "1288"
+  },
+  {
+    "meaning": "Tambourines",
+    "german": "die Tamburine",
+    "register": "general",
+    "pronunciation": "diː tambuˈʁiːnə",
+    "audio": "1289"
+  },
+  {
+    "meaning": "Harmonica",
+    "german": "die Mundharmonika",
+    "register": "general",
+    "pronunciation": "diː ˈmʊntˌhaʁmoˌniːka",
+    "audio": "1290"
+  },
+  {
+    "meaning": "Harmonicas",
+    "german": "die Mundharmonikas",
+    "register": "general",
+    "pronunciation": "diː ˈmʊntˌhaʁmoˌniːkas",
+    "audio": "1291"
+  },
+  {
+    "meaning": "Harp",
+    "german": "die Harfe",
+    "register": "general",
+    "pronunciation": "diː ˈhaʁfə",
+    "audio": "1292"
+  },
+  {
+    "meaning": "Harps",
+    "german": "die Harfen",
+    "register": "general",
+    "pronunciation": "diː ˈhaʁfn̩",
+    "audio": "1293"
+  },
+  {
+    "meaning": "Saxophone",
+    "german": "das Saxophon",
+    "register": "general",
+    "pronunciation": "das zaksoˈfoːn",
+    "audio": "1294"
+  },
+  {
+    "meaning": "Saxophones",
+    "german": "die Saxophone",
+    "register": "general",
+    "pronunciation": "diː zaksoˈfoːnə",
+    "audio": "1295"
+  },
+  {
+    "meaning": "Accordion",
+    "german": "das Akkordeon",
+    "register": "general",
+    "pronunciation": "das akoʁdeˈɔn",
+    "audio": "1296"
+  },
+  {
+    "meaning": "Accordions",
+    "german": "die Akkordeons",
+    "register": "general",
+    "pronunciation": "diː akoʁdeˈɔns",
+    "audio": "1297"
+  },
+
+
+
+
+  {
+    "meaning": "In the classroom",
+    "german": "Im Klassenzimmer",
+    "register": "general",
+    "pronunciation": "ɪm ˈklasənˌtsɪmɐ",
+    "audio": "1298"
+  },
+  {
+    "meaning": "Classroom",
+    "german": "das Klassenzimmer",
+    "register": "general",
+    "pronunciation": "das ˈklasənˌtsɪmɐ",
+    "audio": "1299"
+  },
+  {
+    "meaning": "Teacher",
+    "german": "der Lehrer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈleːʁɐ",
+    "audio": "1300"
+  },
+  {
+    "meaning": "Teachers",
+    "german": "die Lehrer",
+    "register": "general",
+    "pronunciation": "diː ˈleːʁɐ",
+    "audio": "1301"
+  },
+  {
+    "meaning": "School student",
+    "german": "der Schüler",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃyːlɐ",
+    "audio": "1302"
+  },
+  {
+    "meaning": "School students",
+    "german": "die Schüler",
+    "register": "general",
+    "pronunciation": "diː ˈʃyːlɐ",
+    "audio": "1303"
+  },
+  {
+    "meaning": "Window",
+    "german": "das Fenster",
+    "register": "general",
+    "pronunciation": "das ˈfɛnstɐ",
+    "audio": "1304"
+  },
+  {
+    "meaning": "Windows",
+    "german": "die Fenster",
+    "register": "general",
+    "pronunciation": "diː ˈfɛnstɐ",
+    "audio": "1305"
+  },
+  {
+    "meaning": "Table",
+    "german": "der Tisch",
+    "register": "general",
+    "pronunciation": "deːɐ̯ tɪʃ",
+    "audio": "1306"
+  },
+  {
+    "meaning": "Tables",
+    "german": "die Tische",
+    "register": "general",
+    "pronunciation": "diː ˈtɪʃə",
+    "audio": "1307"
+  },
+  {
+    "meaning": "Chair",
+    "german": "der Stuhl",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃtuːl",
+    "audio": "1308"
+  },
+  {
+    "meaning": "Chairs",
+    "german": "die Stühle",
+    "register": "general",
+    "pronunciation": "diː ˈʃtyːlə",
+    "audio": "1309"
+  },
+  {
+    "meaning": "Board",
+    "german": "die Tafel",
+    "register": "general",
+    "pronunciation": "diː ˈtaːfl̩",
+    "audio": "1310"
+  },
+  {
+    "meaning": "Boards",
+    "german": "die Tafeln",
+    "register": "general",
+    "pronunciation": "diː ˈtaːfl̩n",
+    "audio": "1311"
+  },
+  {
+    "meaning": "Chalk",
+    "german": "die Kreide",
+    "register": "general",
+    "pronunciation": "diː ˈkʁaɪ̯də",
+    "audio": "1312"
+  },
+  {
+    "meaning": "Chalks",
+    "german": "die Kreiden",
+    "register": "general",
+    "pronunciation": "diː ˈkʁaɪ̯dən",
+    "audio": "1313"
+  },
+  {
+    "meaning": "Sponge",
+    "german": "der Schwamm",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʃvam",
+    "audio": "1314"
+  },
+  {
+    "meaning": "Sponges",
+    "german": "die Schwämme",
+    "register": "general",
+    "pronunciation": "diː ˈʃvɛmɪ",
+    "audio": "1315"
+  },
+  {
+    "meaning": "Interactive board",
+    "german": "das Smartboard",
+    "register": "general",
+    "pronunciation": "das ˈsmaːɐ̯tˌbɔːɐ̯t",
+    "audio": "1316"
+  },
+  {
+    "meaning": "Interactive boards",
+    "german": "die Smartboards",
+    "register": "general",
+    "pronunciation": "diː ˈsmaːɐ̯tˌbɔːɐ̯ts",
+    "audio": "1317"
+  },
+  {
+    "meaning": "Backpack",
+    "german": "der Rucksack",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʁʊkˌzak",
+    "audio": "1318"
+  },
+  {
+    "meaning": "Backpacks",
+    "german": "die Rucksäcke",
+    "register": "general",
+    "pronunciation": "diː ˈʁʊkˌzɛkə",
+    "audio": "1319"
+  },
+  {
+    "meaning": "Notebook",
+    "german": "das Heft",
+    "register": "general",
+    "pronunciation": "das hɛft",
+    "audio": "1320"
+  },
+  {
+    "meaning": "Notebooks",
+    "german": "die Hefte",
+    "register": "general",
+    "pronunciation": "diː ˈhɛftə",
+    "audio": "1321"
+  },
+  {
+    "meaning": "Book",
+    "german": "das Buch",
+    "register": "general",
+    "pronunciation": "das buːx",
+    "audio": "1322"
+  },
+  {
+    "meaning": "Books",
+    "german": "die Bücher",
+    "register": "general",
+    "pronunciation": "diː ˈbyːçɐ",
+    "audio": "1323"
+  },
+  {
+    "meaning": "Folder",
+    "german": "die Mappe",
+    "register": "general",
+    "pronunciation": "diː ˈmapə",
+    "audio": "1324"
+  },
+  {
+    "meaning": "Folders",
+    "german": "die Mappen",
+    "register": "general",
+    "pronunciation": "diː ˈmapən",
+    "audio": "1325"
+  },
+  {
+    "meaning": "File",
+    "german": "der Ordner",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈɔʁdnɐ",
+    "audio": "1326"
+  },
+  {
+    "meaning": "Files",
+    "german": "die Ordner",
+    "register": "general",
+    "pronunciation": "diː ˈɔʁdnɐ",
+    "audio": "1327"
+  },
+  {
+    "meaning": "Worksheet",
+    "german": "das Arbeitsblatt",
+    "register": "general",
+    "pronunciation": "das ˈaʁbaɪ̯tsˌblat",
+    "audio": "1328"
+  },
+  {
+    "meaning": "Worksheets",
+    "german": "die Arbeitsblätter",
+    "register": "general",
+    "pronunciation": "diː ˈaʁbaɪ̯tsˌblɛtɐ",
+    "audio": "1329"
+  },
+  {
+    "meaning": "Paper",
+    "german": "das Papier",
+    "register": "general",
+    "pronunciation": "das paˈpiːɐ̯",
+    "audio": "1330"
+  },
+  {
+    "meaning": "Papers",
+    "german": "die Papiere",
+    "register": "general",
+    "pronunciation": "diː paˈpiːʁə",
+    "audio": "1331"
+  },
+  {
+    "meaning": "Computer",
+    "german": "der Computer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ kɔmˈpjuːtɐ",
+    "audio": "1332"
+  },
+  {
+    "meaning": "Computers",
+    "german": "die Computer",
+    "register": "general",
+    "pronunciation": "diː kɔmˈpjuːtɐ",
+    "audio": "1333"
+  },
+  {
+    "meaning": "Map",
+    "german": "die Landkarte",
+    "register": "general",
+    "pronunciation": "diː ˈlantˌkaʁtə",
+    "audio": "1334"
+  },
+  {
+    "meaning": "Maps",
+    "german": "die Landkarten",
+    "register": "general",
+    "pronunciation": "diː ˈlantˌkaʁtn̩",
+    "audio": "1335"
+  },
+  {
+    "meaning": "Poster",
+    "german": "das Plakat",
+    "register": "general",
+    "pronunciation": "das plaˈkaːt",
+    "audio": "1336"
+  },
+  {
+    "meaning": "Posters",
+    "german": "die Plakate",
+    "register": "general",
+    "pronunciation": "diː plaˈkaːtə",
+    "audio": "1337"
+  },
+  {
+    "meaning": "Placard",
+    "german": "das Plakat",
+    "register": "general",
+    "pronunciation": "das plaˈkaːt",
+    "audio": "1338"
+  },
+  {
+    "meaning": "Placards",
+    "german": "die Plakate",
+    "register": "general",
+    "pronunciation": "diː plaˈkaːtə",
+    "audio": "1339"
+  },
+  {
+    "meaning": "Globe",
+    "german": "der Globus",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈɡloːbʊs",
+    "audio": "1340"
+  },
+  {
+    "meaning": "Globes",
+    "german": "die Globen",
+    "register": "general",
+    "pronunciation": "diː ˈɡloːbən",
+    "audio": "1341"
+  },
+  {
+    "meaning": "Waste basket",
+    "german": "der Papierkorb",
+    "register": "general",
+    "pronunciation": "deːɐ̯ paˈpiːɐ̯ˌkɔʁp",
+    "audio": "1342"
+  },
+  {
+    "meaning": "Waste baskets",
+    "german": "die Papierkörbe",
+    "register": "general",
+    "pronunciation": "diː paˈpiːɐ̯ˌkœʁbə",
+    "audio": "1343"
+  },
+  {
+    "meaning": "Pencil case",
+    "german": "die Federmappe",
+    "register": "general",
+    "pronunciation": "diː ˈfeːdɐˌmapə",
+    "audio": "1344"
+  },
+  {
+    "meaning": "Pencil cases",
+    "german": "die Federmappen",
+    "register": "general",
+    "pronunciation": "diː ˈfeːdɐˌmapən",
+    "audio": "1345"
+  },
+  {
+    "meaning": "Set square",
+    "german": "der Winkel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈvɪŋkl̩",
+    "audio": "1346"
+  },
+  {
+    "meaning": "Set squares",
+    "german": "die Winkel",
+    "register": "general",
+    "pronunciation": "diː ˈvɪŋkl̩",
+    "audio": "1347"
+  },
+  {
+    "meaning": "Ruler",
+    "german": "das Lineal",
+    "register": "general",
+    "pronunciation": "das lineˈaːl",
+    "audio": "1348"
+  },
+  {
+    "meaning": "Rulers",
+    "german": "die Lineale",
+    "register": "general",
+    "pronunciation": "diː lineˈaːlə",
+    "audio": "1349"
+  },
+  {
+    "meaning": "Compass",
+    "german": "der Zirkel",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈtsɪʁkl̩",
+    "audio": "1350"
+  },
+  {
+    "meaning": "Compasses",
+    "german": "die Zirkel",
+    "register": "general",
+    "pronunciation": "diː ˈtsɪʁkl̩",
+    "audio": "1351"
+  },
+  {
+    "meaning": "Ballpoint pen",
+    "german": "der Kuli",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkuːli",
+    "audio": "1352"
+  },
+  {
+    "meaning": "Ballpoint pens",
+    "german": "die Kulis",
+    "register": "general",
+    "pronunciation": "diː ˈkuːlis",
+    "audio": "1353"
+  },
+  {
+    "meaning": "Pencil",
+    "german": "der Bleistift",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈblaɪ̯ˌʃtɪft",
+    "audio": "1354"
+  },
+  {
+    "meaning": "Pencils",
+    "german": "die Bleistifte",
+    "register": "general",
+    "pronunciation": "diː ˈblaɪ̯ˌʃtɪftə",
+    "audio": "1355"
+  },
+  {
+    "meaning": "Colored pencil",
+    "german": "der Buntstift",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈbʊntˌʃtɪft",
+    "audio": "1356"
+  },
+  {
+    "meaning": "Colored pencils",
+    "german": "die Buntstifte",
+    "register": "general",
+    "pronunciation": "diː ˈbʊntˌʃtɪftə",
+    "audio": "1357"
+  },
+  {
+    "meaning": "Crayon",
+    "german": "die Malkreide",
+    "register": "general",
+    "pronunciation": "diː ˈmaːlˌkʁaɪ̯də",
+    "audio": "1358"
+  },
+  {
+    "meaning": "Crayons",
+    "german": "die Malkreiden",
+    "register": "general",
+    "pronunciation": "diː ˈmaːlˌkʁaɪ̯dən",
+    "audio": "1359"
+  },
+  {
+    "meaning": "Marker",
+    "german": "der Marker",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈmaʁkɐ",
+    "audio": "1360"
+  },
+  {
+    "meaning": "Markers",
+    "german": "die Marker",
+    "register": "general",
+    "pronunciation": "diː ˈmaʁkɐ",
+    "audio": "1361"
+  },
+  {
+    "meaning": "Sharpener",
+    "german": "der Spitzer",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈʃpɪtsɐ",
+    "audio": "1362"
+  },
+  {
+    "meaning": "Sharpeners",
+    "german": "die Spitzer",
+    "register": "general",
+    "pronunciation": "diː ˈʃpɪtsɐ",
+    "audio": "1363"
+  },
+  {
+    "meaning": "Eraser",
+    "german": "der Radiergummi",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ʁaˈdiːɐ̯ˌɡʊmi",
+    "audio": "1364"
+  },
+  {
+    "meaning": "Erasers",
+    "german": "die Radiergummis",
+    "register": "general",
+    "pronunciation": "diː ʁaˈdiːɐ̯ˌɡʊmis",
+    "audio": "1365"
+  },
+  {
+    "meaning": "Paper clip",
+    "german": "die Büroklammer",
+    "register": "general",
+    "pronunciation": "diː byˈʁoːˌklamɐ",
+    "audio": "1366"
+  },
+  {
+    "meaning": "Paper clips",
+    "german": "die Büroklammern",
+    "register": "general",
+    "pronunciation": "diː byˈʁoːˌklamɐn",
+    "audio": "1367"
+  },
+  {
+    "meaning": "Stapler",
+    "german": "der Tacker",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈtakɐ",
+    "audio": "1368"
+  },
+  {
+    "meaning": "Staplers",
+    "german": "die Tacker",
+    "register": "general",
+    "pronunciation": "diː ˈtakɐ",
+    "audio": "1369"
+  },
+  {
+    "meaning": "Hole puncher",
+    "german": "der Locher",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈlɔxɐ",
+    "audio": "1370"
+  },
+  {
+    "meaning": "Hole punchers",
+    "german": "die Locher",
+    "register": "general",
+    "pronunciation": "diː ˈlɔxɐ",
+    "audio": "1371"
+  },
+  {
+    "meaning": "Scissor",
+    "german": "die Schere",
+    "register": "general",
+    "pronunciation": "diː ˈʃeːʁə",
+    "audio": "1372"
+  },
+  {
+    "meaning": "Scissors",
+    "german": "die Scheren",
+    "register": "general",
+    "pronunciation": "diː ˈʃeːʁən",
+    "audio": "1373"
+  },
+  {
+    "meaning": "Glue",
+    "german": "der Kleber",
+    "register": "general",
+    "pronunciation": "deːɐ̯ ˈkleːbɐ",
+    "audio": "1374"
+  },
+  {
+    "meaning": "Glues",
+    "german": "die Kleber",
+    "register": "general",
+    "pronunciation": "diː ˈkleːbɐ",
+    "audio": "1375"
   }
 
 
-
-
-
 ]
+
 
 
 
