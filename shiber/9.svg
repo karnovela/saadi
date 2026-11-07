@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg9" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#075985"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="20" fill="url(#bg9)"/>
+  <!-- Mazar-e-Quaid Mausoleum Shape -->
+  <path d="M140 180 L140 130 Q200 90 260 130 L260 180 Z" fill="#F8FAFC"/>
+  <path d="M150 180 L150 135 Q200 100 250 135 L250 180 Z" fill="#E2E8F0"/>
+  <rect x="120" y="180" width="160" height="25" fill="#CBD5E1"/>
+  <path d="M185 180 L185 145 Q200 135 215 145 L215 180 Z" fill="#075985"/>
+  <text x="200" y="245" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Karachi</text>
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="14" fill="#BAE6FD" text-anchor="middle">Ich wohne in Karachi</text>
+</svg>
